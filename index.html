@@ -69,18 +69,21 @@ h1{font-weight:500;letter-spacing:-.075em}h1 span{margin-left:20%}.brand{font-we
 #atlas-results>section>h3{font-weight:600;letter-spacing:-1.9px}.route{border-color:var(--ink)}.route strong{font-weight:600;letter-spacing:-.8px}.route::before{letter-spacing:1px}.stats strong{font-weight:500}
 @media(max-width:650px){h1 span{margin-left:12%}.hero-actions a:last-child{padding:12px 15px}.country-jump{padding-left:10px}.atlas-tools nav a{font-size:9px}#atlas-results>section>h3{letter-spacing:-1.3px}}
 
-#theme-toggle{appearance:none;background:transparent;color:var(--ink);border:1px solid var(--ink);padding:7px 10px;font:10px/1.4 monospace;text-transform:uppercase;cursor:pointer}#theme-toggle:hover{background:var(--ink);color:var(--paper)}#theme-toggle:focus-visible{outline:2px solid var(--ink);outline-offset:4px}.masthead-links{align-items:center}
+.theme-toggle{appearance:none;background:transparent;color:var(--ink);border:1px solid var(--ink);padding:7px 10px;font:10px/1.4 monospace;text-transform:uppercase;cursor:pointer}.theme-toggle:hover{background:var(--ink);color:var(--paper)}.theme-toggle:focus-visible{outline:2px solid var(--ink);outline-offset:4px}.masthead-links{align-items:center}
 html[data-theme=dark]{color-scheme:dark;--paper:#191919;--ink:#f3efe8;--muted:#b4b0a9;--line:#3b3a37;--accent:#f3efe8}
 html[data-theme=dark] #atlas-results>section>h3{background:#292927;color:var(--ink)}html[data-theme=dark] #atlas-results>section>h3 .count{color:var(--muted)}html[data-theme=dark] .nocover{background:#2c2c29;color:var(--muted)}html[data-theme=dark] th{border-color:var(--line)}html[data-theme=dark] .route{border-color:#73716b}html[data-theme=dark] .cover img{opacity:.9}html[data-theme=dark] .badge,html[data-theme=dark] .pick{color:var(--muted)}
-@media(max-width:650px){.masthead-links{gap:12px;flex-wrap:wrap;justify-content:flex-end}.masthead-links>a:first-of-type{display:none}#theme-toggle{font-size:9px;padding:6px 8px}.masthead{gap:12px}}
-@media print{#theme-toggle{display:none}html[data-theme=dark]{--paper:white;--ink:black;--muted:#555;--line:#ddd}}
+@media(max-width:650px){.masthead-links{gap:12px;flex-wrap:wrap;justify-content:flex-end}.masthead-links>a:first-of-type{display:none}.theme-toggle{font-size:9px;padding:6px 8px}.masthead{gap:12px}}
+@media print{.theme-toggle{display:none}html[data-theme=dark]{--paper:white;--ink:black;--muted:#555;--line:#ddd}}
 
 /* Quiet country headings in both themes */
 #atlas-results>section>h3{background:transparent;color:var(--ink);font-size:clamp(26px,2.5vw,32px);font-weight:400;letter-spacing:-.6px;text-transform:none;padding:0;margin-bottom:22px;justify-content:flex-start;gap:18px}
 #atlas-results>section>h3 .count{font:10px/1.5 Arial,sans-serif;text-transform:none;letter-spacing:0;color:var(--muted)}
 html[data-theme=dark] #atlas-results>section>h3{background:transparent}
 @media(max-width:650px){#atlas-results>section>h3{font-size:27px;font-weight:400;letter-spacing:-.5px;padding:0;gap:12px}#atlas-results>section>h3 .count{font-size:10px}}
-</style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a href="#reading-routes">Reading routes ↗</a><a href="#region0">The atlas ↗</a></div></div>
+
+.sticky-nav-row{display:flex;align-items:center;gap:16px}.sticky-nav-row nav{flex:1;min-width:0}.sticky-nav-row>.theme-toggle{flex-shrink:0;margin:6px 0;white-space:nowrap}
+@media(max-width:650px){.sticky-nav-row{gap:12px}.sticky-nav-row>.theme-toggle{font-size:9px;padding:6px 8px}}
+</style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a href="#reading-routes">Reading routes ↗</a><a href="#region0">The atlas ↗</a></div></div>
 <header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread<span>Atlas.</span></h1><div class="hero-bottom"><p class="intro">A world of stories, waiting to be discovered. Explore classics, modern voices and contemporary fiction from every corner of the globe.</p><div class="hero-actions"><a href="#atlas-tools">Explore the atlas ↗</a><a href="#reading-routes">Find your next read</a></div></div></header>
 <div class="stats" aria-label="Atlas in numbers"><div><strong>197</strong>literary destinations</div><div><strong>744</strong>novels &amp; novellas</div><div><strong>456</strong>catalogue covers</div></div>
 <div class="note"><strong>Coverage:</strong> 128 destinations have five selections; 69 have fewer. The guide includes 195 countries, with Taiwan and Kosovo as additional literary destinations. Gaps are listed explicitly. A gap means that further suitable titles need to be identified, not that a country lacks a novel tradition.</div>
@@ -184,13 +187,13 @@ html[data-theme=dark] #atlas-results>section>h3{background:transparent}
 <li><a href="https://www.goodreads.com/search?q=Jens+Peter+Jacobsen+Niels+Lyhne&amp;search_type=books" target="_blank" rel="noopener">Niels Lyhne</a><span class="route-author"> — Jens Peter Jacobsen</span></li>
 </ul></div>
 </div></div></details>
-<div class="atlas-tools" id="atlas-tools"><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Jump to country ↓</option></select></label></div><nav aria-label="Browse regions">
+<div class="atlas-tools" id="atlas-tools"><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Jump to country ↓</option></select></label></div><div class="sticky-nav-row"><nav aria-label="Browse regions">
 <a href="#region0">Europe</a>
 <a href="#region1">Asia</a>
 <a href="#region2">Africa</a>
 <a href="#region3">The Americas</a>
 <a href="#region4">Oceania and additional destinations</a>
-<a href="#gaps">Open selections</a><a href="#sources">Sources</a></nav></div><p id="search-status" class="search-status" role="status" aria-live="polite"></p><div class="empty-state" id="empty-state" hidden><strong>No stories found.</strong><p>Try another country, author or book title.</p><button type="button" id="clear-search">Clear search ↗</button></div><div id="atlas-results">
+<a href="#gaps">Open selections</a><a href="#sources">Sources</a></nav><button type="button" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button></div></div><p id="search-status" class="search-status" role="status" aria-live="polite"></p><div class="empty-state" id="empty-state" hidden><strong>No stories found.</strong><p>Try another country, author or book title.</p><button type="button" id="clear-search">Clear search ↗</button></div><div id="atlas-results">
 <h2 id="region0">Europe</h2>
 <section><h3>Albania<span class="count">5/5 selections</span></h3>
 <p class="pick"><strong>Starting point:</strong> Ismail Kadare — <em>The Palace of Dreams</em></p>
@@ -264,8 +267,8 @@ html[data-theme=dark] #atlas-results>section>h3{background:transparent}
 </td></tr>
 <tr><td class="cover">
 <span class="nocover">No matched cover</span>
-</td><td class="book"><strong>Egy egész élet</strong><div class="author">Robert Seethaler</div>
-<div class="links"><a href="https://www.goodreads.com/search?q=Robert+Seethaler+Egy+eg%C3%A9sz+%C3%A9let&amp;search_type=books" target="_blank" rel="noopener">Search Goodreads ↗</a></div></td><td class="reason"><p>Rural life; restrained.</p>
+</td><td class="book"><strong>A Whole Life</strong><div class="author">Robert Seethaler</div>
+<div class="links"><a href="https://www.goodreads.com/search?q=Robert+Seethaler+A+Whole+Life&amp;search_type=books" target="_blank" rel="noopener">Search Goodreads ↗</a></div></td><td class="reason"><p>Rural life; restrained.</p>
 </td></tr>
 </tbody></table>
 </section>
@@ -3359,9 +3362,9 @@ html[data-theme=dark] #atlas-results>section>h3{background:transparent}
 </td></tr>
 <tr><td class="cover">
 <a href="https://openlibrary.org/works/OL5179103W" target="_blank" rel="noopener"><img src="https://covers.openlibrary.org/b/id/4158308-M.jpg?default=false" loading="lazy" width="65" alt="Catalogue cover: Blanket Boy&#x27;s Moon"></a>
-</td><td class="book"><strong>Blanket Boy&#x27;s Moon</strong><div class="author">A. S. Mopeli-Paulus és Peter Lanham</div>
+</td><td class="book"><strong>Blanket Boy&#x27;s Moon</strong><div class="author">A. S. Mopeli-Paulus and Peter Lanham</div>
 <div class="links"><a href="https://www.goodreads.com/book/show/2591940" target="_blank" rel="noopener">Goodreads book page ↗</a></div>
-<div class="links"><a href="https://www.goodreads.com/search?q=A.+S.+Mopeli-Paulus+%C3%A9s+Peter+Lanham+Blanket+Boy%27s+Moon&amp;search_type=books" target="_blank" rel="noopener">Search Goodreads ↗</a></div></td><td class="reason"><p>Tradition; urban life.</p>
+<div class="links"><a href="https://www.goodreads.com/search?q=A.+S.+Mopeli-Paulus+and+Peter+Lanham+Blanket+Boy%27s+Moon&amp;search_type=books" target="_blank" rel="noopener">Search Goodreads ↗</a></div></td><td class="reason"><p>Tradition; urban life.</p>
 </td></tr>
 </tbody></table>
 <p class="gap">Open selection: 2 additional suitable novels still need to be identified.</p>
@@ -4521,8 +4524,8 @@ html[data-theme=dark] #atlas-results>section>h3{background:transparent}
 </td></tr>
 <tr><td class="cover">
 <span class="nocover">No matched cover</span>
-</td><td class="book"><strong>Ashes of Izalco</strong><div class="author">Claribel Alegría és Darwin J. Flakoll</div>
-<div class="links"><a href="https://www.goodreads.com/search?q=Claribel+Alegr%C3%ADa+%C3%A9s+Darwin+J.+Flakoll+Ashes+of+Izalco&amp;search_type=books" target="_blank" rel="noopener">Search Goodreads ↗</a></div></td><td class="reason"><p>Family; historical fiction.</p>
+</td><td class="book"><strong>Ashes of Izalco</strong><div class="author">Claribel Alegría and Darwin J. Flakoll</div>
+<div class="links"><a href="https://www.goodreads.com/search?q=Claribel+Alegr%C3%ADa+and+Darwin+J.+Flakoll+Ashes+of+Izalco&amp;search_type=books" target="_blank" rel="noopener">Search Goodreads ↗</a></div></td><td class="reason"><p>Family; historical fiction.</p>
 </td></tr>
 <tr><td class="cover">
 <span class="nocover">No matched cover</span>
@@ -5262,9 +5265,9 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
 <li><a href="https://www.penguinrandomhouse.com/books/653303/independent-people-by-halldor-laxness-introduction-by-john-freeman/">Independent People — publisher record</a></li>
 </ul><footer>Unread Atlas · An editorial selection of novels and novellas across literary traditions. Cover images and catalogue identifiers: Open Library.</footer></main><script>
 (()=>{
- const themeButton=document.getElementById('theme-toggle');
- function updateThemeButton(){const dark=document.documentElement.dataset.theme==='dark';themeButton.textContent=dark?'Light mode ◑':'Dark mode ◐';themeButton.setAttribute('aria-pressed',String(dark));themeButton.setAttribute('aria-label',dark?'Switch to light mode':'Switch to dark mode')}
- themeButton.addEventListener('click',()=>{const theme=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=theme;try{localStorage.setItem('unread-atlas-theme',theme)}catch{}updateThemeButton()});
+ const themeButtons=[...document.querySelectorAll('.theme-toggle')];
+ function updateThemeButton(){const dark=document.documentElement.dataset.theme==='dark';themeButtons.forEach(themeButton=>{themeButton.textContent=dark?'Light mode ◑':'Dark mode ◐';themeButton.setAttribute('aria-pressed',String(dark));themeButton.setAttribute('aria-label',dark?'Switch to light mode':'Switch to dark mode')})}
+ themeButtons.forEach(themeButton=>themeButton.addEventListener('click',()=>{const theme=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=theme;try{localStorage.setItem('unread-atlas-theme',theme)}catch{}updateThemeButton()}));
  updateThemeButton();
 
  const search=document.getElementById('atlas-search'), jump=document.getElementById('country-jump'),status=document.getElementById('search-status');
