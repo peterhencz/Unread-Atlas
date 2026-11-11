@@ -1,0 +1,26 @@
+{
+  "audit_date": "2026-11-11",
+  "entries": 744,
+  "entries_with_dates": 603,
+  "entries_with_direct_book_or_catalogue_links": 603,
+  "entries_with_matched_edition_records": 587,
+  "unverified_dates": 141,
+  "missing_direct_links": 141,
+  "new_manually_checked_original_years": 9,
+  "previously_present_years": 59,
+  "method": [
+    "Search Open Library by title and author, then retry title-only and translated-title searches.",
+    "Check title and normalized author identity on the work and associated edition records.",
+    "For translated titles indexed under a different work title, require a matching edition title.",
+    "Use the linked edition's publish_date, never the search index's first_publish_year, for Edition labels.",
+    "Add manually checked original years from author, publisher, cultural institution and library sources listed in original-years.json.",
+    "Retain existing dates and Goodreads links; these existing fields were not all independently reverified.",
+    "Mark unresolved dates explicitly and retain search links instead of inventing direct matches."
+  ],
+  "limits": [
+    "Catalogue associations and publication dates are source-reported metadata and can contain errors.",
+    "This is a catalogue metadata audit, not independent inspection of every physical edition or every Goodreads destination.",
+    "The catalogue edition may use another language or printing than the displayed cover.",
+    "The remaining unresolved entries require further bibliographic research."
+  ]
+}

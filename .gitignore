@@ -1,1 +1,6 @@
 .DS_Store
+
+# Resumable bibliography API caches
+/research/catalogue-candidates.json
+/research/editions.json
+/research/__pycache__/
