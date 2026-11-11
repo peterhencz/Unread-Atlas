@@ -4,8 +4,18 @@
 @media(max-width:650px){main{padding:0 18px 32px}.masthead{padding:20px 0}.masthead-links{gap:16px;font-size:9px}.brand{font-size:15px}.hero{padding-top:28px}.eyebrow{font-size:9px}.edition{max-width:95px;text-align:right}h1{font-size:clamp(64px,17vw,110px);margin:40px 0 30px;letter-spacing:-.07em}h1 span{margin-left:15%}.hero-bottom{grid-template-columns:1fr}.hero .intro{font-size:16px;padding:22px 0;max-width:100%}.hero-actions{padding:0 0 24px;border-left:0;justify-content:flex-start;flex-wrap:wrap}.hero-actions a{font-size:10px;padding:12px}.stats strong{font-size:38px;letter-spacing:-2px}.stats>div{font-size:8px;padding:20px 10px 20px 0;letter-spacing:0}.stats>div+div{padding-left:12px}.note{font-size:10px}.routes{grid-template-columns:1fr}.route{padding:23px}.route::before{margin-bottom:20px}h2{font-size:30px;letter-spacing:-1px;margin-top:44px}h3{font-size:21px}.count{font-size:9px}td:first-child,.cover{width:53px}td:nth-child(2),th:nth-child(2){width:42%}.cover img{width:37px;max-height:62px}.nocover{width:37px;min-height:55px;font-size:7px;padding:2px}td{padding:14px 7px}th{padding:10px 7px;font-size:8px}.book strong{font-size:17px}.author{font-size:11px}.reason{font-size:11px}.links{font-size:9px}.badge{font-size:8px}nav a{padding:12px;font-size:9px}}
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}}
 @media print{body{background:white;font-size:11pt}main{max-width:none;padding:0}.masthead,.hero-actions,nav{display:none}.hero{padding:0}h1{font-size:60pt}.route,tr{break-inside:avoid}h3{break-after:avoid}.editorial{display:none}h2[id^=region]{font-size:30pt}}
+
+/* Ink, warm white and vermilion */
+:root{--paper:#faf4ed;--ink:#111111;--muted:#62605c;--line:#c7c1ba;--accent:#f33e32}
+body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;background:var(--paper)}
+h1{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400;letter-spacing:-.065em}h1 span{color:var(--ink)}.brand span{color:var(--accent)}
+.hero-actions a:first-child{background:var(--accent);border-color:var(--accent);color:var(--ink)}.hero-actions a:hover{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.route strong{font:500 25px/1.2 "Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.8px}.book strong{font:500 20px/1.3 "Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.4px}.route::before{color:#a82e26}.pick{background:#f0e8df;border-color:var(--accent)}th,.nocover{background:#eee6dd}.badge{background:#111;color:var(--paper)}
+.atlas-tools{position:sticky;top:0;z-index:20;background:var(--paper);border-block:1px solid var(--ink);margin-top:36px;box-shadow:0 5px 0 #11111108}.tool-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(180px,280px);border-bottom:1px solid var(--ink)}.search-field{display:flex;align-items:center;gap:14px;padding:16px 18px}.search-icon{font:24px/1 Arial;color:var(--accent)}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}input[type=search]{width:100%;min-width:0;border:0;background:transparent;color:var(--ink);font:16px/1.5 "Helvetica Neue",Arial,sans-serif;outline-offset:4px}input::placeholder{color:var(--muted)}.country-jump{padding:0 16px;border-left:1px solid var(--ink);display:flex;align-items:center}.country-jump select{width:100%;min-width:0;padding:16px 0;border:0;background:var(--paper);color:var(--ink);font:11px/1.5 monospace;cursor:pointer}.atlas-tools nav{margin:0;border:0;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:thin}.atlas-tools nav a{flex:0 0 auto;border-bottom:0;padding:12px 15px;font-size:9px}.atlas-tools nav a:last-child{border-right:0}.search-status{font:11px/1.6 monospace;color:var(--muted);margin:14px 0 24px}.empty-state{padding:40px 20px;border:1px solid var(--ink);text-align:center}.empty-state strong{font-size:24px;font-weight:400}.empty-state p{margin:12px auto;font-size:14px}.empty-state button{background:var(--ink);color:var(--paper);border:0;padding:12px 20px;cursor:pointer;font:11px monospace}section,h2[id],#atlas-tools{scroll-margin-top:145px}[hidden]{display:none!important}
+@media(max-width:650px){.tool-row{grid-template-columns:minmax(0,1fr) 132px}.search-field{padding:13px 10px;gap:7px}input[type=search]{font-size:14px}.country-jump{padding:0 9px}.country-jump select{font-size:9px}.atlas-tools nav a{padding:11px;font-size:9px}.atlas-tools{margin-top:28px}section,h2[id]{scroll-margin-top:135px}.book strong{font-size:17px}.route strong{font-size:24px}}
+@media print{.atlas-tools,.search-status,.empty-state{display:none}}
 </style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><a href="#reading-routes">Reading routes ↗</a><a href="#region0">The atlas ↗</a></div></div>
-<header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread<span>Atlas.</span></h1><div class="hero-bottom"><p class="intro">A world of stories, waiting to be discovered. Explore classics, modern voices and contemporary fiction from every corner of the globe.</p><div class="hero-actions"><a href="#region0">Explore the atlas ↗</a><a href="#reading-routes">Find your next read</a></div></div></header>
+<header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread<span>Atlas.</span></h1><div class="hero-bottom"><p class="intro">A world of stories, waiting to be discovered. Explore classics, modern voices and contemporary fiction from every corner of the globe.</p><div class="hero-actions"><a href="#atlas-tools">Explore the atlas ↗</a><a href="#reading-routes">Find your next read</a></div></div></header>
 <div class="stats" aria-label="Atlas in numbers"><div><strong>197</strong>literary destinations</div><div><strong>744</strong>novels &amp; novellas</div><div><strong>456</strong>catalogue covers</div></div>
 <div class="note"><strong>Coverage:</strong> 128 destinations have five selections; 69 have fewer. The guide includes 195 countries, with Taiwan and Kosovo as additional literary destinations. Gaps are listed explicitly. A gap means that further suitable titles need to be identified, not that a country lacks a novel tradition.</div>
 <details class="editorial"><summary>Field notes / About this selection &amp; sources</summary><div class="editorial-content"><h2>About the selection</h2><p>The guide balances literary significance, distinctive narrative voices and a range of reading experiences. Family sagas, psychological fiction, social novels, satire, modernism and speculative writing appear alongside one another. Classics are included as independent discoveries, rather than simply as predecessors of contemporary fiction.</p><p>Where the available literature allows, the selection combines earlier classics, later twentieth-century writing and a contemporary alternative. This is an editorial aim, not a fixed quota: literary histories and translation availability differ substantially between countries. Twenty-five country selections have been revised in this edition; twelve five-title groups include expanded reading notes.</p><p><strong>Country connections:</strong> authors are grouped through origin or cultural affiliation, including diaspora writing. Setting and authorship do not always coincide. Some authors belong to more than one literary tradition; duplicate titles should count only once in a reading challenge.</p><p><strong>Forms and dates:</strong> novels and novellas are included; cycles and trilogies are identified where relevant. Boundaries can be debatable for episodic and autobiographical fiction. Dates, where provided, refer to the original publication or serialisation, not the date of an English edition. Approximate periods are intentionally labelled as such.</p><p><strong>Reading notes:</strong> descriptions identify themes and narrative approaches. Longer notes indicate pacing, form or emotional intensity, rather than quality ratings. A “Starting point” is one possible entry into a country's literature, not a ranking of its books.</p><p><strong>Language and availability:</strong> English titles are used where identified; original titles may remain for works whose English edition requires verification. A title in English does not guarantee current stock. This is a discovery guide, not a fully audited, edition-level bibliography.</p>
@@ -107,13 +117,13 @@
 <li><a href="https://www.goodreads.com/search?q=Marilynne+Robinson+Gilead&amp;search_type=books" target="_blank" rel="noopener">Gilead</a><span class="route-author"> — Marilynne Robinson</span></li>
 <li><a href="https://www.goodreads.com/search?q=Jens+Peter+Jacobsen+Niels+Lyhne&amp;search_type=books" target="_blank" rel="noopener">Niels Lyhne</a><span class="route-author"> — Jens Peter Jacobsen</span></li>
 </ul></div>
-</div><nav>
+</div><div class="atlas-tools" id="atlas-tools"><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Jump to country ↓</option></select></label></div><nav aria-label="Browse regions">
 <a href="#region0">Europe</a>
 <a href="#region1">Asia</a>
 <a href="#region2">Africa</a>
 <a href="#region3">The Americas</a>
 <a href="#region4">Oceania and additional destinations</a>
-<a href="#gaps">Open selections</a><a href="#sources">Sources</a></nav>
+<a href="#gaps">Open selections</a><a href="#sources">Sources</a></nav></div><p id="search-status" class="search-status" role="status" aria-live="polite"></p><div class="empty-state" id="empty-state" hidden><strong>No stories found.</strong><p>Try another country, author or book title.</p><button type="button" id="clear-search">Clear search ↗</button></div><div id="atlas-results">
 <h2 id="region0">Europe</h2>
 <section><h3>Albania<span class="count">5/5 selections</span></h3>
 <p class="pick"><strong>Starting point:</strong> Ismail Kadare — <em>The Palace of Dreams</em></p>
@@ -5165,7 +5175,7 @@
 </td></tr>
 </tbody></table>
 </section>
-<h2 id="gaps">Open selections</h2><p>
+</div><h2 id="gaps">Open selections</h2><p>
 Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monaco (0/5) · Montenegro (3/5) · San Marino (0/5) · Vatican City (0/5) · Azerbaijan (2/5) · Bahrain (1/5) · Bhutan (3/5) · Brunei (1/5) · North Korea (2/5) · Cambodia (2/5) · Qatar (2/5) · Kazakhstan (4/5) · Timor-Leste (0/5) · Laos (0/5) · Maldives (0/5) · Myanmar (4/5) · Mongolia (3/5) · Armenia (2/5) · Tajikistan (1/5) · Turkmenistan (2/5) · Benin (2/5) · Guinea-Bissau (1/5) · Burkina Faso (1/5) · Burundi (2/5) · Comoros (1/5) · Chad (0/5) · South Sudan (1/5) · Djibouti (3/5) · Equatorial Guinea (3/5) · Eritrea (4/5) · Eswatini (0/5) · Gabon (3/5) · Gambia (3/5) · Central African Republic (1/5) · Lesotho (3/5) · Madagascar (2/5) · Malawi (1/5) · Mali (3/5) · Mauritania (2/5) · Namibia (3/5) · Niger (0/5) · Rwanda (3/5) · São Tomé and Príncipe (0/5) · Seychelles (0/5) · Togo (1/5) · Zambia (3/5) · Cabo Verde (2/5) · Bahamas (3/5) · Belize (4/5) · Honduras (1/5) · Panama (1/5) · Paraguay (3/5) · Suriname (3/5) · Fiji (0/5) · Kiribati (0/5) · Marshall Islands (0/5) · Federated States of Micronesia (0/5) · Nauru (0/5) · Palau (0/5) · Papua New Guinea (2/5) · Solomon Islands (1/5) · Tonga (0/5) · Tuvalu (0/5) · Vanuatu (0/5) · Kosovo (3/5)
 </p>
 <h2 id="sources">Sources and verification limits</h2><p>The guide combines literary reference knowledge, reading-world bibliographies and targeted publisher checks. Not every entry has received a separate publisher, genre, translation or availability audit. An Open Library match supports the association of a book with a catalogue record; it does not independently establish national affiliation, genre or editorial quality. Catalogue records can contain errors.</p><ul>
@@ -5183,4 +5193,35 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
 <li><a href="https://academic.macmillan.com/academictrade/9780915308750/thetimeofthedoves/">The Time of the Doves — publisher record</a></li>
 <li><a href="https://www.nyrb.com/products/season-of-migration-to-the-north">Season of Migration to the North — publisher record</a></li>
 <li><a href="https://www.penguinrandomhouse.com/books/653303/independent-people-by-halldor-laxness-introduction-by-john-freeman/">Independent People — publisher record</a></li>
-</ul><footer>Unread Atlas · An editorial selection of novels and novellas across literary traditions. Cover images and catalogue identifiers: Open Library.</footer></main></html>
+</ul><footer>Unread Atlas · An editorial selection of novels and novellas across literary traditions. Cover images and catalogue identifiers: Open Library.</footer></main><script>
+(()=>{
+ const search=document.getElementById('atlas-search'), jump=document.getElementById('country-jump'),status=document.getElementById('search-status');
+ const normalize=value=>value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim();
+ const sections=[...document.querySelectorAll('#atlas-results > section')].map((section,index)=>{
+   section.id='country-'+index;
+   const heading=section.querySelector('h3'), country=heading.childNodes[0].textContent.trim();
+   const rows=[...section.querySelectorAll('tbody tr')].map(row=>({element:row,text:normalize(country+' '+(row.querySelector('.book')?.textContent||row.cells[1]?.textContent||''))}));
+   const option=document.createElement('option'); option.value=section.id;option.textContent=country;jump.append(option);
+   return {element:section,country:normalize(country),rows,notes:[...section.querySelectorAll('.pick,.gap')]};
+ });
+ const sorted=[...jump.options].slice(1).sort((a,b)=>a.textContent.localeCompare(b.textContent));sorted.forEach(option=>jump.append(option));
+ const regions=[...document.querySelectorAll('#atlas-results > h2')].map(heading=>{let next=heading.nextElementSibling,group=[];while(next&&next.tagName!=='H2'){if(next.tagName==='SECTION')group.push(next);next=next.nextElementSibling}return {heading,group}});
+ function filter(){
+  const query=normalize(search.value),terms=query.split(' ').filter(Boolean);let countries=0,books=0;
+  for(const item of sections){let visible=0;const countryMatch=terms.every(term=>item.country.includes(term));
+   for(const row of item.rows){const match=terms.every(term=>row.text.includes(term));row.element.hidden=!match;if(match)visible++}
+   const show=!query||visible>0||countryMatch;item.element.hidden=!show;
+   const table=item.element.querySelector('table');if(table)table.hidden=visible===0;
+   item.notes.forEach(note=>note.hidden=!!query&&!countryMatch);
+   if(show){countries++;books+=visible}
+  }
+  regions.forEach(({heading,group})=>heading.hidden=group.every(section=>section.hidden));
+  document.getElementById('empty-state').hidden=countries!==0;
+  status.textContent=query?`${books} ${books===1?'book':'books'} · ${countries} ${countries===1?'destination':'destinations'} matching “${search.value.trim()}”`:`${books} books · ${countries} destinations / Search the atlas`;
+ }
+ search.addEventListener('input',filter);
+ document.getElementById('clear-search').addEventListener('click',()=>{search.value='';filter();search.focus()});
+ jump.addEventListener('change',()=>{if(!jump.value)return;search.value='';filter();const target=document.getElementById(jump.value);target.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});target.querySelector('h3').setAttribute('tabindex','-1');target.querySelector('h3').focus({preventScroll:true});jump.value=''});
+ filter();
+})();
+</script></html>
