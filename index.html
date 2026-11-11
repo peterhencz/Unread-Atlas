@@ -74,6 +74,12 @@ html[data-theme=dark]{color-scheme:dark;--paper:#191919;--ink:#f3efe8;--muted:#b
 html[data-theme=dark] #atlas-results>section>h3{background:#292927;color:var(--ink)}html[data-theme=dark] #atlas-results>section>h3 .count{color:var(--muted)}html[data-theme=dark] .nocover{background:#2c2c29;color:var(--muted)}html[data-theme=dark] th{border-color:var(--line)}html[data-theme=dark] .route{border-color:#73716b}html[data-theme=dark] .cover img{opacity:.9}html[data-theme=dark] .badge,html[data-theme=dark] .pick{color:var(--muted)}
 @media(max-width:650px){.masthead-links{gap:12px;flex-wrap:wrap;justify-content:flex-end}.masthead-links>a:first-of-type{display:none}#theme-toggle{font-size:9px;padding:6px 8px}.masthead{gap:12px}}
 @media print{#theme-toggle{display:none}html[data-theme=dark]{--paper:white;--ink:black;--muted:#555;--line:#ddd}}
+
+/* Quiet country headings in both themes */
+#atlas-results>section>h3{background:transparent;color:var(--ink);font-size:clamp(26px,2.5vw,32px);font-weight:400;letter-spacing:-.6px;text-transform:none;padding:0;margin-bottom:22px;justify-content:flex-start;gap:18px}
+#atlas-results>section>h3 .count{font:10px/1.5 Arial,sans-serif;text-transform:none;letter-spacing:0;color:var(--muted)}
+html[data-theme=dark] #atlas-results>section>h3{background:transparent}
+@media(max-width:650px){#atlas-results>section>h3{font-size:27px;font-weight:400;letter-spacing:-.5px;padding:0;gap:12px}#atlas-results>section>h3 .count{font-size:10px}}
 </style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a href="#reading-routes">Reading routes ↗</a><a href="#region0">The atlas ↗</a></div></div>
 <header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread<span>Atlas.</span></h1><div class="hero-bottom"><p class="intro">A world of stories, waiting to be discovered. Explore classics, modern voices and contemporary fiction from every corner of the globe.</p><div class="hero-actions"><a href="#atlas-tools">Explore the atlas ↗</a><a href="#reading-routes">Find your next read</a></div></div></header>
 <div class="stats" aria-label="Atlas in numbers"><div><strong>197</strong>literary destinations</div><div><strong>744</strong>novels &amp; novellas</div><div><strong>456</strong>catalogue covers</div></div>
