@@ -83,6 +83,13 @@ html[data-theme=dark] #atlas-results>section>h3{background:transparent}
 
 .sticky-nav-row{display:flex;align-items:center;gap:16px}.sticky-nav-row nav{flex:1;min-width:0}.sticky-nav-row>.theme-toggle{flex-shrink:0;margin:6px 0;white-space:nowrap}
 @media(max-width:650px){.sticky-nav-row{gap:12px}.sticky-nav-row>.theme-toggle{font-size:9px;padding:6px 8px}}
+
+@media(max-width:650px){.theme-toggle,.sticky-nav-row>.theme-toggle{min-height:44px;min-width:88px;font-size:10px;padding:10px}.sticky-nav-row{gap:12px}.sticky-nav-row>.theme-toggle{margin:4px 0}.atlas-tools nav a{display:flex;align-items:center;min-height:44px}.search-field input[type=search]{font-size:16px}.country-jump select{font-size:16px;min-height:48px;padding:10px 0}.tool-row{grid-template-columns:minmax(0,1fr) 130px;gap:10px}.country-jump{padding-left:10px}section,h2[id]{scroll-margin-top:150px}}
+
+.sticky-nav-row>.theme-toggle{width:44px;height:44px;min-width:44px;min-height:44px;padding:0;font:22px/1 Arial,sans-serif;border:0;display:grid;place-items:center}.sticky-nav-row>.theme-toggle:hover{background:var(--ink);color:var(--paper)}
+
+.author{font-size:15px;line-height:1.5;margin:9px 0 0;color:var(--ink)}.links{margin-top:18px;line-height:1.9}
+@media(max-width:650px){.author{font-size:14px;line-height:1.5;margin-top:8px}.links{margin-top:16px}}
 </style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a href="#reading-routes">Reading routes ↗</a><a href="#region0">The atlas ↗</a></div></div>
 <header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread<span>Atlas.</span></h1><div class="hero-bottom"><p class="intro">A world of stories, waiting to be discovered. Explore classics, modern voices and contemporary fiction from every corner of the globe.</p><div class="hero-actions"><a href="#atlas-tools">Explore the atlas ↗</a><a href="#reading-routes">Find your next read</a></div></div></header>
 <div class="stats" aria-label="Atlas in numbers"><div><strong>197</strong>literary destinations</div><div><strong>744</strong>novels &amp; novellas</div><div><strong>456</strong>catalogue covers</div></div>
@@ -187,7 +194,7 @@ html[data-theme=dark] #atlas-results>section>h3{background:transparent}
 <li><a href="https://www.goodreads.com/search?q=Jens+Peter+Jacobsen+Niels+Lyhne&amp;search_type=books" target="_blank" rel="noopener">Niels Lyhne</a><span class="route-author"> — Jens Peter Jacobsen</span></li>
 </ul></div>
 </div></div></details>
-<div class="atlas-tools" id="atlas-tools"><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Jump to country ↓</option></select></label></div><div class="sticky-nav-row"><nav aria-label="Browse regions">
+<div class="atlas-tools" id="atlas-tools"><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Countries ↓</option></select></label></div><div class="sticky-nav-row"><nav aria-label="Browse regions">
 <a href="#region0">Europe</a>
 <a href="#region1">Asia</a>
 <a href="#region2">Africa</a>
@@ -5266,7 +5273,7 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
 </ul><footer>Unread Atlas · An editorial selection of novels and novellas across literary traditions. Cover images and catalogue identifiers: Open Library.</footer></main><script>
 (()=>{
  const themeButtons=[...document.querySelectorAll('.theme-toggle')];
- function updateThemeButton(){const dark=document.documentElement.dataset.theme==='dark';themeButtons.forEach(themeButton=>{themeButton.textContent=dark?'Light mode ◑':'Dark mode ◐';themeButton.setAttribute('aria-pressed',String(dark));themeButton.setAttribute('aria-label',dark?'Switch to light mode':'Switch to dark mode')})}
+ function updateThemeButton(){const dark=document.documentElement.dataset.theme==='dark';themeButtons.forEach(themeButton=>{themeButton.textContent=themeButton.closest('.sticky-nav-row')?(dark?'☀':'☾'):dark?'Light mode ◑':'Dark mode ◐';themeButton.setAttribute('aria-pressed',String(dark));themeButton.setAttribute('aria-label',dark?'Switch to light mode':'Switch to dark mode')})}
  themeButtons.forEach(themeButton=>themeButton.addEventListener('click',()=>{const theme=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=theme;try{localStorage.setItem('unread-atlas-theme',theme)}catch{}updateThemeButton()}));
  updateThemeButton();
 
