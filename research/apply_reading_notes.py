@@ -88,3 +88,8 @@ s=s.replace('</style>',css+'</style>',1)
 if '--dry-run' not in sys.argv:p.write_text(s)
 (Path('/tmp/unread-atlas-notes-preview.json') if '--dry-run' in sys.argv else R/'reading-notes-audit.json').write_text(json.dumps(dict(checked_at='2026-11-18',method='Short quoted synopsis excerpts and thematic tags from matched book pages, or minimal summaries of edition subjects. Automatically extracted and source-linked, not individually reviewed literary judgments.',entries=audit),ensure_ascii=False,indent=2)+'\n')
 print('Notes:',sum(v['status']=='source_based_thematic_note' for v in audit),'pending:',sum(v['status']=='awaiting_source_verification' for v in audit))
+
+# Preserve reviewed editorial text when regenerating legacy extraction notes.
+if "--dry-run" not in sys.argv and (R/"editorial-summaries.json").exists():
+ from apply_editorial_summaries import run as apply_editorial_summaries
+ apply_editorial_summaries()

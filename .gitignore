@@ -8,3 +8,5 @@
 # Raw source text remains local; publish only short derived notes and source URLs.
 /research/reading-note-source-cache.json
 /research/verified-book-pages.json
+
+/research/editorial-source-cache.json

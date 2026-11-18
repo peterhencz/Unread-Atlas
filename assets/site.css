@@ -648,3 +648,15 @@ h2[id^=region]{font-size:38px;font-weight:var(--font-heading);line-height:1.2;le
 .mobile-control .close-control-icon{display:none}
 .mobile-control[aria-expanded=true]>svg:first-child{display:none}
 .mobile-control[aria-expanded=true]>.close-control-icon{display:block}
+/* Reserved cover space prevents movement while lazy images load. */
+#atlas-results .cover-frame{display:block;position:relative;width:128px;height:194px;background:linear-gradient(140deg,var(--cover-start,#a7b8ee),var(--cover-end,#eadbeb));border-radius:1px;overflow:hidden}
+#atlas-results .cover-frame img{display:block;max-width:100%;max-height:100%;width:100%;height:100%;object-fit:contain;object-position:top left;opacity:1;transition:opacity .18s ease}
+#atlas-results .cover-frame.is-loading img{opacity:0}
+#atlas-results .cover-frame.is-loaded{background:transparent}
+#atlas-results .cover-frame img[hidden]{display:none}
+@media(min-width:1100px) and (max-width:1300px){#atlas-results .cover-frame{width:108px;height:170px}}
+@media(max-width:900px){#atlas-results .cover-frame{width:104px;height:168px}}
+@media(max-width:650px){#atlas-results .cover-frame{width:86px;height:136px}}
+@media(max-width:350px){#atlas-results .cover-frame{width:76px;height:122px}}
+@media(prefers-reduced-motion:reduce){#atlas-results .cover-frame img{transition:none}}
+@media print{#atlas-results .cover-frame{width:80px;height:124px}}
