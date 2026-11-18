@@ -7400,5 +7400,218 @@
     "meta": "\n",
     "work": [],
     "goodreads": []
+  },
+  {
+    "country": "Liechtenstein",
+    "title": "Für immer die Alpen",
+    "author": "Benjamin Quaderer",
+    "meta": "",
+    "work": [
+      "https://www.new-books-in-german.com/recommendations/the-alps-are-forever/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/50990983"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Monaco",
+    "title": "La dame des brumes",
+    "author": "Patrice Woolley",
+    "meta": "",
+    "work": [
+      "https://editions-exaequo.com/livres/la-dame-des-brumes-de-patrice-woolley/"
+    ],
+    "goodreads": [],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "San Marino",
+    "title": "Androceo. Storia di virus e di stelle",
+    "author": "Milena Ercolani",
+    "meta": "",
+    "work": [
+      "https://www.ibs.it/androceo-storia-di-virus-di-libro-milena-ercolani/e/9788872111376"
+    ],
+    "goodreads": [],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Timor-Leste",
+    "title": "Requiem para o navegador solitário",
+    "author": "Luís Cardoso",
+    "meta": "",
+    "work": [
+      "https://www.bertrand.pt/livro/requiem-para-o-navegador-solitario-luis-cardoso/190125"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/21458445"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Laos",
+    "title": "Pick a Color",
+    "author": "Souvankham Thammavongsa",
+    "meta": "",
+    "work": [
+      "https://www.hbgacademic.com/titles/souvankham-thammavongsa/pick-a-color/9780316422178/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/223296091"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Maldives",
+    "title": "Lifestyle in the Countryside",
+    "author": "Ali Hussain (Naifaru)",
+    "meta": "",
+    "work": [
+      "https://www.irci.jp/rdb/item/13605"
+    ],
+    "goodreads": [],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Chad",
+    "title": "La phalène des collines",
+    "author": "Koulsy Lamko",
+    "meta": "",
+    "work": [
+      "https://www.ibuka-france.org/ouvrage/la-phalene-des-collines/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/6451069"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Eswatini",
+    "title": "Pains of a Maid",
+    "author": "Sarah Mkhonza",
+    "meta": "",
+    "work": [
+      "https://www.goodreads.com/book/show/6381124"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/6381124"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Niger",
+    "title": "Sarraounia",
+    "author": "Abdoulaye Mamani",
+    "meta": "",
+    "work": [
+      "https://www.editions-harmattan.fr/catalogue/livre/sarraounia/73643"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/25965863"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "title": "15 Dias de Regresso",
+    "author": "Olinda Beja",
+    "meta": "",
+    "work": [
+      "https://www.wook.pt/livro/15-dias-de-regresso-olinda-beja/193620"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/17699840"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Seychelles",
+    "title": "Kolony",
+    "author": "Glynn Burridge",
+    "meta": "",
+    "work": [
+      "https://www.goodreads.com/book/show/13575898"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/13575898"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Fiji",
+    "title": "Moving Through the Streets",
+    "author": "Joseph C. Veramu",
+    "meta": "",
+    "work": [
+      "https://openlibrary.org/books/OL9198512M"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/4338210"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Fiji",
+    "title": "The Wounded Sea",
+    "author": "Satendra Nandan",
+    "meta": "",
+    "work": [
+      "https://books.google.com/books/about/The_Wounded_Sea.html?id=S1DIOwAACAAJ"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/2334429"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Tonga",
+    "title": "Kisses in the Nederends",
+    "author": "Epeli Hauʻofa",
+    "meta": "",
+    "work": [
+      "https://uhpress.hawaii.edu/title/kisses-in-the-nederends/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/1942144"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Vanuatu",
+    "title": "Tôghàn",
+    "author": "Marcel Melthérorong",
+    "meta": "",
+    "work": [
+      "https://www.alliancefr.vu/en/litterature/175-meltherorong-marcel"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/41131960"
+    ],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Vanuatu",
+    "title": "Nagaemas",
+    "author": "Marcel Melthérorong",
+    "meta": "",
+    "work": [
+      "https://caledolivres.nc/fr/livres-du-pacifique/8883-nagaemas-9791092893007.html"
+    ],
+    "goodreads": [],
+    "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Marshall Islands",
+    "title": "Melal: A Novel of the Pacific",
+    "author": "Robert Barclay",
+    "meta": "",
+    "work": [
+      "https://uhpress.hawaii.edu/title/melal-a-novel-of-the-pacific/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/411314"
+    ],
+    "audit": "research/empty-country-additions.json"
   }
 ]

@@ -534,3 +534,8 @@ h2[id^=region]{font-size:38px;font-weight:var(--font-heading);line-height:1.2;le
 .route-external{display:block;width:fit-content;font-size:11px;color:var(--muted);margin:3px 0 12px;text-decoration:none}
 .route-external:hover{color:var(--accent)}
 @media(max-width:650px){.guide-stats{gap:12px}.guide-stats strong{font-size:28px}.guide-stats span{font-size:11px}.info-page .route{scroll-margin-top:130px}}
+/* Language and provenance for the newly researched country selections. */
+.book-language{margin-top:8px;font-size:11px;line-height:1.6;color:var(--muted)}
+.country-connection a{white-space:nowrap}
+.country-research{scroll-margin-top:100px;margin-bottom:36px}
+@media(max-width:650px){.country-research{scroll-margin-top:130px}}

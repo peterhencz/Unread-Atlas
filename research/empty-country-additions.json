@@ -1,0 +1,1385 @@
+{
+  "checked_at": "2026-11-18",
+  "scope": "The 21 destinations with zero selections before this pass.",
+  "method": "Manual title, author, form, date and country-connection review. Dates describe the linked edition. Original-language titles are retained unless a sourced English catalogue title is used. No claim of English translation availability. Short notes are original paraphrases of the linked sources. Country affiliations can include diaspora and sustained residence; these are explicitly distinguished from ancestry. Unresolved means no eligible match verified in this pass, not a claim that no novels exist. ISBN alone is not enough to accept an API result.",
+  "entries": [
+    {
+      "country": "Liechtenstein",
+      "title": "Für immer die Alpen",
+      "author": "Benjamin Quaderer",
+      "year": 2020,
+      "date_kind": "Edition",
+      "record_source": "https://www.new-books-in-german.com/recommendations/the-alps-are-forever/",
+      "note": "A fugitive whistle-blower tells his story against Liechtenstein’s secretive financial world.",
+      "tags": [
+        "Money & power",
+        "Identity"
+      ],
+      "country_connection": "Grew up in Liechtenstein; identifies his literary connection with the country.",
+      "country_connection_source": "https://www.new-books-in-german.com/the-great-liechtensteinian-novel/",
+      "language": "German",
+      "isbn": null,
+      "original_title": "Für immer die Alpen",
+      "additional_sources": [
+        "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/members-of-the-committee-of-experts/-/asset_publisher/bPhwDIYOLhR7/content/benjamin-quaderer"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/search.json?title=F%C3%BCr+immer+die+Alpen&author=Benjamin+Quaderer&limit=3&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cedition_key",
+        "candidates": [
+          {
+            "author_name": [
+              "Benjamin Quaderer"
+            ],
+            "edition_key": [
+              "OL58430245M"
+            ],
+            "key": "/works/OL42885628W",
+            "title": "Für immer die Alpen"
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/50990983",
+      "catalogue_match": {
+        "title": "Für immer die Alpen",
+        "source": "https://openlibrary.org/works/OL42885628W"
+      },
+      "cover_candidate": {
+        "url": "https://www.new-books-in-german.com/wp-content/uploads/2020/03/Quaderer_Fuer_immer_die_Alpen-939x1500.jpg",
+        "source": "https://www.new-books-in-german.com/recommendations/the-alps-are-forever/",
+        "provider": "Book reference / publisher / bookseller"
+      },
+      "cover": {
+        "path": "assets/covers/country-99a81781e694b4.jpg",
+        "width": 939,
+        "height": 1500,
+        "url": "https://www.new-books-in-german.com/wp-content/uploads/2020/03/Quaderer_Fuer_immer_die_Alpen-939x1500.jpg",
+        "source": "https://www.new-books-in-german.com/recommendations/the-alps-are-forever/"
+      }
+    },
+    {
+      "country": "Monaco",
+      "title": "La dame des brumes",
+      "author": "Patrice Woolley",
+      "year": 2016,
+      "date_kind": "Edition",
+      "record_source": "https://editions-exaequo.com/livres/la-dame-des-brumes-de-patrice-woolley/",
+      "note": "A man in despair encounters an unexpected possibility of love.",
+      "tags": [
+        "Love",
+        "Second chances"
+      ],
+      "country_connection": "Monaco-based author, also identified as Monégasque by local literary coverage.",
+      "country_connection_source": "https://lagazettedemonaco.com/en/news/art-culture/et-que-la-vague-memporte-le-nouveau-roman-de-patrice-woolley-en",
+      "language": "French",
+      "isbn": "9782359628074",
+      "original_title": null,
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9782359628074&format=json&jscmd=data",
+        "candidates": []
+      },
+      "goodreads": null
+    },
+    {
+      "country": "San Marino",
+      "title": "Androceo. Storia di virus e di stelle",
+      "author": "Milena Ercolani",
+      "year": 2020,
+      "date_kind": "Edition",
+      "record_source": "https://www.ibs.it/androceo-storia-di-virus-di-libro-milena-ercolani/e/9788872111376",
+      "note": "A speculative future shaped by women’s government and environmental concerns.",
+      "tags": [
+        "Speculative fiction",
+        "Environment"
+      ],
+      "country_connection": "Born in San Marino and active in its literary life.",
+      "country_connection_source": "https://www.themodernnovel.org/europe/w-europe/san-marino/ercolani/",
+      "language": "Italian",
+      "isbn": "9788872111376",
+      "original_title": null,
+      "additional_sources": [
+        "https://www.youtube.com/watch?v=ZDHp0FYm4VA"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9788872111376&format=json&jscmd=data",
+        "candidates": []
+      },
+      "goodreads": null
+    },
+    {
+      "country": "Timor-Leste",
+      "title": "Requiem para o navegador solitário",
+      "author": "Luís Cardoso",
+      "year": 2007,
+      "date_kind": "Edition",
+      "record_source": "https://www.bertrand.pt/livro/requiem-para-o-navegador-solitario-luis-cardoso/190125",
+      "note": "A young woman’s journey intersects with Timor’s colonial history and approaching war.",
+      "tags": [
+        "Colonial history",
+        "Displacement"
+      ],
+      "country_connection": "Born in Cailaco, Timor-Leste; writes from the Timorese diaspora.",
+      "country_connection_source": "https://mertinwitt-litag.de/portfolio-items/luis-cardoso/",
+      "language": "Portuguese",
+      "isbn": null,
+      "original_title": null,
+      "additional_sources": [
+        "https://revistas.usp.br/crioula/pt_BR/article/view/55351"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/search.json?title=Requiem+para+o+navegador+solit%C3%A1rio&author=Lu%C3%ADs+Cardoso&limit=3&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cedition_key",
+        "candidates": [
+          {
+            "author_name": [
+              "Luís Cardoso"
+            ],
+            "cover_i": 6922541,
+            "edition_key": [
+              "OL23212229M",
+              "OL44920567M"
+            ],
+            "key": "/works/OL12975011W",
+            "title": "Requiem para o navegador solitário"
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/21458445",
+      "catalogue_match": {
+        "title": "Requiem para o navegador solitário",
+        "source": "https://openlibrary.org/works/OL12975011W"
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/6922541-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL12975011W",
+        "provider": "Open Library"
+      },
+      "cover": {
+        "path": "assets/covers/country-d98c794e0762f3.jpg",
+        "width": 200,
+        "height": 304,
+        "url": "https://covers.openlibrary.org/b/id/6922541-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL12975011W"
+      }
+    },
+    {
+      "country": "Laos",
+      "title": "Pick a Color",
+      "author": "Souvankham Thammavongsa",
+      "year": 2025,
+      "date_kind": "Edition",
+      "record_source": "https://www.hbgacademic.com/titles/souvankham-thammavongsa/pick-a-color/9780316422178/",
+      "note": "One day in a nail salon reveals the distance between service work and a worker’s inner life.",
+      "tags": [
+        "Work & class",
+        "Identity"
+      ],
+      "country_connection": "Lao-Canadian diaspora author, born in a Lao refugee camp in Thailand; this is not a Laos-set novel.",
+      "country_connection_source": "https://www.hbgacademic.com/titles/souvankham-thammavongsa/pick-a-color/9780316422178/",
+      "language": "English",
+      "isbn": "9780316422178",
+      "original_title": null,
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780316422178&format=json&jscmd=data",
+        "candidates": []
+      },
+      "goodreads": "https://www.goodreads.com/book/show/223296091",
+      "cover_candidate": {
+        "url": "https://www.hbgacademic.com/wp-content/uploads/2025/12/9780316422178.jpg?w=424",
+        "source": "https://www.hbgacademic.com/titles/souvankham-thammavongsa/pick-a-color/9780316422178/",
+        "provider": "Book reference / publisher / bookseller"
+      },
+      "cover": {
+        "path": "assets/covers/country-80df8bcd3f3e6c.jpg",
+        "width": 424,
+        "height": 640,
+        "url": "https://www.hbgacademic.com/wp-content/uploads/2025/12/9780316422178.jpg?w=424",
+        "source": "https://www.hbgacademic.com/titles/souvankham-thammavongsa/pick-a-color/9780316422178/"
+      }
+    },
+    {
+      "country": "Maldives",
+      "title": "Lifestyle in the Countryside",
+      "author": "Ali Hussain (Naifaru)",
+      "year": 1994,
+      "date_kind": "Edition",
+      "record_source": "https://www.irci.jp/rdb/item/13605",
+      "note": "Island officials’ rivalries expose tensions in everyday Maldivian community life.",
+      "tags": [
+        "Island life",
+        "Power & society"
+      ],
+      "country_connection": "Maldivian novel documented by the National Centre for Cultural Heritage contribution to IRCI.",
+      "country_connection_source": "https://www.irci.jp/rdb/item/13605",
+      "language": "Dhivehi",
+      "isbn": "9991571663",
+      "original_title": "Rah'fushuge Dhiriulhun",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9991571663&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL13254999M/Being_a_Single_Parent",
+            "key": "/books/OL13254999M",
+            "title": "Being a Single Parent",
+            "identifiers": {
+              "isbn_10": [
+                "9991571663"
+              ],
+              "isbn_13": [
+                "9789991571669"
+              ],
+              "openlibrary": [
+                "OL13254999M"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Ballantine Books"
+              }
+            ],
+            "publish_date": "May 1991"
+          }
+        ]
+      },
+      "goodreads": null,
+      "rejected_catalogue_candidates": [
+        {
+          "title": "Being a Single Parent",
+          "reason": "ISBN lookup returned a different title; no metadata or image imported."
+        }
+      ]
+    },
+    {
+      "country": "Chad",
+      "title": "La phalène des collines",
+      "author": "Koulsy Lamko",
+      "year": 2002,
+      "date_kind": "Edition",
+      "record_source": "https://www.ibuka-france.org/ouvrage/la-phalene-des-collines/",
+      "note": "A novel addressing the aftermath of the genocide in Rwanda.",
+      "tags": [
+        "Memory",
+        "Violence & aftermath"
+      ],
+      "country_connection": "Chadian author in exile; the novel’s setting is Rwanda.",
+      "country_connection_source": "https://jacquelinebethelmougoue.com/wp-content/uploads/2021/10/lamko-koulsy.pdf",
+      "language": "French",
+      "isbn": "9782842613341",
+      "original_title": null,
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9782842613341&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL3380241M/La_phalène_des_collines",
+            "key": "/books/OL3380241M",
+            "title": "La phalène des collines",
+            "subtitle": "roman",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL1421053A/Koulsy_Lamko",
+                "name": "Koulsy Lamko"
+              }
+            ],
+            "number_of_pages": 215,
+            "pagination": "215 p. ;",
+            "by_statement": "Koulsy Lamko.",
+            "identifiers": {
+              "goodreads": [
+                "6451069"
+              ],
+              "isbn_10": [
+                "2842613341"
+              ],
+              "lccn": [
+                "2004545311"
+              ],
+              "oclc": [
+                "50128110"
+              ],
+              "openlibrary": [
+                "OL3380241M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "PQ3989.2.L268 P43 2002"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Serpent à plumes"
+              }
+            ],
+            "publish_places": [
+              {
+                "name": "Paris"
+              }
+            ],
+            "publish_date": "2002",
+            "subjects": [
+              {
+                "name": "Fiction",
+                "url": "https://openlibrary.org/subjects/fiction"
+              },
+              {
+                "name": "History",
+                "url": "https://openlibrary.org/subjects/history"
+              },
+              {
+                "name": "Rwanda Civil War, 1994",
+                "url": "https://openlibrary.org/subjects/rwanda_civil_war,_1994"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Rwanda",
+                "url": "https://openlibrary.org/subjects/place:rwanda"
+              }
+            ],
+            "subject_times": [
+              {
+                "name": "Civil War, 1994",
+                "url": "https://openlibrary.org/subjects/time:civil_war,_1994"
+              }
+            ],
+            "notes": "Originally published: Butare, Rwanda : Editions Kuljaama, 2000.",
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/2173915-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/2173915-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/2173915-L.jpg"
+            }
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/6451069",
+      "catalogue_match": {
+        "title": "La phalène des collines",
+        "source": "http://openlibrary.org/books/OL3380241M/La_phalène_des_collines"
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/2173915-L.jpg",
+        "source": "http://openlibrary.org/books/OL3380241M/La_phalène_des_collines",
+        "provider": "Open Library"
+      },
+      "cover": {
+        "path": "assets/covers/country-f92d15a1558ed2.jpg",
+        "width": 297,
+        "height": 475,
+        "url": "https://covers.openlibrary.org/b/id/2173915-L.jpg",
+        "source": "http://openlibrary.org/books/OL3380241M/La_phalène_des_collines"
+      }
+    },
+    {
+      "country": "Eswatini",
+      "title": "Pains of a Maid",
+      "author": "Sarah Mkhonza",
+      "year": 1989,
+      "date_kind": "Edition",
+      "record_source": "https://www.goodreads.com/book/show/6381124",
+      "note": "An interracial relationship faces apartheid law and social barriers.",
+      "tags": [
+        "Love",
+        "Apartheid"
+      ],
+      "country_connection": "Swazi writer and former University of Swaziland professor.",
+      "country_connection_source": "https://lsa.umich.edu/content/dam/bearriver-assets/BearRiverDocuments/BRReview-BackIssues/BRR_2006.pdf",
+      "language": "English",
+      "isbn": "9780333496909",
+      "original_title": null,
+      "additional_sources": [
+        "https://www.macmillaneducation.co.sz/download/pricelists/Pacesetters%2C%20Hodder%20and%20Mactracks%20Readers.doc%202020-%202021.pdf"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780333496909&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL10548998M/Pains_of_a_Maid",
+            "key": "/books/OL10548998M",
+            "title": "Pains of a Maid",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL3460336A/A._Mkhonza",
+                "name": "A. Mkhonza"
+              }
+            ],
+            "number_of_pages": 96,
+            "weight": "2.9 ounces",
+            "identifiers": {
+              "goodreads": [
+                "6381124"
+              ],
+              "isbn_10": [
+                "0333496906"
+              ],
+              "isbn_13": [
+                "9780333496909"
+              ],
+              "openlibrary": [
+                "OL10548998M"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Macmillan Education Ltd"
+              }
+            ],
+            "publish_date": "April 12, 1989",
+            "notes": "Pacesetters"
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/6381124",
+      "catalogue_warning": "Open Library abbreviates the author incorrectly as A. Mkhonza; publisher ISBN and Goodreads identify Sarah Mkhonza. No cover imported."
+    },
+    {
+      "country": "Niger",
+      "title": "Sarraounia",
+      "author": "Abdoulaye Mamani",
+      "year": 1980,
+      "date_kind": "Edition",
+      "record_source": "https://www.editions-harmattan.fr/catalogue/livre/sarraounia/73643",
+      "note": "A queen resists a French colonial expedition in what is now Niger.",
+      "tags": [
+        "Resistance",
+        "Colonial history"
+      ],
+      "country_connection": "Nigerien author whose novel reworks the history of the queen of Lougou.",
+      "country_connection_source": "https://thalim.cnrs.fr/publications-et-productions/articles/sarraounia-une-reine-africaine-entre-histoire-et-mythe-litteraire-niger-1899-2010/",
+      "language": "French",
+      "isbn": "9782858021567",
+      "original_title": null,
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9782858021567&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL4169395M/Sarraounia",
+            "key": "/books/OL4169395M",
+            "title": "Sarraounia",
+            "subtitle": "le drame de la reine magicienne : roman",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL1676525A/Abdoulaye_Mamani",
+                "name": "Abdoulaye Mamani"
+              }
+            ],
+            "number_of_pages": 159,
+            "pagination": "159 p. ;",
+            "by_statement": "Abdoulaye Mamani.",
+            "identifiers": {
+              "librarything": [
+                "4215541"
+              ],
+              "isbn_10": [
+                "2858021562"
+              ],
+              "lccn": [
+                "80152079"
+              ],
+              "oclc": [
+                "17035124"
+              ],
+              "openlibrary": [
+                "OL4169395M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "MLCS 85/12644 (P)",
+                "PQ3989.2.M25 S37 1980",
+                "PQ3989.2.M25 S37 1989"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "L'Harmattan"
+              }
+            ],
+            "publish_places": [
+              {
+                "name": "Paris"
+              }
+            ],
+            "publish_date": "1980",
+            "subjects": [
+              {
+                "name": "French fiction",
+                "url": "https://openlibrary.org/subjects/french_fiction"
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/14402533-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/14402533-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/14402533-L.jpg"
+            }
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/25965863",
+      "catalogue_match": {
+        "title": "Sarraounia",
+        "source": "http://openlibrary.org/books/OL4169395M/Sarraounia"
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/14402533-L.jpg",
+        "source": "http://openlibrary.org/books/OL4169395M/Sarraounia",
+        "provider": "Open Library"
+      },
+      "cover": {
+        "path": "assets/covers/country-12b4358c8519b4.jpg",
+        "width": 313,
+        "height": 500,
+        "url": "https://covers.openlibrary.org/b/id/14402533-L.jpg",
+        "source": "http://openlibrary.org/books/OL4169395M/Sarraounia"
+      }
+    },
+    {
+      "country": "São Tomé and Príncipe",
+      "title": "15 Dias de Regresso",
+      "author": "Olinda Beja",
+      "year": 2007,
+      "date_kind": "Edition",
+      "record_source": "https://www.wook.pt/livro/15-dias-de-regresso-olinda-beja/193620",
+      "note": "A return to São Tomé reconnects a mother and daughter separated by migration.",
+      "tags": [
+        "Migration",
+        "Family"
+      ],
+      "country_connection": "Born in Guadalupe, São Tomé; her work explores the islands and diaspora.",
+      "country_connection_source": "https://revistas.ufrj.br/index.php/mulemba/article/download/46262/25193",
+      "language": "Portuguese",
+      "isbn": null,
+      "original_title": null,
+      "additional_sources": [
+        "https://catedraportugues.uem.mz/literatura-de-sao-tome"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/search.json?title=15+Dias+de+Regresso&author=Olinda+Beja&limit=3&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cedition_key",
+        "candidates": []
+      },
+      "goodreads": "https://www.goodreads.com/book/show/17699840",
+      "cover_candidate": {
+        "url": "https://img.wook.pt/images/15-dias-de-regresso-olinda-beja/MXwxOTM2MjB8MjQ0NTc1fDEzODM1NzcwMzYwMDB8d2VicA%3D%3D/250x",
+        "source": "https://www.wook.pt/livro/15-dias-de-regresso-olinda-beja/193620",
+        "provider": "Book reference / publisher / bookseller"
+      },
+      "cover_error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "country": "Seychelles",
+      "title": "Kolony",
+      "author": "Glynn Burridge",
+      "year": 2011,
+      "date_kind": "Edition",
+      "record_source": "https://www.goodreads.com/book/show/13575898",
+      "note": "Travellers on a remote Seychellois atoll encounter a surviving pirate cult.",
+      "tags": [
+        "Adventure",
+        "Suspense"
+      ],
+      "country_connection": "Long-term Seychelles resident and local writer; included through sustained cultural affiliation.",
+      "country_connection_source": "https://ayearofreadingtheworld.com/2012/11/15/seychelles-home-from-home/",
+      "language": "English",
+      "isbn": null,
+      "original_title": null,
+      "additional_sources": [
+        "https://www.youtube.com/watch?v=fNnmjpGAl0c",
+        "https://www.abebooks.co.uk/signed-first-edition/KOLONY-BURRIDGE-Glynn/17936109544/bd"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/search.json?title=Kolony&author=Glynn+Burridge&limit=3&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cedition_key",
+        "candidates": [
+          {
+            "author_name": [
+              "Glynn Burridge"
+            ],
+            "edition_key": [
+              "OL24575838M"
+            ],
+            "key": "/works/OL15627821W",
+            "title": "Kolony"
+          },
+          {
+            "author_name": [
+              "Glynn Burridge"
+            ],
+            "edition_key": [
+              "OL24449698M"
+            ],
+            "key": "/works/OL15485478W",
+            "title": "Kolony"
+          },
+          {
+            "author_name": [
+              "Glynn Burridge"
+            ],
+            "edition_key": [
+              "OL24074784M"
+            ],
+            "key": "/works/OL15112511W",
+            "title": "Kolony"
+          }
+        ]
+      },
+      "date_note": "Displayed date is the linked Kindle edition. An earlier print edition is documented in 2008; this is not labelled first publication.",
+      "goodreads": "https://www.goodreads.com/book/show/13575898",
+      "catalogue_match": {
+        "title": "Kolony",
+        "source": "https://openlibrary.org/works/OL15627821W"
+      }
+    },
+    {
+      "country": "Fiji",
+      "title": "Moving Through the Streets",
+      "author": "Joseph C. Veramu",
+      "year": 1994,
+      "date_kind": "Edition",
+      "record_source": "https://openlibrary.org/books/OL9198512M",
+      "note": "Young lives contend with the social pressures of Suva’s streets.",
+      "tags": [
+        "Urban life",
+        "Inequality"
+      ],
+      "country_connection": "Fiji-born and educated writer associated with the University of the South Pacific.",
+      "country_connection_source": "https://mro.massey.ac.nz/bitstreams/8a9e46c7-ce53-4677-9fd6-ae0764ef4979/download",
+      "language": "English",
+      "isbn": "9789820200982",
+      "original_title": null,
+      "additional_sources": [
+        "https://journals.lib.unb.ca/index.php/IFR/article/download/14334/15411/19070",
+        "https://lir.byuh.edu/index.php/pacific/article/download/148/140/258"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9789820200982&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL9198512M/Moving_Through_The_Streets",
+            "key": "/books/OL9198512M",
+            "title": "Moving Through The Streets",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL3228354A/Joseph_C._Veramu",
+                "name": "Joseph C. Veramu"
+              }
+            ],
+            "number_of_pages": 182,
+            "identifiers": {
+              "goodreads": [
+                "4338210"
+              ],
+              "librarything": [
+                "1834679"
+              ],
+              "isbn_10": [
+                "9820200989"
+              ],
+              "isbn_13": [
+                "9789820200982"
+              ],
+              "oclc": [
+                "32929756"
+              ],
+              "openlibrary": [
+                "OL9198512M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "PR9650.9.V4 M68 1994"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Institute of Pacific Studies"
+              }
+            ],
+            "publish_date": "December 12, 1994",
+            "subjects": [
+              {
+                "name": "Fiction",
+                "url": "https://openlibrary.org/subjects/fiction"
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/4932400-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/4932400-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/4932400-L.jpg"
+            }
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/4338210",
+      "catalogue_match": {
+        "title": "Moving Through The Streets",
+        "source": "http://openlibrary.org/books/OL9198512M/Moving_Through_The_Streets"
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/4932400-L.jpg",
+        "source": "http://openlibrary.org/books/OL9198512M/Moving_Through_The_Streets",
+        "provider": "Open Library"
+      },
+      "cover": {
+        "path": "assets/covers/country-39c3c04b8e77d5.jpg",
+        "width": 128,
+        "height": 189,
+        "url": "https://covers.openlibrary.org/b/id/4932400-L.jpg",
+        "source": "http://openlibrary.org/books/OL9198512M/Moving_Through_The_Streets"
+      },
+      "note_source": "https://journals.lib.unb.ca/index.php/IFR/article/download/14334/15411/19070"
+    },
+    {
+      "country": "Fiji",
+      "title": "The Wounded Sea",
+      "author": "Satendra Nandan",
+      "year": 1991,
+      "date_kind": "Edition",
+      "record_source": "https://books.google.com/books/about/The_Wounded_Sea.html?id=S1DIOwAACAAJ",
+      "note": "An autobiographical novel follows an Indo-Fijian life through the 1987 coup.",
+      "tags": [
+        "Migration",
+        "Politics"
+      ],
+      "country_connection": "Indo-Fijian author; this record describes his autobiographical novel, not his later memoir.",
+      "country_connection_source": "https://books.google.com/books/about/The_Wounded_Sea.html?id=S1DIOwAACAAJ",
+      "language": "English",
+      "isbn": "9780731802029",
+      "original_title": null,
+      "additional_sources": [
+        "https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Satendra-Nandan-The-wounded-sea/991005544044307891"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780731802029&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL1635271M/The_wounded_sea",
+            "key": "/books/OL1635271M",
+            "title": "The wounded sea",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL802734A/Satendra_P._Nandan",
+                "name": "Satendra P. Nandan"
+              }
+            ],
+            "number_of_pages": 170,
+            "pagination": "170 p. ;",
+            "by_statement": "Satendra Nandan.",
+            "identifiers": {
+              "goodreads": [
+                "2334429"
+              ],
+              "librarything": [
+                "3968761"
+              ],
+              "isbn_10": [
+                "0731802020"
+              ],
+              "lccn": [
+                "91186229"
+              ],
+              "oclc": [
+                "24412587"
+              ],
+              "openlibrary": [
+                "OL1635271M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "DU600 .N36 1991"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Simon & Schuster in association with New Endeavour Press"
+              }
+            ],
+            "publish_places": [
+              {
+                "name": "East Roseville, NSW"
+              }
+            ],
+            "publish_date": "1991",
+            "subjects": [
+              {
+                "name": "Social life and customs",
+                "url": "https://openlibrary.org/subjects/social_life_and_customs"
+              },
+              {
+                "name": "Politicians",
+                "url": "https://openlibrary.org/subjects/politicians"
+              },
+              {
+                "name": "Biography,",
+                "url": "https://openlibrary.org/subjects/biography,"
+              },
+              {
+                "name": "Biography",
+                "url": "https://openlibrary.org/subjects/biography"
+              },
+              {
+                "name": "East Indians",
+                "url": "https://openlibrary.org/subjects/east_indians"
+              },
+              {
+                "name": "Fiji",
+                "url": "https://openlibrary.org/subjects/fiji"
+              },
+              {
+                "name": "Ethnic relations",
+                "url": "https://openlibrary.org/subjects/ethnic_relations"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Fiji",
+                "url": "https://openlibrary.org/subjects/place:fiji"
+              }
+            ],
+            "subject_people": [
+              {
+                "name": "Satendra P. Nandan",
+                "url": "https://openlibrary.org/subjects/person:satendra_p._nandan"
+              }
+            ]
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/2334429",
+      "catalogue_match": {
+        "title": "The wounded sea",
+        "source": "http://openlibrary.org/books/OL1635271M/The_wounded_sea"
+      }
+    },
+    {
+      "country": "Tonga",
+      "title": "Kisses in the Nederends",
+      "author": "Epeli Hauʻofa",
+      "year": 1995,
+      "date_kind": "Edition",
+      "record_source": "https://uhpress.hawaii.edu/title/kisses-in-the-nederends/",
+      "note": "A search for relief from bodily pain becomes an absurd Pacific satire.",
+      "tags": [
+        "Satire",
+        "Tradition & change"
+      ],
+      "country_connection": "Tongan author, born in Papua New Guinea and later based in Fiji; grouped here through Tongan heritage.",
+      "country_connection_source": "https://nyupress.org/blog/2023/09/28/from-exotica-to-erotica-historical-fiction-or-fictional-history-in-mariana-islands-novels-2012-2017/",
+      "language": "English",
+      "isbn": "9780824816858",
+      "original_title": null,
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780824816858&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL1122619M/Kisses_in_the_Nederends",
+            "key": "/books/OL1122619M",
+            "title": "Kisses in the Nederends",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL591486A/Epeli_Hau'ofa",
+                "name": "Epeli Hau'ofa"
+              }
+            ],
+            "number_of_pages": 175,
+            "pagination": "x, 175 p. ;",
+            "by_statement": "Epeli Hau'ofa.",
+            "identifiers": {
+              "librarything": [
+                "901666"
+              ],
+              "goodreads": [
+                "1942144"
+              ],
+              "isbn_10": [
+                "0824816854"
+              ],
+              "lccn": [
+                "94049700"
+              ],
+              "oclc": [
+                "31865505"
+              ],
+              "openlibrary": [
+                "OL1122619M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "PR9655.9.H38 K57 1995",
+                "PR9655.9.H38K57 1995"
+              ],
+              "dewey_decimal_class": [
+                "823"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "University of Hawaii Press"
+              }
+            ],
+            "publish_places": [
+              {
+                "name": "Honolulu"
+              }
+            ],
+            "publish_date": "1995",
+            "subjects": [
+              {
+                "name": "Fiction",
+                "url": "https://openlibrary.org/subjects/fiction"
+              },
+              {
+                "name": "Anus (Psychology)",
+                "url": "https://openlibrary.org/subjects/anus_(psychology)"
+              },
+              {
+                "name": "Pacific Islanders",
+                "url": "https://openlibrary.org/subjects/pacific_islanders"
+              },
+              {
+                "name": "Fiction, psychological",
+                "url": "https://openlibrary.org/subjects/fiction,_psychological"
+              },
+              {
+                "name": "Fiction, humorous",
+                "url": "https://openlibrary.org/subjects/fiction,_humorous"
+              },
+              {
+                "name": "Pacific area, fiction",
+                "url": "https://openlibrary.org/subjects/pacific_area,_fiction"
+              },
+              {
+                "name": "Social life and customs",
+                "url": "https://openlibrary.org/subjects/social_life_and_customs"
+              },
+              {
+                "name": "Psychology",
+                "url": "https://openlibrary.org/subjects/psychology"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Islands of the Pacific",
+                "url": "https://openlibrary.org/subjects/place:islands_of_the_pacific"
+              }
+            ],
+            "ebooks": [
+              {
+                "preview_url": "https://archive.org/details/kissesinnederend0000hauo",
+                "availability": "restricted",
+                "formats": {}
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/626877-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/626877-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/626877-L.jpg"
+            }
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/1942144",
+      "catalogue_match": {
+        "title": "Kisses in the Nederends",
+        "source": "http://openlibrary.org/books/OL1122619M/Kisses_in_the_Nederends"
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/626877-L.jpg",
+        "source": "http://openlibrary.org/books/OL1122619M/Kisses_in_the_Nederends",
+        "provider": "Open Library"
+      },
+      "cover": {
+        "path": "assets/covers/country-1f0bda41d98cf8.jpg",
+        "width": 318,
+        "height": 475,
+        "url": "https://covers.openlibrary.org/b/id/626877-L.jpg",
+        "source": "http://openlibrary.org/books/OL1122619M/Kisses_in_the_Nederends"
+      }
+    },
+    {
+      "country": "Vanuatu",
+      "title": "Tôghàn",
+      "author": "Marcel Melthérorong",
+      "year": 2007,
+      "date_kind": "Edition",
+      "record_source": "https://www.alliancefr.vu/en/litterature/175-meltherorong-marcel",
+      "note": "An autofictional novel follows dislocated Oceanian youth between competing cultural worlds.",
+      "tags": [
+        "Identity",
+        "Displacement"
+      ],
+      "country_connection": "Born in New Caledonia to a Vanuatuan family; returned to Vanuatu and became active in its cultural life.",
+      "country_connection_source": "https://www.alliancefr.vu/en/litterature/175-meltherorong-marcel",
+      "language": "French",
+      "isbn": "9782952910002",
+      "original_title": null,
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9782952910002&format=json&jscmd=data",
+        "candidates": []
+      },
+      "goodreads": "https://www.goodreads.com/book/show/41131960"
+    },
+    {
+      "country": "Vanuatu",
+      "title": "Nagaemas",
+      "author": "Marcel Melthérorong",
+      "year": 2013,
+      "date_kind": "Edition",
+      "record_source": "https://caledolivres.nc/fr/livres-du-pacifique/8883-nagaemas-9791092893007.html",
+      "note": "Political intrigue and family secrets intertwine with cultural and customary conflicts.",
+      "tags": [
+        "Politics",
+        "Family"
+      ],
+      "country_connection": "Ni-Vanuatu author active in Port-Vila’s literary and cultural life.",
+      "country_connection_source": "https://www.alliancefr.vu/en/litterature/175-meltherorong-marcel",
+      "language": "French",
+      "isbn": "9791092893007",
+      "original_title": null,
+      "additional_sources": [
+        "https://www.marymartin.com/web/imageAction?imType=pdf&imageId=CountryCatalog%2FPacific+Islands%2FVanuatu%2F2013%2FRecent+Books+from+Vanuatu+-+Oct+2013.pdf"
+      ],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "date_note": "The author profile says 2011; bookseller catalogue and edition listing date this edition to 2013. Displayed as Edition: 2013, not first publication.",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9791092893007&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL59814804M/Quand_le_cannibale_ricane",
+            "key": "/books/OL59814804M",
+            "title": "Quand le cannibale ricane",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL15734842A/Paul_Tavo",
+                "name": "Paul Tavo"
+              },
+              {
+                "url": "http://openlibrary.org/authors/OL15734843A/France._Ministère_des_affaires_étrangères._Fonds_Pacifique",
+                "name": "France. Ministère des affaires étrangères. Fonds Pacifique"
+              },
+              {
+                "url": "http://openlibrary.org/authors/OL8928480A/New_Caledonia",
+                "name": "New Caledonia"
+              }
+            ],
+            "number_of_pages": 544,
+            "pagination": "544 pages",
+            "by_statement": "Paul Tavo",
+            "identifiers": {
+              "isbn_10": [
+                "9791092893"
+              ],
+              "isbn_13": [
+                "9791092893007",
+                "9789791092890",
+                "9791092893014"
+              ],
+              "oclc": [
+                "935210391",
+                "1090059731"
+              ],
+              "openlibrary": [
+                "OL59814804M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "PQ3999.T38 Q36 2015"
+              ],
+              "dewey_decimal_class": [
+                "899.2"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Editions Alliance française du Vanuatu"
+              }
+            ],
+            "publish_places": [
+              {
+                "name": "Port-Vila, Vanuatu"
+              }
+            ],
+            "publish_date": "2015",
+            "subjects": [
+              {
+                "name": "Youth",
+                "url": "https://openlibrary.org/subjects/youth"
+              },
+              {
+                "name": "Fiction",
+                "url": "https://openlibrary.org/subjects/fiction"
+              },
+              {
+                "name": "Politics and government",
+                "url": "https://openlibrary.org/subjects/politics_and_government"
+              },
+              {
+                "name": "French Prose poems",
+                "url": "https://openlibrary.org/subjects/french_prose_poems"
+              },
+              {
+                "name": "Poetry",
+                "url": "https://openlibrary.org/subjects/poetry"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Vanuatu",
+                "url": "https://openlibrary.org/subjects/place:vanuatu"
+              }
+            ],
+            "notes": "Published with support from the Pacific Fund and the Government of New Caledonia.\n\nText in French."
+          }
+        ]
+      },
+      "goodreads": null,
+      "rejected_catalogue_candidates": [
+        {
+          "title": "Quand le cannibale ricane",
+          "reason": "ISBN lookup returned a different title; no metadata or image imported."
+        }
+      ],
+      "cover_candidate": {
+        "url": "https://caledolivres.nc/408066-large_default/nagaemas.jpg",
+        "source": "https://caledolivres.nc/fr/livres-du-pacifique/8883-nagaemas-9791092893007.html",
+        "provider": "Book reference / publisher / bookseller"
+      },
+      "cover": {
+        "path": "assets/covers/country-8022d9935875f5.jpg",
+        "width": 458,
+        "height": 458,
+        "url": "https://caledolivres.nc/408066-large_default/nagaemas.jpg",
+        "source": "https://caledolivres.nc/fr/livres-du-pacifique/8883-nagaemas-9791092893007.html"
+      }
+    },
+    {
+      "country": "Marshall Islands",
+      "title": "Melal: A Novel of the Pacific",
+      "author": "Robert Barclay",
+      "year": 2002,
+      "date_kind": "Edition",
+      "record_source": "https://uhpress.hawaii.edu/title/melal-a-novel-of-the-pacific/",
+      "note": "A father and his sons confront the legacies of nuclear testing and military power.",
+      "tags": [
+        "Family",
+        "Nuclear legacy"
+      ],
+      "country_connection": "Spent much of his life in Kwajalein; included through sustained residence, not a claim of Marshallese ancestry.",
+      "country_connection_source": "https://uhpress.hawaii.edu/title/melal-a-novel-of-the-pacific/",
+      "language": "English",
+      "isbn": "9780824825911",
+      "original_title": null,
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "verification": "manually_reviewed_sources",
+      "note_type": "short_source_paraphrase",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780824825911&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL3956075M/Melal",
+            "key": "/books/OL3956075M",
+            "title": "Melal",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL646155A/Robert_Barclay",
+                "name": "Robert Barclay"
+              }
+            ],
+            "number_of_pages": 300,
+            "pagination": "viii, 300 p. :",
+            "by_statement": "Robert Barclay.",
+            "identifiers": {
+              "goodreads": [
+                "411314"
+              ],
+              "librarything": [
+                "2037972"
+              ],
+              "isbn_10": [
+                "0824825918"
+              ],
+              "lccn": [
+                "2001058301"
+              ],
+              "oclc": [
+                "48559112"
+              ],
+              "openlibrary": [
+                "OL3956075M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "PS3602.A77 M45 2002",
+                "PS3602.A77M45 2002"
+              ],
+              "dewey_decimal_class": [
+                "813/.6"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "University of Hawai'i Press"
+              }
+            ],
+            "publish_places": [
+              {
+                "name": "Honolulu"
+              }
+            ],
+            "publish_date": "2002",
+            "subjects": [
+              {
+                "name": "Fiction",
+                "url": "https://openlibrary.org/subjects/fiction"
+              },
+              {
+                "name": "Hawaii, fiction",
+                "url": "https://openlibrary.org/subjects/hawaii,_fiction"
+              },
+              {
+                "name": "Fiction, historical",
+                "url": "https://openlibrary.org/subjects/fiction,_historical"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Marshall Islands",
+                "url": "https://openlibrary.org/subjects/place:marshall_islands"
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/627143-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/627143-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/627143-L.jpg"
+            }
+          }
+        ]
+      },
+      "goodreads": "https://www.goodreads.com/book/show/411314",
+      "catalogue_match": {
+        "title": "Melal",
+        "source": "http://openlibrary.org/books/OL3956075M/Melal"
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/627143-L.jpg",
+        "source": "http://openlibrary.org/books/OL3956075M/Melal",
+        "provider": "Open Library"
+      },
+      "cover": {
+        "path": "assets/covers/country-28e807759f99d5.jpg",
+        "width": 316,
+        "height": 475,
+        "url": "https://covers.openlibrary.org/b/id/627143-L.jpg",
+        "source": "http://openlibrary.org/books/OL3956075M/Melal"
+      }
+    }
+  ],
+  "unresolved_destinations": [
+    {
+      "country": "Vatican City",
+      "status": "No eligible novel verified in this pass",
+      "considered": "A Woman in the Vatican",
+      "reason": "A Vatican citizen’s account of daily life, but nonfiction; not added to a novel selection.",
+      "source": "https://wydawnictwoznak.pl/files/pdf/ZnakRights%20Autumn23.pdf"
+    },
+    {
+      "country": "Kiribati",
+      "status": "No eligible novel verified in this pass",
+      "considered": "Indigenous Literatures from Micronesia; Islands of the Frigate Bird",
+      "reason": "The anthology includes I-Kiribati voices but is not a novel. The novel by Daryl Tarte is indexed by setting, which does not establish a Kiribati author connection.",
+      "source": "https://uhpress.hawaii.edu/title/indigenous-literatures-from-micronesia/",
+      "additional_sources": [
+        "https://www.irci.jp/rdb/item/13653",
+        "https://ayearofreadingtheworld.com/2012/10/16/kiribati-crossing-boundaries/"
+      ]
+    },
+    {
+      "country": "Federated States of Micronesia",
+      "status": "No eligible novel verified in this pass",
+      "considered": "Indigenous Literatures from Micronesia",
+      "reason": "Regional anthology with Chuukese, Kosraean, Pohnpeian and Yapese contributions; not an individual novel or novella. Regional Micronesia is not interchangeable with the country.",
+      "source": "https://uhpress.hawaii.edu/title/indigenous-literatures-from-micronesia/"
+    },
+    {
+      "country": "Nauru",
+      "status": "No eligible novel verified in this pass",
+      "considered": "Stories from Nauru",
+      "reason": "A multi-author collection of short narratives, not a novel. Retained as a research lead.",
+      "source": "https://natlib.govt.nz/records/21885335",
+      "additional_sources": [
+        "https://uhpress.hawaii.edu/title/indigenous-literatures-from-micronesia/"
+      ]
+    },
+    {
+      "country": "Palau",
+      "status": "No eligible novel verified in this pass",
+      "considered": "Indigenous Literatures from Micronesia",
+      "reason": "Includes Palauan contributions in a regional multi-genre anthology; not a novel.",
+      "source": "https://uhpress.hawaii.edu/title/indigenous-literatures-from-micronesia/"
+    },
+    {
+      "country": "Tuvalu",
+      "status": "No eligible novel verified in this pass",
+      "considered": "Tuvalu: A History; Tuvalu by Andrew O’Connor",
+      "reason": "The first is nonfiction. The second is an Australian author’s novel set in Japan; its title alone does not establish Tuvaluan affiliation.",
+      "source": "https://www.si.edu/object/tuvalu-history%3Asiris_sil_955879",
+      "additional_sources": [
+        "https://books.google.com/books?id=FJQdmQEACAAJ"
+      ]
+    }
+  ]
+}
