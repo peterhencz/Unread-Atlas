@@ -546,3 +546,6 @@ h2[id^=region]{font-size:38px;font-weight:var(--font-heading);line-height:1.2;le
 .hero h1 span{display:inline;margin-left:0;font:inherit;letter-spacing:inherit;color:var(--accent)}
 @media(max-width:650px){.hero h1{margin:30px 0 28px}}
 #atlas-results .nocover{background:linear-gradient(var(--cover-angle,140deg),var(--cover-start,#a7b8ee),var(--cover-end,#eadbeb));border:0;border-radius:1px;box-shadow:inset 1px 0 0 #ffffff35;color:transparent}
+
+/* Keep the compact country menu free of redundant arrow decoration. */
+.country-jump select{appearance:none;-webkit-appearance:none}

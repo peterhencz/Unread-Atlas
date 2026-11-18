@@ -1,0 +1,746 @@
+{
+  "Meša Selimović | The Fortress": {
+    "title": "The Fortress",
+    "author": "Meša Selimović",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/2577414",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Kazuo Ishiguro | The Remains of the Day": {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/883964",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "George Eliot | Middlemarch": {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/818636",
+    "matched_title": "Middlemarch: Easyread Comfort Edition",
+    "matched_authors": [
+      "George Eliot"
+    ],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/88800552-middlemarch-volume-1",
+    "work_publication_timestamp": null,
+    "displayed_first_publication": "Published November 1, 2006",
+    "status": "no_first_publication_date"
+  },
+  "Ismail Kadare | The Palace of Dreams": {
+    "title": "The Palace of Dreams",
+    "author": "Ismail Kadare",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/94569",
+    "matched_title": "El Palacio de los Sueños",
+    "matched_authors": [
+      "Ismail Kadare"
+    ],
+    "original_title": "Nëpunësi i Pallati it të Endrrave",
+    "work_url": "https://www.goodreads.com/work/783601-n-pun-si-i-pallati-it-t-endrrave",
+    "work_publication_timestamp": 347184000000,
+    "displayed_first_publication": "First published January 1, 1981",
+    "year": "1981",
+    "status": "identity_requires_review"
+  },
+  "Luan Starova | My Father's Books": {
+    "title": "My Father's Books",
+    "author": "Luan Starova",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/13431500",
+    "matched_title": "My Father’s Books",
+    "matched_authors": [
+      "Luan Starova"
+    ],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/20516945-my-father-s-books",
+    "work_publication_timestamp": 694252800000,
+    "displayed_first_publication": "First published January 1, 1992",
+    "year": "1992",
+    "status": "identity_requires_review"
+  },
+  "Jaan Kross | The Czar's Madman": {
+    "title": "The Czar's Madman",
+    "author": "Jaan Kross",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/445180",
+    "matched_title": "The Czar's Madman",
+    "matched_authors": [],
+    "original_title": "Keisri hull",
+    "work_url": "https://www.goodreads.com/work/2093381-keisri-hull",
+    "work_publication_timestamp": 252489600000,
+    "displayed_first_publication": "First published January 1, 1978",
+    "year": "1978",
+    "status": "identity_requires_review"
+  },
+  "Zadie Smith | White Teeth": {
+    "title": "White Teeth",
+    "author": "Zadie Smith",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/3713",
+    "matched_title": "Dientes blancos",
+    "matched_authors": [
+      "Zadie Smith"
+    ],
+    "original_title": "White Teeth",
+    "work_url": "https://www.goodreads.com/work/7480-white-teeth",
+    "work_publication_timestamp": 954576000000,
+    "displayed_first_publication": "First published April 1, 2000",
+    "year": "2000",
+    "status": "identity_requires_review"
+  },
+  "Alexandros Papadiamantis | The Murderess": {
+    "title": "The Murderess",
+    "author": "Alexandros Papadiamantis",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1273016",
+    "matched_title": "Murderess",
+    "matched_authors": [
+      "Alexandros Papadiamantis",
+      "Αλέξανδρος Παπαδιαμάντης"
+    ],
+    "original_title": "Η φόνισσα",
+    "work_url": "https://www.goodreads.com/work/694574",
+    "work_publication_timestamp": -2114352000000,
+    "displayed_first_publication": "First published January 1, 1903",
+    "year": "1903",
+    "status": "identity_requires_review"
+  },
+  "Miroslav Krleža | On the Edge of Reason": {
+    "title": "On the Edge of Reason",
+    "author": "Miroslav Krleža",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/6595722",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Louis Couperus | The Hidden Force": {
+    "title": "The Hidden Force",
+    "author": "Louis Couperus",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1472477",
+    "matched_title": "Hidden Force",
+    "matched_authors": [
+      "Louis Couperus"
+    ],
+    "original_title": "De stille kracht",
+    "work_url": "https://www.goodreads.com/work/316810-de-stille-kracht",
+    "work_publication_timestamp": -2208960000000,
+    "displayed_first_publication": "First published January 1, 1900",
+    "year": "1900",
+    "status": "identity_requires_review"
+  },
+  "Krasznahorkai László | Satantango": {
+    "title": "Satantango",
+    "author": "Krasznahorkai László",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1860661",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "W. F. Hermans | The Darkroom of Damocles": {
+    "title": "The Darkroom of Damocles",
+    "author": "W. F. Hermans",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/56419802",
+    "matched_title": "The Darkroom of Damocles",
+    "matched_authors": [
+      "Willem Frederik Hermans"
+    ],
+    "original_title": "De donkere kamer van Damocles",
+    "work_url": "https://www.goodreads.com/work/2319357-de-donkere-kamer-van-damocles",
+    "work_publication_timestamp": -352396800000,
+    "displayed_first_publication": "First published November 1, 1958",
+    "year": "1958",
+    "status": "identity_requires_review"
+  },
+  "Lídia Jorge | The Murmuring Coast": {
+    "title": "The Murmuring Coast",
+    "author": "Lídia Jorge",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/209671",
+    "matched_title": "Murmuring Coast",
+    "matched_authors": [
+      "Lídia Jorge"
+    ],
+    "original_title": "A Costa dos Murmúrios",
+    "work_url": "https://www.goodreads.com/work/202936-a-costa-dos-murm-rios",
+    "work_publication_timestamp": 568022400000,
+    "displayed_first_publication": "First published January 1, 1988",
+    "year": "1988",
+    "status": "identity_requires_review"
+  },
+  "Mircea Cărtărescu | Solenoid": {
+    "title": "Solenoid",
+    "author": "Mircea Cărtărescu",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/36485269",
+    "matched_title": "Solenoide",
+    "matched_authors": [
+      "Mircea Cărtărescu"
+    ],
+    "original_title": "Solenoid",
+    "work_url": "https://www.goodreads.com/work/47806946-solenoid",
+    "work_publication_timestamp": 1446361200000,
+    "displayed_first_publication": "First published November 1, 2015",
+    "year": "2015",
+    "status": "identity_requires_review"
+  },
+  "Miguel de Cervantes | Don Quijote": {
+    "title": "Don Quijote",
+    "author": "Miguel de Cervantes",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/57402",
+    "matched_title": "Don Quijote",
+    "matched_authors": [
+      "Miguel de Cervantes Saavedra"
+    ],
+    "original_title": "Don Quijote de la Mancha",
+    "work_url": "https://www.goodreads.com/work/121842-don-quijote-de-la-mancha",
+    "work_publication_timestamp": -11487715622000,
+    "displayed_first_publication": "First published December 20, 1605",
+    "year": "1605",
+    "status": "identity_requires_review"
+  },
+  "Thomas Mann | Buddenbrooks": {
+    "title": "Buddenbrooks",
+    "author": "Thomas Mann",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/6185856",
+    "matched_title": "Buddenbrooks. Verfall Einer Familie",
+    "matched_authors": [
+      "thomas-mann"
+    ],
+    "original_title": "Buddenbrooks. Verfall einer Familie",
+    "work_url": "https://www.goodreads.com/work/3458174-buddenbrooks-verfall-einer-familie",
+    "work_publication_timestamp": -2177424000000,
+    "displayed_first_publication": "First published January 1, 1901",
+    "year": "1901",
+    "status": "identity_requires_review"
+  },
+  "Benito Pérez Galdós | Fortunata and Jacinta": {
+    "title": "Fortunata and Jacinta",
+    "author": "Benito Pérez Galdós",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/4127400",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Kurban Said | Ali and Nino": {
+    "title": "Ali and Nino",
+    "author": "Kurban Said",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1037036",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Robert Walser | Jakob von Gunten": {
+    "title": "Jakob von Gunten",
+    "author": "Robert Walser",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1140447",
+    "matched_title": "Institute Benjamenta",
+    "matched_authors": [
+      "Robert Walser"
+    ],
+    "original_title": "Jakob von Gunten. Ein Tagebuch",
+    "work_url": "https://www.goodreads.com/work/2004083-jakob-von-gunten-ein-tagebuch",
+    "work_publication_timestamp": -1924963200000,
+    "displayed_first_publication": "First published January 1, 1909",
+    "year": "1909",
+    "status": "identity_requires_review"
+  },
+  "Pope Francis with Carlo Musso | Hope": {
+    "title": "Hope",
+    "author": "Pope Francis with Carlo Musso",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/223697797",
+    "matched_title": "Hope",
+    "matched_authors": [
+      "Pope Francis"
+    ],
+    "original_title": "Spera",
+    "work_url": "https://www.goodreads.com/work/227043648-spera",
+    "work_publication_timestamp": 1736841600000,
+    "displayed_first_publication": "First published January 14, 2025",
+    "year": "2025",
+    "status": "identity_requires_review"
+  },
+  "Chingiz Aitmatov | The Day Lasts More Than a Hundred Years": {
+    "title": "The Day Lasts More Than a Hundred Years",
+    "author": "Chingiz Aitmatov",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/3311912",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Max Frisch | Stiller": {
+    "title": "Stiller",
+    "author": "Max Frisch",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/472018",
+    "matched_title": "I'm Not Stiller",
+    "matched_authors": [
+      "Max Frisch"
+    ],
+    "original_title": "Stiller",
+    "work_url": "https://www.goodreads.com/work/1119503-stiller",
+    "work_publication_timestamp": -504892800000,
+    "displayed_first_publication": "First published January 1, 1954",
+    "year": "1954",
+    "status": "identity_requires_review"
+  },
+  "Abdul Rahman Munif | Cities of Salt": {
+    "title": "Cities of Salt",
+    "author": "Abdul Rahman Munif",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1184369",
+    "matched_title": "Cities of Salt",
+    "matched_authors": [
+      "Abdelrahman Munif",
+      "عبدالرحمن منيف"
+    ],
+    "original_title": "مدن الملح",
+    "work_url": "https://www.goodreads.com/work/68434206",
+    "work_publication_timestamp": 441792000000,
+    "displayed_first_publication": "First published January 1, 1984",
+    "year": "1984",
+    "status": "identity_requires_review"
+  },
+  "Abdul Rahman Munif | Endings": {
+    "title": "Endings",
+    "author": "Abdul Rahman Munif",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/3080231",
+    "matched_title": "Endings",
+    "matched_authors": [
+      "Abdelrahman Munif",
+      "Abd al-Rahman Munif"
+    ],
+    "original_title": "النهايات",
+    "work_url": "https://www.goodreads.com/work/6113821",
+    "work_publication_timestamp": 220953600000,
+    "displayed_first_publication": "First published January 1, 1977",
+    "year": "1977",
+    "status": "identity_requires_review"
+  },
+  "Nu Nu Yi | Smile as They Bow": {
+    "title": "Smile as They Bow",
+    "author": "Nu Nu Yi",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/16558819",
+    "matched_title": "Smile as they Bow",
+    "matched_authors": [
+      "Nu Nu Yi Inwa"
+    ],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/3152674-smile-as-they-bow",
+    "work_publication_timestamp": 1199174400000,
+    "displayed_first_publication": "First published January 1, 2008",
+    "year": "2008",
+    "status": "identity_requires_review"
+  },
+  "Nadine Gordimer | July's People": {
+    "title": "July's People",
+    "author": "Nadine Gordimer",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/515710",
+    "matched_title": "July's Leute",
+    "matched_authors": [
+      "Nadine Gordimer"
+    ],
+    "original_title": "July's People",
+    "work_url": "https://www.goodreads.com/work/1499866-july-s-people",
+    "work_publication_timestamp": 347184000000,
+    "displayed_first_publication": "First published January 1, 1981",
+    "year": "1981",
+    "status": "identity_requires_review"
+  },
+  "Suchen Christine Lim | The River's Song": {
+    "title": "The River's Song",
+    "author": "Suchen Christine Lim",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/36291312",
+    "matched_title": "The River’s Song",
+    "matched_authors": [
+      "Suchen Christine Lim"
+    ],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/26041364-the-river-s-song",
+    "work_publication_timestamp": 1396335600000,
+    "displayed_first_publication": "First published April 1, 2014",
+    "year": "2014",
+    "status": "identity_requires_review"
+  },
+  "Donato Ndongo | Shadows of Your Black Memory": {
+    "title": "Shadows of Your Black Memory",
+    "author": "Donato Ndongo",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/2540446",
+    "matched_title": "Shadows of Your Black Memory",
+    "matched_authors": [
+      "Donato Ndongo-Bidyogo"
+    ],
+    "original_title": "Las tinieblas de tu memoria negra",
+    "work_url": "https://www.goodreads.com/work/2547975-las-tinieblas-de-tu-memoria-negra",
+    "work_publication_timestamp": 536486400000,
+    "displayed_first_publication": "First published January 1, 1987",
+    "year": "1987",
+    "status": "identity_requires_review"
+  },
+  "Ebou Dibba | Fafa": {
+    "title": "Fafa",
+    "author": "Ebou Dibba",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1589498",
+    "matched_title": "Fafa: An idyll on the banks of a river : a novel",
+    "matched_authors": [
+      "Ebou Dibba"
+    ],
+    "original_title": "Fafa (Macmillan Modern Writers)",
+    "work_url": "https://www.goodreads.com/work/1582486-fafa-macmillan-modern-writers",
+    "work_publication_timestamp": 607676400000,
+    "displayed_first_publication": "First published April 4, 1989",
+    "year": "1989",
+    "status": "identity_requires_review"
+  },
+  "A. S. Mopeli-Paulus and Peter Lanham | Blanket Boy's Moon": {
+    "title": "Blanket Boy's Moon",
+    "author": "A. S. Mopeli-Paulus and Peter Lanham",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/2591940",
+    "matched_title": "Blanket boy's moon",
+    "matched_authors": [
+      "A.S. Mopeli-Paulus",
+      "Peter Lanham"
+    ],
+    "original_title": "Blanket Boy's Moon (AfricaSouth Paperbacks)",
+    "work_url": "https://www.goodreads.com/work/2612248-blanket-boy-s-moon-africasouth-paperbacks",
+    "work_publication_timestamp": 473328000000,
+    "displayed_first_publication": "First published December 31, 1984",
+    "year": "1984",
+    "status": "identity_requires_review"
+  },
+  "Hisham Matar | In the Country of Men": {
+    "title": "In the Country of Men",
+    "author": "Hisham Matar",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/871296",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Frederick Yamusangie | Full Circle": {
+    "title": "Full Circle",
+    "author": "Frederick Yamusangie",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1764147",
+    "matched_title": "Full Circle",
+    "matched_authors": [
+      "Frederick Kambemba Yamusangie"
+    ],
+    "original_title": "Full Circle",
+    "work_url": "https://www.goodreads.com/work/1762178-full-circle",
+    "work_publication_timestamp": 1055833200000,
+    "displayed_first_publication": "First published June 17, 2003",
+    "year": "2003",
+    "status": "identity_requires_review"
+  },
+  "Raharimanana | Nour, 1947": {
+    "title": "Nour, 1947",
+    "author": "Raharimanana",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/3104587",
+    "matched_title": "Nour, 1947",
+    "matched_authors": [
+      "Jean-Luc Raharimanana"
+    ],
+    "original_title": "Nour, 1947",
+    "work_url": "https://www.goodreads.com/work/3135830-nour-1947",
+    "work_publication_timestamp": 1045296000000,
+    "displayed_first_publication": "First published February 15, 2003",
+    "year": "2003",
+    "status": "identity_requires_review"
+  },
+  "Abdoulaye Mamani | Sarraounia": {
+    "title": "Sarraounia",
+    "author": "Abdoulaye Mamani",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/25965863",
+    "matched_title": "Sarraounia : Le drame de la reine magicienne",
+    "matched_authors": [
+      "Abdoulaye Mamani"
+    ],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/45872182-sarraounia-le-drame-de-la-reine-magicienne",
+    "work_publication_timestamp": null,
+    "displayed_first_publication": "Published November 8, 2006",
+    "status": "no_first_publication_date"
+  },
+  "Lindsey Collen | The Rape of Sita": {
+    "title": "The Rape of Sita",
+    "author": "Lindsey Collen",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/6358566",
+    "matched_title": "Rape Of Sita",
+    "matched_authors": [
+      "Lindsey Collen"
+    ],
+    "original_title": "The Rape of Sita",
+    "work_url": "https://www.goodreads.com/work/570646-the-rape-of-sita",
+    "work_publication_timestamp": 788947200000,
+    "displayed_first_publication": "First published January 1, 1995",
+    "year": "1995",
+    "status": "identity_requires_review"
+  },
+  "Beyrouk | The Desert and the Drum": {
+    "title": "The Desert and the Drum",
+    "author": "Beyrouk",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/43176990",
+    "matched_title": "The Desert and the Drum",
+    "matched_authors": [
+      "Mbarek Ould Beyrouk"
+    ],
+    "original_title": "Le Tambour des Larmes",
+    "work_url": "https://www.goodreads.com/work/66986558-le-tambour-des-larmes",
+    "work_publication_timestamp": 1420099200000,
+    "displayed_first_publication": "First published January 1, 2015",
+    "year": "2015",
+    "status": "identity_requires_review"
+  },
+  "Adam Shafi | Vuta N'kuvute": {
+    "title": "Vuta N'kuvute",
+    "author": "Adam Shafi",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/58553570",
+    "matched_title": "Vuta N'kuvute",
+    "matched_authors": [
+      "Shafi Adam Shafi"
+    ],
+    "original_title": "Vuta N'kuvute",
+    "work_url": "https://www.goodreads.com/work/5233014-vuta-n-kuvute",
+    "work_publication_timestamp": 883641600000,
+    "displayed_first_publication": "First published January 1, 1998",
+    "year": "1998",
+    "status": "identity_requires_review"
+  },
+  "Germano Almeida | The Last Will and Testament of Senhor da Silva Araújo": {
+    "title": "The Last Will and Testament of Senhor da Silva Araújo",
+    "author": "Germano Almeida",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/1200940",
+    "matched_title": "The Last Will & Testament of Senhor da Silva Araújo",
+    "matched_authors": [
+      "Germano Almeida",
+      "Sylvia Glaser"
+    ],
+    "original_title": "O testamento do Sr. Napumoceno da Silva Araújo",
+    "work_url": "https://www.goodreads.com/work/1189088-o-testamento-do-sr-napumoceno-da-silva-ara-jo",
+    "work_publication_timestamp": 568022400000,
+    "displayed_first_publication": "First published January 1, 1988",
+    "year": "1988",
+    "status": "identity_requires_review"
+  },
+  "Buchi Emecheta | The Joys of Motherhood": {
+    "title": "The Joys of Motherhood",
+    "author": "Buchi Emecheta",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/210726",
+    "matched_title": "Joys of Motherhood",
+    "matched_authors": [
+      "Buchi Emecheta"
+    ],
+    "original_title": "The Joys of Motherhood",
+    "work_url": "https://www.goodreads.com/work/203957-the-joys-of-motherhood",
+    "work_publication_timestamp": 295772400000,
+    "displayed_first_publication": "First published May 17, 1979",
+    "year": "1979",
+    "status": "identity_requires_review"
+  },
+  "Shukri Mabkhout | The Italian": {
+    "title": "The Italian",
+    "author": "Shukri Mabkhout",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/58475571",
+    "matched_title": "The Italian",
+    "matched_authors": [
+      "Shukri al-Mabkhout"
+    ],
+    "original_title": "الطلياني",
+    "work_url": "https://www.goodreads.com/work/44057574",
+    "work_publication_timestamp": 1388563200000,
+    "displayed_first_publication": "First published January 1, 2014",
+    "year": "2014",
+    "status": "identity_requires_review"
+  },
+  "William Faulkner | As I Lay Dying": {
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/531560",
+    "matched_title": "Mientras agonizo",
+    "matched_authors": [
+      "William Faulkner"
+    ],
+    "original_title": "As I Lay Dying",
+    "work_url": "https://www.goodreads.com/work/481854-as-i-lay-dying",
+    "work_publication_timestamp": -1262275200000,
+    "displayed_first_publication": "First published January 1, 1930",
+    "year": "1930",
+    "status": "identity_requires_review"
+  },
+  "René Depestre | Hadriana in All My Dreams": {
+    "title": "Hadriana in All My Dreams",
+    "author": "René Depestre",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/114936471",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Samuel Selvon | The Lonely Londoners": {
+    "title": "The Lonely Londoners",
+    "author": "Samuel Selvon",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/128763",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Edmundo Paz Soldán | Norte": {
+    "title": "Norte",
+    "author": "Edmundo Paz Soldán",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/74285171",
+    "status": "fetch_error",
+    "error": ""
+  },
+  "Julia Alvarez | In the Time of the Butterflies": {
+    "title": "In the Time of the Butterflies",
+    "author": "Julia Alvarez",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/3119638",
+    "matched_title": "In the Time of Butterflies",
+    "matched_authors": [
+      "Julia Alvarez"
+    ],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/1408023-in-the-time-of-the-butterflies",
+    "work_publication_timestamp": 757411200000,
+    "displayed_first_publication": "First published January 1, 1994",
+    "year": "1994",
+    "status": "identity_requires_review"
+  },
+  "Alaima Talu et al. | Kiribati: Aspects of History": {
+    "title": "Kiribati: Aspects of History",
+    "author": "Alaima Talu et al.",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/28474670",
+    "matched_title": "Kiribati Aspects of History",
+    "matched_authors": [
+      "Alaima Talu"
+    ],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/48614055-kiribati-aspects-of-history",
+    "work_publication_timestamp": 284025600000,
+    "displayed_first_publication": "First published January 1, 1979",
+    "year": "1979",
+    "status": "identity_requires_review"
+  },
+  "Tim Winton | Cloudstreet": {
+    "title": "Cloudstreet",
+    "author": "Tim Winton",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/6113555",
+    "matched_title": "Cloudstreet: Library Edition",
+    "matched_authors": [
+      "Tim Winton"
+    ],
+    "original_title": "Cloudstreet",
+    "work_url": "https://www.goodreads.com/work/1154594-cloudstreet",
+    "work_publication_timestamp": 662716800000,
+    "displayed_first_publication": "First published January 1, 1991",
+    "year": "1991",
+    "status": "identity_requires_review"
+  },
+  "Jorge Icaza | Huasipungo": {
+    "title": "Huasipungo",
+    "author": "Jorge Icaza",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/114568",
+    "matched_title": "The Villagers",
+    "matched_authors": [
+      "Jorge Icaza"
+    ],
+    "original_title": "Huasipungo",
+    "work_url": "https://www.goodreads.com/work/110315-huasipungo",
+    "work_publication_timestamp": -1136044800000,
+    "displayed_first_publication": "First published January 1, 1934",
+    "year": "1934",
+    "status": "identity_requires_review"
+  },
+  "Carl N. McDaniel and John M. Gowdy | Paradise for Sale: A Parable of Nature": {
+    "title": "Paradise for Sale: A Parable of Nature",
+    "author": "Carl N. McDaniel and John M. Gowdy",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/296601",
+    "matched_title": "Paradise for Sale: A Parable of Nature",
+    "matched_authors": [
+      "Carl N. McDaniel",
+      "John M. Gowdy"
+    ],
+    "original_title": "Paradise for Sale: A Parable of Nature",
+    "work_url": "https://www.goodreads.com/work/287795-paradise-for-sale-a-parable-of-nature",
+    "work_publication_timestamp": 944035200000,
+    "displayed_first_publication": "First published December 1, 1999",
+    "year": "1999",
+    "status": "identity_requires_review"
+  },
+  "Elizabeth Diaz Rechebei and Samuel F. McPhetres | History of Palau: Heritage of an Emerging Nation": {
+    "title": "History of Palau: Heritage of an Emerging Nation",
+    "author": "Elizabeth Diaz Rechebei and Samuel F. McPhetres",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/15428580",
+    "matched_title": "History of Palau: Heritage of an Emerging Nation",
+    "matched_authors": [
+      "Elizabeth D. Rechebei",
+      "Samuel F. McPhetres"
+    ],
+    "original_title": null,
+    "work_url": "https://www.goodreads.com/work/21084836-history-of-palau-heritage-of-an-emerging-nation",
+    "work_publication_timestamp": null,
+    "displayed_first_publication": "Published January 1, 1997",
+    "status": "no_first_publication_date"
+  },
+  "Simati Faaniu et al. · edited by Hugh Laracy | Tuvalu: A History": {
+    "title": "Tuvalu: A History",
+    "author": "Simati Faaniu et al. · edited by Hugh Laracy",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/29539661",
+    "matched_title": "Tuvalu: A History",
+    "matched_authors": [],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/49839945-tuvalu-a-history",
+    "work_publication_timestamp": 410256000000,
+    "displayed_first_publication": "First published January 1, 1983",
+    "year": "1983",
+    "status": "identity_requires_review"
+  },
+  "Wil S. Hylton | Vanished": {
+    "title": "Vanished",
+    "author": "Wil S. Hylton",
+    "checked_at": "2026-11-18",
+    "source": "https://www.goodreads.com/book/show/17707499",
+    "matched_title": "Vanished: The Sixty-Year Search for the Missing Men of World War II",
+    "matched_authors": [
+      "Wil S. Hylton"
+    ],
+    "original_title": "",
+    "work_url": "https://www.goodreads.com/work/24757027-vanished-the-sixty-year-search-for-the-missing-men-of-world-war-ii",
+    "work_publication_timestamp": 1383638400000,
+    "displayed_first_publication": "First published November 5, 2013",
+    "year": "2013",
+    "status": "identity_requires_review"
+  }
+}

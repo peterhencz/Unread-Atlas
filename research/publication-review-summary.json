@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-18",
+  "book_rows_reviewed": 775,
+  "unique_title_author_pairs": 773,
+  "before": {
+    "first_published": 80,
+    "edition": 554,
+    "unverified": 141
+  },
+  "after": {
+    "first_published": 712,
+    "edition": 23,
+    "unverified": 40
+  },
+  "method": "Public Goodreads work-level dates compared with their displayed First published field and book identity; manual title/author variant review; earlier catalogue and edition conflicts held for source review; curated original-publication sources preferred. Eight pre-existing original dates or serial ranges remain explicitly classified as not freshly verified.",
+  "notes": [
+    "Goodreads dates are community-maintained, not an independent guarantee.",
+    "No edition-level publication timestamp was promoted as a work first-publication date.",
+    "All 775 rows are accounted for; 773 unique title-author pairs occur across destinations."
+  ]
+}
