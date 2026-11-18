@@ -7711,5 +7711,103 @@
       "https://www.goodreads.com/book/show/29539661"
     ],
     "audit": "research/nonfiction-additions.json"
+  },
+  {
+    "country": "Vatican City",
+    "title": "The Name of God Is Mercy",
+    "author": "Pope Francis",
+    "kind": "nonfiction",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "work": [
+      "https://www.penguinrandomhouse.com/books/540211/the-name-of-god-is-mercy-by-pope-francis/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/27405357"
+    ],
+    "audit": "research/nonfiction-expansion.json"
+  },
+  {
+    "country": "Vatican City",
+    "title": "Crossing the Threshold of Hope",
+    "author": "Pope John Paul II",
+    "kind": "nonfiction",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "work": [
+      "https://www.penguinrandomhouse.com/books/132431/crossing-the-threshold-of-hope-by-pope-john-paul-ii/9780679765615/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/276384"
+    ],
+    "audit": "research/nonfiction-expansion.json"
+  },
+  {
+    "country": "Kiribati",
+    "title": "A Pattern of Islands",
+    "author": "Arthur Grimble",
+    "kind": "nonfiction",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "work": [
+      "https://www.travelbooks.co.uk/shop-online-books/p/a-pattern-of-islands-zdnpk"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/10870269"
+    ],
+    "audit": "research/nonfiction-expansion.json"
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "title": "The Island of the Colorblind",
+    "author": "Oliver Sacks",
+    "kind": "nonfiction",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "work": [
+      "https://www.penguinrandomhouse.com/books/159610/the-island-of-the-colorblind-by-oliver-sacks/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/305606"
+    ],
+    "audit": "research/nonfiction-expansion.json"
+  },
+  {
+    "country": "Nauru",
+    "title": "The Undesirables",
+    "author": "Mark Isaacs",
+    "kind": "nonfiction",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "work": [
+      "https://publishing.hardiegrant.com/en-au/books/the-undesirables-by-mark-isaacs/9781743793121"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/21468747"
+    ],
+    "audit": "research/nonfiction-expansion.json"
+  },
+  {
+    "country": "Palau",
+    "title": "History of Palau: Heritage of an Emerging Nation",
+    "author": "Elizabeth Diaz Rechebei and Samuel F. McPhetres",
+    "kind": "nonfiction",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "work": [
+      "https://ci.nii.ac.jp/ncid/BA51354671"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/15428580"
+    ],
+    "audit": "research/nonfiction-expansion.json"
+  },
+  {
+    "country": "Tuvalu",
+    "title": "Where the Hell Is Tuvalu?",
+    "author": "Philip Ells",
+    "kind": "nonfiction",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "work": [
+      "https://www.penguin.co.uk/books/399850/where-the-hell-is-tuvalu-by-ells-philip/9780753511305"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/1188835"
+    ],
+    "audit": "research/nonfiction-expansion.json"
   }
 ]

@@ -9685,6 +9685,104 @@
       "source": "https://books.google.com/books?id=6Jk5zERqlKgC",
       "source_type": "Publisher or catalogue reference",
       "method": "Manually checked nonfiction reference; short original paraphrase. Country connection and edition evidence in nonfiction-additions.json."
+    },
+    {
+      "title": "The Name of God Is Mercy",
+      "author": "Pope Francis",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Faith",
+        "Conversations"
+      ],
+      "source": "https://www.penguinrandomhouse.com/books/540211/the-name-of-god-is-mercy-by-pope-francis/",
+      "source_type": "Publisher or institutional reference",
+      "method": "Short original paraphrase; country and edition evidence in nonfiction-expansion.json."
+    },
+    {
+      "title": "Crossing the Threshold of Hope",
+      "author": "Pope John Paul II",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Faith",
+        "Philosophy"
+      ],
+      "source": "https://www.penguinrandomhouse.com/books/132431/crossing-the-threshold-of-hope-by-pope-john-paul-ii/9780679765615/",
+      "source_type": "Publisher or institutional reference",
+      "method": "Short original paraphrase; country and edition evidence in nonfiction-expansion.json."
+    },
+    {
+      "title": "A Pattern of Islands",
+      "author": "Arthur Grimble",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Travel memoir",
+        "Oral traditions"
+      ],
+      "source": "https://www.travelbooks.co.uk/shop-online-books/p/a-pattern-of-islands-zdnpk",
+      "source_type": "Publisher or institutional reference",
+      "method": "Short original paraphrase; country and edition evidence in nonfiction-expansion.json."
+    },
+    {
+      "title": "The Island of the Colorblind",
+      "author": "Oliver Sacks",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Science & perception",
+        "Travel"
+      ],
+      "source": "https://www.penguinrandomhouse.com/books/159610/the-island-of-the-colorblind-by-oliver-sacks/",
+      "source_type": "Publisher or institutional reference",
+      "method": "Short original paraphrase; country and edition evidence in nonfiction-expansion.json."
+    },
+    {
+      "title": "The Undesirables",
+      "author": "Mark Isaacs",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Witness account",
+        "Displacement"
+      ],
+      "source": "https://publishing.hardiegrant.com/en-au/books/the-undesirables-by-mark-isaacs/9781743793121",
+      "source_type": "Publisher or institutional reference",
+      "method": "Short original paraphrase; country and edition evidence in nonfiction-expansion.json."
+    },
+    {
+      "title": "History of Palau: Heritage of an Emerging Nation",
+      "author": "Elizabeth Diaz Rechebei and Samuel F. McPhetres",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "History",
+        "Nationhood"
+      ],
+      "source": "https://micsem.org/publication-list/1997-publications-list/",
+      "source_type": "Publisher or institutional reference",
+      "method": "Short original paraphrase; country and edition evidence in nonfiction-expansion.json."
+    },
+    {
+      "title": "Where the Hell Is Tuvalu?",
+      "author": "Philip Ells",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Travel memoir",
+        "Community & law"
+      ],
+      "source": "https://www.penguin.co.uk/books/399850/where-the-hell-is-tuvalu-by-ells-philip/9780753511305",
+      "source_type": "Publisher or institutional reference",
+      "method": "Short original paraphrase; country and edition evidence in nonfiction-expansion.json."
     }
   ]
 }

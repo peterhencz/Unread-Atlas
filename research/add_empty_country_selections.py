@@ -8,6 +8,7 @@ from pathlib import Path
 import html
 import json
 import re
+from cover_placeholders import placeholder
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'research/empty-country-additions.json'
@@ -20,7 +21,7 @@ def link(url, label, cls=''):
 
 def render_book(book):
     cover = book.get('cover')
-    cover_html = '<span class="nocover">No matched cover</span>'
+    cover_html = placeholder(book['title'], book['author'])
     if cover:
         cover_html = link(book['record_source'], f'<img src="{esc(cover["path"])}" width="{cover["width"]}" height="{cover["height"]}" alt="Catalogue cover: {esc(book["title"])}" loading="lazy" decoding="async">')
     links = [link(book['record_source'], 'Book record ↗')]

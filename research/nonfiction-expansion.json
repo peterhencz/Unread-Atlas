@@ -1,0 +1,883 @@
+{
+  "checked_at": "2026-11-18",
+  "scope": "Further nonfiction selections for Vatican City and the six recently filled destinations.",
+  "method": "Manual publisher or institutional review of identity, edition dates, nonfiction form and country connection. Short original source-based paraphrases. Local and outside perspectives are explicitly identified; medical and historical subject matter is descriptive, not advice.",
+  "entries": [
+    {
+      "country": "Vatican City",
+      "title": "The Name of God Is Mercy",
+      "author": "Pope Francis",
+      "year": 2016,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.penguinrandomhouse.com/books/540211/the-name-of-god-is-mercy-by-pope-francis/",
+      "note_source": "https://www.penguinrandomhouse.com/books/540211/the-name-of-god-is-mercy-by-pope-francis/",
+      "note": "Conversations with Andrea Tornielli explore mercy, forgiveness and Francis’s pastoral experience.",
+      "tags": [
+        "Faith",
+        "Conversations"
+      ],
+      "country_connection": "A book-length interview with Pope Francis during his papacy, centred on his teaching and experience.",
+      "goodreads": "https://www.goodreads.com/book/show/27405357",
+      "isbn": "9780399588648",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780399588648&format=json&jscmd=data",
+        "candidates": []
+      },
+      "cover_candidate": {
+        "url": "https://images3.penguinrandomhouse.com/cover/9780399588648",
+        "source": "https://www.penguinrandomhouse.com/books/540211/the-name-of-god-is-mercy-by-pope-francis/",
+        "provider": "Publisher book page"
+      },
+      "cover": {
+        "path": "assets/covers/country-3a885d214e5289.jpg",
+        "width": 305,
+        "height": 450,
+        "url": "https://images3.penguinrandomhouse.com/cover/9780399588648",
+        "source": "https://www.penguinrandomhouse.com/books/540211/the-name-of-god-is-mercy-by-pope-francis/"
+      }
+    },
+    {
+      "country": "Vatican City",
+      "title": "Crossing the Threshold of Hope",
+      "author": "Pope John Paul II",
+      "year": 1995,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.penguinrandomhouse.com/books/132431/crossing-the-threshold-of-hope-by-pope-john-paul-ii/9780679765615/",
+      "note_source": "https://www.penguinrandomhouse.com/books/132431/crossing-the-threshold-of-hope-by-pope-john-paul-ii/9780679765615/",
+      "note": "John Paul II reflects on belief, suffering, human dignity and relations between religions.",
+      "tags": [
+        "Faith",
+        "Philosophy"
+      ],
+      "country_connection": "Written by John Paul II as pope, offering a direct route into his thought and Vatican leadership.",
+      "goodreads": "https://www.goodreads.com/book/show/276384",
+      "isbn": "9780679765615",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780679765615&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL30698921M/Crossing_the_Threshold_of_Hope",
+            "key": "/books/OL30698921M",
+            "title": "Crossing the Threshold of Hope",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL28457A/John_Paul_II",
+                "name": "John Paul II"
+              }
+            ],
+            "number_of_pages": 256,
+            "identifiers": {
+              "isbn_10": [
+                "0679765611"
+              ],
+              "isbn_13": [
+                "9780679765615"
+              ],
+              "openlibrary": [
+                "OL30698921M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "BX1751.2"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Knopf"
+              }
+            ],
+            "publish_date": "Sep 19, 1995",
+            "subjects": [
+              {
+                "name": "John paul ii, pope, 1920-2005",
+                "url": "https://openlibrary.org/subjects/john_paul_ii,_pope,_1920-2005"
+              },
+              {
+                "name": "Papal documents",
+                "url": "https://openlibrary.org/subjects/papal_documents"
+              },
+              {
+                "name": "Catholic church, doctrines",
+                "url": "https://openlibrary.org/subjects/catholic_church,_doctrines"
+              },
+              {
+                "name": "Spiritual life, catholic church",
+                "url": "https://openlibrary.org/subjects/spiritual_life,_catholic_church"
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/10492786-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/10492786-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/10492786-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/10492786-L.jpg",
+        "source": "http://openlibrary.org/books/OL30698921M/Crossing_the_Threshold_of_Hope",
+        "provider": "Open Library, manually compared title variant, authors and publisher ISBN"
+      },
+      "catalogue_match_note": "Same publisher ISBN and author; catalogue title may omit the article or expand the subtitle.",
+      "cover": {
+        "path": "assets/covers/country-5811bc043bfb50.jpg",
+        "width": 273,
+        "height": 500,
+        "url": "https://covers.openlibrary.org/b/id/10492786-L.jpg",
+        "source": "http://openlibrary.org/books/OL30698921M/Crossing_the_Threshold_of_Hope"
+      }
+    },
+    {
+      "country": "Kiribati",
+      "title": "A Pattern of Islands",
+      "author": "Arthur Grimble",
+      "year": 2011,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.travelbooks.co.uk/shop-online-books/p/a-pattern-of-islands-zdnpk",
+      "note_source": "https://www.travelbooks.co.uk/shop-online-books/p/a-pattern-of-islands-zdnpk",
+      "note": "A colonial administrator recalls island life, language and oral traditions in the Gilbert Islands.",
+      "tags": [
+        "Travel memoir",
+        "Oral traditions"
+      ],
+      "country_connection": "Grimble lived in the Gilbert and Ellice Islands as a British colonial official. This is a historical outsider perspective.",
+      "goodreads": "https://www.goodreads.com/book/show/10870269",
+      "isbn": "9781906011451",
+      "additional_sources": [
+        "https://obnb.uk/p15669709-a-pattern-of-islands"
+      ],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "date_source": "https://obnb.uk/p15669709-a-pattern-of-islands",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9781906011451&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL27639444M/A_Pattern_of_Islands",
+            "key": "/books/OL27639444M",
+            "title": "A Pattern of Islands",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL2697689A/Arthur_Grimble",
+                "name": "Arthur Grimble"
+              }
+            ],
+            "number_of_pages": 272,
+            "identifiers": {
+              "amazon": [
+                "1906011451"
+              ],
+              "isbn_10": [
+                "1906011451"
+              ],
+              "isbn_13": [
+                "9781906011451"
+              ],
+              "oclc": [
+                "695655132"
+              ],
+              "openlibrary": [
+                "OL27639444M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "DU615",
+                "DU615 .G83 2010"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Eland Publishing"
+              }
+            ],
+            "publish_date": "Sep 08, 2011",
+            "subjects": [
+              {
+                "name": "Social life and customs",
+                "url": "https://openlibrary.org/subjects/social_life_and_customs"
+              },
+              {
+                "name": "Kiribati",
+                "url": "https://openlibrary.org/subjects/kiribati"
+              },
+              {
+                "name": "Pacific ocean, description and travel",
+                "url": "https://openlibrary.org/subjects/pacific_ocean,_description_and_travel"
+              },
+              {
+                "name": "Tuvalu",
+                "url": "https://openlibrary.org/subjects/tuvalu"
+              },
+              {
+                "name": "Pacific area, social conditions",
+                "url": "https://openlibrary.org/subjects/pacific_area,_social_conditions"
+              },
+              {
+                "name": "Travel",
+                "url": "https://openlibrary.org/subjects/travel"
+              },
+              {
+                "name": "Description and travel",
+                "url": "https://openlibrary.org/subjects/description_and_travel"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Kiribati",
+                "url": "https://openlibrary.org/subjects/place:kiribati"
+              },
+              {
+                "name": "Tuvalu",
+                "url": "https://openlibrary.org/subjects/place:tuvalu"
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/9086161-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/9086161-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/9086161-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/9086161-L.jpg",
+        "source": "http://openlibrary.org/books/OL27639444M/A_Pattern_of_Islands",
+        "provider": "Open Library, manually compared title variant, authors and publisher ISBN"
+      },
+      "catalogue_match_note": "Same publisher ISBN and author; catalogue title may omit the article or expand the subtitle.",
+      "cover": {
+        "path": "assets/covers/country-1eccf36851d7f6.jpg",
+        "width": 319,
+        "height": 500,
+        "url": "https://covers.openlibrary.org/b/id/9086161-L.jpg",
+        "source": "http://openlibrary.org/books/OL27639444M/A_Pattern_of_Islands"
+      }
+    },
+    {
+      "country": "Federated States of Micronesia",
+      "title": "The Island of the Colorblind",
+      "author": "Oliver Sacks",
+      "year": 1998,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.penguinrandomhouse.com/books/159610/the-island-of-the-colorblind-by-oliver-sacks/",
+      "note_source": "https://www.penguinrandomhouse.com/books/159610/the-island-of-the-colorblind-by-oliver-sacks/",
+      "note": "Visits to Pingelap and Guam connect perception, island life and neurological inquiry.",
+      "tags": [
+        "Science & perception",
+        "Travel"
+      ],
+      "country_connection": "Sacks visits Pingelap in Pohnpei State, within the Federated States of Micronesia. The book also covers Guam, a separate territory.",
+      "goodreads": "https://www.goodreads.com/book/show/305606",
+      "isbn": "9780375700736",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780375700736&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL25985477M/The_Island_Of_The_Colorblind_And_Cycad_Island",
+            "key": "/books/OL25985477M",
+            "title": "The Island Of The Colorblind And Cycad Island",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL217344A/Oliver_Sacks",
+                "name": "Oliver Sacks"
+              }
+            ],
+            "identifiers": {
+              "isbn_13": [
+                "9780375700736"
+              ],
+              "openlibrary": [
+                "OL25985477M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "RE921"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Vintage Books"
+              }
+            ],
+            "publish_date": "1998",
+            "subjects": [
+              {
+                "name": "Diseases",
+                "url": "https://openlibrary.org/subjects/diseases"
+              },
+              {
+                "name": "Medical anthropology",
+                "url": "https://openlibrary.org/subjects/medical_anthropology"
+              },
+              {
+                "name": "Chamorro (Micronesian people)",
+                "url": "https://openlibrary.org/subjects/chamorro_(micronesian_people)"
+              },
+              {
+                "name": "Amyotrophic lateral sclerosis",
+                "url": "https://openlibrary.org/subjects/amyotrophic_lateral_sclerosis"
+              },
+              {
+                "name": "Cycads",
+                "url": "https://openlibrary.org/subjects/cycads"
+              },
+              {
+                "name": "Color blindness",
+                "url": "https://openlibrary.org/subjects/color_blindness"
+              },
+              {
+                "name": "Dementia",
+                "url": "https://openlibrary.org/subjects/dementia"
+              },
+              {
+                "name": "Parkinson's disease",
+                "url": "https://openlibrary.org/subjects/parkinson's_disease"
+              },
+              {
+                "name": "Pingelap (Micronesian people)",
+                "url": "https://openlibrary.org/subjects/pingelap_(micronesian_people)"
+              },
+              {
+                "name": "Description and travel",
+                "url": "https://openlibrary.org/subjects/description_and_travel"
+              },
+              {
+                "name": "Autobiography",
+                "url": "https://openlibrary.org/subjects/autobiography"
+              },
+              {
+                "name": "Physicians",
+                "url": "https://openlibrary.org/subjects/physicians"
+              },
+              {
+                "name": "Achromatopsie",
+                "url": "https://openlibrary.org/subjects/achromatopsie"
+              },
+              {
+                "name": "Travel",
+                "url": "https://openlibrary.org/subjects/travel"
+              },
+              {
+                "name": "Nerveux, Système",
+                "url": "https://openlibrary.org/subjects/nerveux,_système"
+              },
+              {
+                "name": "Paralysie",
+                "url": "https://openlibrary.org/subjects/paralysie"
+              },
+              {
+                "name": "Voyages",
+                "url": "https://openlibrary.org/subjects/voyages"
+              },
+              {
+                "name": "Neurobiologie",
+                "url": "https://openlibrary.org/subjects/neurobiologie"
+              },
+              {
+                "name": "Dégénérescence",
+                "url": "https://openlibrary.org/subjects/dégénérescence"
+              },
+              {
+                "name": "Kleurenblindheid",
+                "url": "https://openlibrary.org/subjects/kleurenblindheid"
+              },
+              {
+                "name": "Personal Narratives",
+                "url": "https://openlibrary.org/subjects/personal_narratives"
+              },
+              {
+                "name": "Color Vision Defects",
+                "url": "https://openlibrary.org/subjects/color_vision_defects"
+              },
+              {
+                "name": "Parkinson Disease",
+                "url": "https://openlibrary.org/subjects/parkinson_disease"
+              },
+              {
+                "name": "44.73 geographical medicine",
+                "url": "https://openlibrary.org/subjects/44.73_geographical_medicine"
+              },
+              {
+                "name": "Neurobiology",
+                "url": "https://openlibrary.org/subjects/neurobiology"
+              },
+              {
+                "name": "Color-blindness",
+                "url": "https://openlibrary.org/subjects/color-blindness"
+              },
+              {
+                "name": "Bevölkerung",
+                "url": "https://openlibrary.org/subjects/bevölkerung"
+              },
+              {
+                "name": "Postencephalitis",
+                "url": "https://openlibrary.org/subjects/postencephalitis"
+              },
+              {
+                "name": "Palmfarngewächse",
+                "url": "https://openlibrary.org/subjects/palmfarngewächse"
+              },
+              {
+                "name": "Endemie",
+                "url": "https://openlibrary.org/subjects/endemie"
+              },
+              {
+                "name": "Geomedizin",
+                "url": "https://openlibrary.org/subjects/geomedizin"
+              },
+              {
+                "name": "Farbenblindheit",
+                "url": "https://openlibrary.org/subjects/farbenblindheit"
+              },
+              {
+                "name": "Public health, pacific area",
+                "url": "https://openlibrary.org/subjects/public_health,_pacific_area"
+              },
+              {
+                "name": "Oceania, description and travel",
+                "url": "https://openlibrary.org/subjects/oceania,_description_and_travel"
+              },
+              {
+                "name": "Symptomatic Parkinson's disease",
+                "url": "https://openlibrary.org/subjects/symptomatic_parkinson's_disease"
+              },
+              {
+                "name": "Secondary Parkinson Disease",
+                "url": "https://openlibrary.org/subjects/secondary_parkinson_disease"
+              },
+              {
+                "name": "Maladie de Parkinson",
+                "url": "https://openlibrary.org/subjects/maladie_de_parkinson"
+              },
+              {
+                "name": "Démence",
+                "url": "https://openlibrary.org/subjects/démence"
+              },
+              {
+                "name": "Sclérose latérale amyotrophique",
+                "url": "https://openlibrary.org/subjects/sclérose_latérale_amyotrophique"
+              },
+              {
+                "name": "Chamorro (Peuple de Micronésie)",
+                "url": "https://openlibrary.org/subjects/chamorro_(peuple_de_micronésie)"
+              },
+              {
+                "name": "Maladies",
+                "url": "https://openlibrary.org/subjects/maladies"
+              },
+              {
+                "name": "Pingelap (Peuple de Micronésie)",
+                "url": "https://openlibrary.org/subjects/pingelap_(peuple_de_micronésie)"
+              },
+              {
+                "name": "Cycadales",
+                "url": "https://openlibrary.org/subjects/cycadales"
+              },
+              {
+                "name": "Anthropologie médicale",
+                "url": "https://openlibrary.org/subjects/anthropologie_médicale"
+              },
+              {
+                "name": "Descriptions et voyages",
+                "url": "https://openlibrary.org/subjects/descriptions_et_voyages"
+              },
+              {
+                "name": "Parkinson maladie",
+                "url": "https://openlibrary.org/subjects/parkinson_maladie"
+              },
+              {
+                "name": "Troubles de la vision des couleurs",
+                "url": "https://openlibrary.org/subjects/troubles_de_la_vision_des_couleurs"
+              },
+              {
+                "name": "Vision des couleurs",
+                "url": "https://openlibrary.org/subjects/vision_des_couleurs"
+              },
+              {
+                "name": "Daltonisme",
+                "url": "https://openlibrary.org/subjects/daltonisme"
+              },
+              {
+                "name": "Maladie endémique",
+                "url": "https://openlibrary.org/subjects/maladie_endémique"
+              },
+              {
+                "name": "Couleur",
+                "url": "https://openlibrary.org/subjects/couleur"
+              },
+              {
+                "name": "Perception visuelle",
+                "url": "https://openlibrary.org/subjects/perception_visuelle"
+              },
+              {
+                "name": "Troubles",
+                "url": "https://openlibrary.org/subjects/troubles"
+              },
+              {
+                "name": "Parkinsonism",
+                "url": "https://openlibrary.org/subjects/parkinsonism"
+              },
+              {
+                "name": "Neurology",
+                "url": "https://openlibrary.org/subjects/neurology"
+              },
+              {
+                "name": "Anecdotes",
+                "url": "https://openlibrary.org/subjects/anecdotes"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Guam",
+                "url": "https://openlibrary.org/subjects/place:guam"
+              },
+              {
+                "name": "Micronesia",
+                "url": "https://openlibrary.org/subjects/place:micronesia"
+              },
+              {
+                "name": "Caroline Islands",
+                "url": "https://openlibrary.org/subjects/place:caroline_islands"
+              },
+              {
+                "name": "Micronesia (Federated States)",
+                "url": "https://openlibrary.org/subjects/place:micronesia_(federated_states)"
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/7511344-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/7511344-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/7511344-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/7511344-L.jpg",
+        "source": "http://openlibrary.org/books/OL25985477M/The_Island_Of_The_Colorblind_And_Cycad_Island",
+        "provider": "Open Library, manually compared title variant, authors and publisher ISBN"
+      },
+      "catalogue_match_note": "Same publisher ISBN and author; catalogue title may omit the article or expand the subtitle.",
+      "cover": {
+        "path": "assets/covers/country-96b8f152473c42.jpg",
+        "width": 258,
+        "height": 400,
+        "url": "https://covers.openlibrary.org/b/id/7511344-L.jpg",
+        "source": "http://openlibrary.org/books/OL25985477M/The_Island_Of_The_Colorblind_And_Cycad_Island"
+      }
+    },
+    {
+      "country": "Nauru",
+      "title": "The Undesirables",
+      "author": "Mark Isaacs",
+      "year": 2017,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://publishing.hardiegrant.com/en-au/books/the-undesirables-by-mark-isaacs/9781743793121",
+      "note_source": "https://publishing.hardiegrant.com/en-au/books/the-undesirables-by-mark-isaacs/9781743793121",
+      "note": "A former aid worker recounts life inside Australia’s offshore detention centre on Nauru.",
+      "tags": [
+        "Witness account",
+        "Displacement"
+      ],
+      "country_connection": "Isaacs worked at the Nauru detention centre; this is an eyewitness account by an Australian worker.",
+      "goodreads": "https://www.goodreads.com/book/show/21468747",
+      "isbn": "9781743793121",
+      "additional_sources": [
+        "https://markjisaacs.com/product/the-undesirables/"
+      ],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9781743793121&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL28692354M/Undesirables",
+            "key": "/books/OL28692354M",
+            "title": "Undesirables",
+            "subtitle": "Inside Nauru",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL1447741A/Mark_Isaacs",
+                "name": "Mark Isaacs"
+              }
+            ],
+            "number_of_pages": 368,
+            "identifiers": {
+              "isbn_13": [
+                "9781743793121"
+              ],
+              "openlibrary": [
+                "OL28692354M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                ""
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Hardie Grant Books"
+              }
+            ],
+            "publish_date": "2017",
+            "subjects": [
+              {
+                "name": "Illegal aliens -- Australia",
+                "url": "https://openlibrary.org/subjects/illegal_aliens_--_australia"
+              },
+              {
+                "name": "Political refugees -- Australia",
+                "url": "https://openlibrary.org/subjects/political_refugees_--_australia"
+              },
+              {
+                "name": "Alien detention centers -- Nauru",
+                "url": "https://openlibrary.org/subjects/alien_detention_centers_--_nauru"
+              },
+              {
+                "name": "Detention of persons -- Australia",
+                "url": "https://openlibrary.org/subjects/detention_of_persons_--_australia"
+              },
+              {
+                "name": "Aliens -- Institutional care -- Australia",
+                "url": "https://openlibrary.org/subjects/aliens_--_institutional_care_--_australia"
+              },
+              {
+                "name": "Refugees and human rights -- Australia",
+                "url": "https://openlibrary.org/subjects/refugees_and_human_rights_--_australia"
+              },
+              {
+                "name": "Refugees -- Government policy -- Australia",
+                "url": "https://openlibrary.org/subjects/refugees_--_government_policy_--_australia"
+              },
+              {
+                "name": "Alien detention centers",
+                "url": "https://openlibrary.org/subjects/alien_detention_centers"
+              },
+              {
+                "name": "Detention of persons",
+                "url": "https://openlibrary.org/subjects/detention_of_persons"
+              },
+              {
+                "name": "Emigration and immigration -- Government policy",
+                "url": "https://openlibrary.org/subjects/emigration_and_immigration_--_government_policy"
+              },
+              {
+                "name": "Illegal aliens",
+                "url": "https://openlibrary.org/subjects/illegal_aliens"
+              },
+              {
+                "name": "Political refugees",
+                "url": "https://openlibrary.org/subjects/political_refugees"
+              },
+              {
+                "name": "Politics and government",
+                "url": "https://openlibrary.org/subjects/politics_and_government"
+              },
+              {
+                "name": "Refugees -- Government policy",
+                "url": "https://openlibrary.org/subjects/refugees_--_government_policy"
+              },
+              {
+                "name": "Australia -- Emigration and immigration -- Government policy",
+                "url": "https://openlibrary.org/subjects/australia_--_emigration_and_immigration_--_government_policy"
+              },
+              {
+                "name": "Nauru -- Politics and government",
+                "url": "https://openlibrary.org/subjects/nauru_--_politics_and_government"
+              },
+              {
+                "name": "Australia",
+                "url": "https://openlibrary.org/subjects/australia"
+              },
+              {
+                "name": "Nauru",
+                "url": "https://openlibrary.org/subjects/nauru"
+              }
+            ],
+            "ebooks": [
+              {
+                "preview_url": "https://archive.org/details/undesirablesinsi0000isaa",
+                "availability": "borrow",
+                "formats": {},
+                "borrow_url": "https://openlibrary.org/books/OL28692354M/Undesirables/borrow",
+                "checkedout": false
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/14528792-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/14528792-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/14528792-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/14528792-L.jpg",
+        "source": "http://openlibrary.org/books/OL28692354M/Undesirables",
+        "provider": "Open Library, manually compared title variant, authors and publisher ISBN"
+      },
+      "catalogue_match_note": "Same publisher ISBN and author; catalogue title may omit the article or expand the subtitle.",
+      "cover": {
+        "path": "assets/covers/country-ac5fb3e66ff7c3.jpg",
+        "width": 322,
+        "height": 500,
+        "url": "https://covers.openlibrary.org/b/id/14528792-L.jpg",
+        "source": "http://openlibrary.org/books/OL28692354M/Undesirables"
+      }
+    },
+    {
+      "country": "Palau",
+      "title": "History of Palau: Heritage of an Emerging Nation",
+      "author": "Elizabeth Diaz Rechebei and Samuel F. McPhetres",
+      "year": 1997,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://ci.nii.ac.jp/ncid/BA51354671",
+      "note_source": "https://micsem.org/publication-list/1997-publications-list/",
+      "note": "A collective national history traces Palau’s heritage and its path toward independence.",
+      "tags": [
+        "History",
+        "Nationhood"
+      ],
+      "country_connection": "Published in Koror by Palau’s Ministry of Education and used in Palauan education; complements externally authored reporting.",
+      "goodreads": "https://www.goodreads.com/book/show/15428580",
+      "isbn": "9780965277632",
+      "additional_sources": [
+        "https://pcc.palau.edu/wp-content/uploads/2016/02/Learner-centered-Classrooms-Course-Book.pdf"
+      ],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780965277632&format=json&jscmd=data",
+        "candidates": []
+      }
+    },
+    {
+      "country": "Tuvalu",
+      "title": "Where the Hell Is Tuvalu?",
+      "author": "Philip Ells",
+      "year": 2006,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.penguin.co.uk/books/399850/where-the-hell-is-tuvalu-by-ells-philip/9780753511305",
+      "note_source": "https://www.penguin.co.uk/books/399850/where-the-hell-is-tuvalu-by-ells-philip/9780753511305",
+      "note": "A British lawyer recounts the surprises and responsibilities of working in Tuvalu.",
+      "tags": [
+        "Travel memoir",
+        "Community & law"
+      ],
+      "country_connection": "Ells worked as the People’s Lawyer in Tuvalu. His account is an expatriate perspective.",
+      "goodreads": "https://www.goodreads.com/book/show/1188835",
+      "isbn": "9780753511305",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780753511305&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL7987769M/Where_the_Hell_is_Tuvalu",
+            "key": "/books/OL7987769M",
+            "title": "Where the Hell is Tuvalu?",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL2829490A/Philip_Ells",
+                "name": "Philip Ells"
+              }
+            ],
+            "number_of_pages": 256,
+            "weight": "7.8 ounces",
+            "identifiers": {
+              "goodreads": [
+                "1188835"
+              ],
+              "librarything": [
+                "1221900"
+              ],
+              "isbn_10": [
+                "0753511304"
+              ],
+              "isbn_13": [
+                "9780753511305"
+              ],
+              "oclc": [
+                "62714434"
+              ],
+              "openlibrary": [
+                "OL7987769M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "DU28"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Virgin Books"
+              }
+            ],
+            "publish_date": "June 27, 2006",
+            "subjects": [
+              {
+                "name": "Lawyers, great britain",
+                "url": "https://openlibrary.org/subjects/lawyers,_great_britain"
+              },
+              {
+                "name": "Tuvalu",
+                "url": "https://openlibrary.org/subjects/tuvalu"
+              },
+              {
+                "name": "Oceania, guidebooks",
+                "url": "https://openlibrary.org/subjects/oceania,_guidebooks"
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/500902-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/500902-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/500902-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/500902-L.jpg",
+        "source": "http://openlibrary.org/books/OL7987769M/Where_the_Hell_is_Tuvalu",
+        "provider": "Open Library, manually compared title variant, authors and publisher ISBN"
+      },
+      "catalogue_match_note": "Same publisher ISBN and author; catalogue title may omit the article or expand the subtitle.",
+      "cover": {
+        "path": "assets/covers/country-11a556dc6426a8.jpg",
+        "width": 337,
+        "height": 500,
+        "url": "https://covers.openlibrary.org/b/id/500902-L.jpg",
+        "source": "http://openlibrary.org/books/OL7987769M/Where_the_Hell_is_Tuvalu"
+      }
+    }
+  ]
+}
