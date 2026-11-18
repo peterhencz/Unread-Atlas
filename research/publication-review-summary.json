@@ -8,14 +8,38 @@
     "unverified": 141
   },
   "after": {
-    "first_published": 712,
-    "edition": 23,
-    "unverified": 40
+    "first_published": 772,
+    "edition": 2,
+    "unverified": 1
   },
   "method": "Public Goodreads work-level dates compared with their displayed First published field and book identity; manual title/author variant review; earlier catalogue and edition conflicts held for source review; curated original-publication sources preferred. Eight pre-existing original dates or serial ranges remain explicitly classified as not freshly verified.",
   "notes": [
     "Goodreads dates are community-maintained, not an independent guarantee.",
     "No edition-level publication timestamp was promoted as a work first-publication date.",
     "All 775 rows are accounted for; 773 unique title-author pairs occur across destinations."
-  ]
+  ],
+  "followup": {
+    "reviewed": 63,
+    "original_publication_confirmed": 60,
+    "before": {
+      "first_published": 712,
+      "edition": 23,
+      "unverified": 40
+    },
+    "remaining": [
+      {
+        "title": "The End of the Legend",
+        "reason": "Conflicting original dates: 1969 / 1974."
+      },
+      {
+        "title": "Lifestyle in the Countryside",
+        "reason": "Only 1994 edition is established."
+      },
+      {
+        "title": "15 Dias de Regresso",
+        "reason": "Conflicting original dates: 1993 / 1994."
+      }
+    ],
+    "sources": "publication-followup-sources.json"
+  }
 }

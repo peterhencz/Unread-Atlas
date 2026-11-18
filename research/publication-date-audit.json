@@ -2,11 +2,11 @@
   "date": "2026-11-18",
   "policy": "Prefer original-language first publication. Goodreads work-level dates are checked against the displayed First published field, title and author; conflicting earlier editions are held for review. Curated original-publication sources take precedence. Edition dates remain explicit fallbacks.",
   "summary": {
-    "verified-original": 95,
+    "verified-original": 155,
     "goodreads-work-first-publication": 609,
     "existing-original-not-reverified": 8,
-    "unresolved": 40,
-    "edition-fallback": 23
+    "unresolved": 1,
+    "edition-fallback": 2
   },
   "books": [
     {
@@ -545,8 +545,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2009",
+      "source": "https://wiedling-litag.com/authors/Martinovich.html",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Dogs of Europe",
@@ -554,8 +556,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2017",
+      "source": "https://literatur.review/en/reviews/fiction/nothing-certain-anytime-anywhere",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "King Stakh's Wild Hunt",
@@ -1084,8 +1088,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2009",
+      "source": "https://euprizeliterature.eu/sites/default/files/2022-01/EUPL%20Eleven%20Winning%20Authors%202010.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Skylark",
@@ -1173,8 +1179,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2018",
+      "source": "https://www.tnb.ro/en/the-glass-garden",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Kinderland",
@@ -1202,8 +1210,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://editions-exaequo.com/livres/la-dame-des-brumes-de-patrice-woolley/\" target=\"_blank\" rel=\"noopener\">Edition: 2016</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://editions-exaequo.com/livres/la-dame-des-brumes-de-patrice-woolley/\" target=\"_blank\" rel=\"noopener\">Edition: 2016</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "2016",
+      "source": "https://editions-exaequo.com/livres/la-dame-des-brumes-de-patrice-woolley/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Son",
@@ -1501,8 +1511,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1955–1967",
+      "source": "https://bibliotecasatumare.ro/detalii-istorie/?ev_id=607",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Adventures in Immediate Irreality",
@@ -1540,8 +1552,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://www.ibs.it/androceo-storia-di-virus-di-libro-milena-ercolani/e/9788872111376\" target=\"_blank\" rel=\"noopener\">Edition: 2020</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://www.ibs.it/androceo-storia-di-virus-di-libro-milena-ercolani/e/9788872111376\" target=\"_blank\" rel=\"noopener\">Edition: 2020</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "2020",
+      "source": "https://www.youtube.com/watch?v=ZDHp0FYm4VA",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Don Quijote",
@@ -1768,8 +1782,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2008",
+      "source": "https://euprizeliterature.eu/sites/default/files/2022-01/EUPL_2009_Pavol_Rankov_Slovakia.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Seeing People Off",
@@ -1988,8 +2004,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL50702627M\" target=\"_blank\" rel=\"noopener\" title=\"Stone Dreams — 2022\">Edition: 2022</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL50702627M\" target=\"_blank\" rel=\"noopener\" title=\"Stone Dreams — 2022\">Edition: 2022</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "2012",
+      "source": "https://en.apa.az/print/190920",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Quixotiq",
@@ -2077,8 +2095,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL636532M\" target=\"_blank\" rel=\"noopener\" title=\"The hero with a thousand eyes — 1995\">Edition: 1995</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL636532M\" target=\"_blank\" rel=\"noopener\" title=\"The hero with a thousand eyes — 1995\">Edition: 1995</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1995",
+      "source": "https://www.repository.cam.ac.uk/bitstream/handle/1810/227030/JBS_01_01_04.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Forlorn Adventure",
@@ -2226,8 +2246,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2021",
+      "source": "https://www.arabicfiction.org/sites/default/files/NEW%20IPAF%202022%20Engish%20booklet%26cover%20online-compressed_0.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Galagolia",
@@ -2235,8 +2257,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2012",
+      "source": "https://sailemagazine.com/2012/03/interview-with-dubai-abulhoul/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Friend",
@@ -2244,8 +2268,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1988",
+      "source": "https://www.netgalley.com/catalog/book/178176",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Hwang Jini",
@@ -2253,8 +2279,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2002",
+      "source": "https://www.cia.gov/resources/csi/static/Changgom-Long-Sword.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Noli Me Tangere",
@@ -2572,8 +2600,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1968",
+      "source": "https://books.google.com/books/about/My_Michael.html?id=j3FIE92FEvcC",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Lover",
@@ -2581,8 +2611,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1977",
+      "source": "https://liepmanagency.com/wp-content/uploads/2022/03/Liepman-International-Catalogue-Spring-2022.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Blooms of Darkness",
@@ -2700,8 +2732,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2014",
+      "source": "https://icn.com/en-jo/product/suslovs-daughter---habib-abdulrab-sarori-1hnhI0",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Pillars of Salt",
@@ -2739,8 +2773,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2009",
+      "source": "https://archive.arabicfiction.org/en/node/474",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Time of White Horses",
@@ -2778,8 +2814,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2011",
+      "source": "https://doi.org/10.1080/17449855.2021.1931413",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Holy Sail",
@@ -2807,8 +2845,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1928",
+      "source": "https://www.iias.asia/sites/iias/files/nwl_article/2019-05/IIAS_NL74_3233.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The End of the Legend",
@@ -2817,7 +2857,13 @@
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
       "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "unresolved",
+      "followup_status": "conflicting_original_dates",
+      "review_note": "1969 and 1974 appear in research sources; original-title/first-version publication history is not resolved.",
+      "review_sources": [
+        "https://dergipark.org.tr/tr/download/issue-full-file/95464",
+        "https://ku.edu.kz/files/conference/evol2019/evol2019.pdf"
+      ]
     },
     {
       "title": "Lonely Yurt",
@@ -2825,8 +2871,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL27433348M\" target=\"_blank\" rel=\"noopener\" title=\"Lonely Yurt — Nov 13, 2016\">Edition: 2016</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL27433348M\" target=\"_blank\" rel=\"noopener\" title=\"Lonely Yurt — Nov 13, 2016\">Edition: 2016</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1990",
+      "source": "https://adebiportal.kz/ru/authors/view/39",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Requiem para o navegador solitário",
@@ -2925,8 +2973,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL4362447M\" target=\"_blank\" rel=\"noopener\" title=\"Farewell Gulsary! = — 1976\">Edition: 1976</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL4362447M\" target=\"_blank\" rel=\"noopener\" title=\"Farewell Gulsary! = — 1976\">Edition: 1976</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1966",
+      "source": "https://journals.rudn.ru/semiotics-semantics/article/view/14310/ru_RU",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The White Ship",
@@ -3105,7 +3155,13 @@
       "previous_date_html": "<div class=\"publication\"><a href=\"https://www.irci.jp/rdb/item/13605\" target=\"_blank\" rel=\"noopener\">Edition: 1994</a></div>",
       "checked_at": "2026-11-18",
       "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "edition-fallback",
+      "followup_status": "edition_only",
+      "review_note": "IRCI and public library records establish a 1994 publication/printing, but not first publication.",
+      "review_sources": [
+        "https://www.irci.jp/rdb/item/13605",
+        "https://library.kulhudhuffushicity.gov.mv/cgi-bin/koha/opac-search.pl?count=20&offset=1560&q=ccl%3Dpl%3A%22MALE%22&sort_by=relevance"
+      ]
     },
     {
       "title": "Smile as They Bow",
@@ -3195,8 +3251,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1969",
+      "source": "https://www.nepaliexpert.com/book/sumnima",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Karnali Blues",
@@ -3264,8 +3322,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2021",
+      "source": "https://leila-arabicliterature.com/book/dilshad-hungry-and-sated/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Earth Weeps, Saturn Laughs",
@@ -3493,8 +3553,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2011",
+      "source": "https://www.newwriting.net/2012/07/the-beaver/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Fistful of Colours",
@@ -3583,8 +3645,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1966",
+      "source": "https://nou.edu.ng/coursewarecontent/ARA323%20-%20ARABIC%20NOVEL.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Sarmada",
@@ -3642,8 +3706,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL53846685M\" target=\"_blank\" rel=\"noopener\" title=\"Time: A Thai novel — 2010\">Edition: 2010</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL53846685M\" target=\"_blank\" rel=\"noopener\" title=\"Time: A Thai novel — 2010\">Edition: 2010</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1993",
+      "source": "https://eprints.soas.ac.uk/23656/1/Techawongstien_4298.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Mad Dogs & Company",
@@ -3651,8 +3717,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1988",
+      "source": "https://www.nationthailand.com/lifestyle/shopping/30237312",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Time Regulation Institute",
@@ -3720,8 +3788,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2002",
+      "source": "https://www.welsapar.com/books.html",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Bygone Days",
@@ -3729,8 +3799,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1922",
+      "source": "https://www.aramcoworld.com/en/resources/reviews/2021/otkan-kunlar-bygone-days",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Night and Day",
@@ -3738,8 +3810,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1936",
+      "source": "https://www.uzbekliterature.uz/sites/default/files/abdulhamid-cholpons-story-of-the-night-and-day.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Railway",
@@ -3937,8 +4011,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL30401466M\" target=\"_blank\" rel=\"noopener\" title=\"As she was discovering Tigony — 2016\">Edition: 2016</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL30401466M\" target=\"_blank\" rel=\"noopener\" title=\"As she was discovering Tigony — 2016\">Edition: 2016</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "2000",
+      "source": "https://www.brvm.org/sites/default/files/20090530_-_ra_-_nei-ceda_ci_-_exercice_2000.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Ultimate Tragedy",
@@ -4408,8 +4484,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL1950718M\" target=\"_blank\" rel=\"noopener\" title=\"Chaff on the wind — 1986\">Edition: 1986</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL1950718M\" target=\"_blank\" rel=\"noopener\" title=\"Chaff on the wind — 1986\">Edition: 1986</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1986",
+      "source": "https://gambiawhoswho.gm/people/ebou-dibba/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Fafa",
@@ -4497,8 +4575,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL12524435M\" target=\"_blank\" rel=\"noopener\" title=\"Saint Monsieur Baly — July 11, 2000\">Edition: 2000</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL12524435M\" target=\"_blank\" rel=\"noopener\" title=\"Saint Monsieur Baly — July 11, 2000\">Edition: 2000</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1973",
+      "source": "https://www.ledonline.it/index.php/Ponts/article/download/405/378",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Oldest Orphan",
@@ -4656,8 +4736,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1973",
+      "source": "https://www.tandfonline.com/doi/pdf/10.1080/23323256.2025.2516042",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Full Circle",
@@ -4675,8 +4757,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1979",
+      "source": "https://pmb.ccnigerien.org/opac_css/index.php?id=12230&lvl=notice_display",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Broken Glass",
@@ -4775,8 +4859,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1999",
+      "source": "https://www.abebooks.com/9781908446497/Land-Fathers-Sherif-Vamba-1908446498/plp",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Bound to Secrecy",
@@ -4804,8 +4890,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2011",
+      "source": "https://www.litnet.co.za/a-crime-thriller-that-can-offer-more-than-cheap-thrills-reading-hj/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Rain and the Night",
@@ -4994,8 +5082,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2018",
+      "source": "https://www.bm-auxerre.fr/index.php/notices/je-suis-seul",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Eve Out of Her Ruins",
@@ -5124,8 +5214,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL1267057M\" target=\"_blank\" rel=\"noopener\" title=\"Troubled waters — 1993\">Edition: 1993</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL1267057M\" target=\"_blank\" rel=\"noopener\" title=\"Troubled waters — 1993\">Edition: 1993</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1993",
+      "source": "https://www.themodernnovel.org/africa/other-africa/namibia/diescho/troubled/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Sarraounia",
@@ -5224,7 +5316,13 @@
       "previous_date_html": "<div class=\"publication\"><a href=\"https://www.wook.pt/livro/15-dias-de-regresso-olinda-beja/193620\" target=\"_blank\" rel=\"noopener\">Edition: 2007</a></div>",
       "checked_at": "2026-11-18",
       "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "edition-fallback",
+      "followup_status": "conflicting_original_dates",
+      "review_note": "Scholarly accounts disagree between 1993 and 1994; the catalogued later edition is retained pending original colophon verification.",
+      "review_sources": [
+        "https://www.letras.ufmg.br/literafro/arquivos/literAfricas/Literatura_Sao_Tome_e_Principe/InocnciaMata4_O_espao_por_quem_o_vive_literfricas.pdf",
+        "https://seer.ufrgs.br/index.php/NauLiteraria/article/download/78456/53989/393451"
+      ]
     },
     {
       "title": "So Long a Letter",
@@ -5433,8 +5531,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2012",
+      "source": "https://en.casaarabe.es/eventos-arabes/show/the-messiah-of-darfur",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Paradise",
@@ -5492,8 +5592,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2021",
+      "source": "https://www.editions-jclattes.fr/auteur/sami-tchak/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Scents of Marie-Claire",
@@ -5944,8 +6046,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1992",
+      "source": "https://www.acl.ac.cr/bacl_iii_3.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "There Never Was a Once Upon a Time",
@@ -6133,8 +6237,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL541599M\" target=\"_blank\" rel=\"noopener\" title=\"The colour of forgetting — 1995\">Edition: 1995</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL541599M\" target=\"_blank\" rel=\"noopener\" title=\"The colour of forgetting — 1995\">Edition: 1995</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1995",
+      "source": "https://www.themodernnovel.org/americas/caribbean/grenada/collins/colour/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Pynter Bender",
@@ -6212,8 +6318,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL40316825M\" target=\"_blank\" rel=\"noopener\" title=\"Human Matter — 2019\">Edition: 2019</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL40316825M\" target=\"_blank\" rel=\"noopener\" title=\"Human Matter — 2019\">Edition: 2019</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "2009",
+      "source": "https://bibliovault.org/BV.browse_title.epl?SortChar=H&page=18",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Masters of the Dew",
@@ -6421,8 +6529,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1951",
+      "source": "https://vindictas.unam.mx/sites/default/files/teasers/fragmento_jardin_difusion.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Pedro Páramo",
@@ -6510,8 +6620,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1966",
+      "source": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BC2D1006DBBB068D57E5FD318A59DC5B/S0003161524000026a.pdf/poetry-is-subversion-writers-and-revolution-at-la-pajara-pinta-el-salvador-1966-1975.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Country of Women",
@@ -6519,8 +6631,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2010",
+      "source": "https://www.rtve.es/play/audios/hora-america/pais-mujeres-hora-america/935213/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Golden Horse",
@@ -6623,13 +6737,16 @@
       "source": "https://www.goodreads.com/book/show/1206700"
     },
     {
-      "title": "Prisms",
+      "title": "Prisnms",
       "author": "Garth St Omer",
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "2015",
+      "source": "https://culture.uliege.be/jcms/c_2605959/fr/garth-st-omer-prisnms",
+      "followup_status": "original_publication_confirmed",
+      "previous_title": "Prisms"
     },
     {
       "title": "Spirits in the Dark",
@@ -6677,8 +6794,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL33805253M\" target=\"_blank\" rel=\"noopener\" title=\"Easily Fooled — 2021\">Edition: 2021</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL33805253M\" target=\"_blank\" rel=\"noopener\" title=\"Easily Fooled — 2021\">Edition: 2021</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "2021",
+      "source": "https://www2.banq.qc.ca/ressources_en_ligne/bibliographie_quebec/refonte_2021/atvs3436821436965637600.html",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "A House for Mr Biswas",
@@ -6757,8 +6876,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL47752499M\" target=\"_blank\" rel=\"noopener\" title=\"The invention of Morel — 1964-01-01\">Edition: 1964</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL47752499M\" target=\"_blank\" rel=\"noopener\" title=\"The invention of Morel — 1964-01-01\">Edition: 1964</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1940",
+      "source": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00061/full",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Kiss of the Spider Woman",
@@ -6766,8 +6887,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL60846644M\" target=\"_blank\" rel=\"noopener\" title=\"Kiss of the Spider Woman — 2025\">Edition: 2025</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL60846644M\" target=\"_blank\" rel=\"noopener\" title=\"Kiss of the Spider Woman — 2025\">Edition: 2025</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1976",
+      "source": "https://roadsideattractionspublicity.com/strapi/uploads/KOTSW_PRODUCTION_NOTES_final_9_30_fecd8a1ce5.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Promise",
@@ -6785,8 +6908,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL52583709M\" target=\"_blank\" rel=\"noopener\" title=\"Yanakuna — 1958\">Edition: 1958</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL52583709M\" target=\"_blank\" rel=\"noopener\" title=\"Yanakuna — 1958\">Edition: 1958</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_first_publication_date",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1952",
+      "source": "https://search.worldcat.org/it/title/yanakuna-novela-quechua/oclc/600039734",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Turing's Delirium",
@@ -6825,8 +6950,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL46061951M\" target=\"_blank\" rel=\"noopener\" title=\"Norte — 2016\">Edition: 2016</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://openlibrary.org/books/OL46061951M\" target=\"_blank\" rel=\"noopener\" title=\"Norte — 2016\">Edition: 2016</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "fetch_error",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "2011",
+      "source": "https://ecdotica.com/norte-narrativa-de-frontera/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Posthumous Memoirs of Brás Cubas",
@@ -6884,8 +7011,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1966",
+      "source": "https://ediciones.uahurtado.cl/en/product/the-place-without-limits/",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Obscene Bird of Night",
@@ -7074,8 +7203,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1986",
+      "source": "https://edelweiss-assets.abovethetreeline.com/RH/uploads/RHBlueClientSpring15.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "I the Supreme",
@@ -7263,8 +7394,10 @@
       "original_date_html": "<div class=\"publication\">Date not verified</div>",
       "previous_date_html": "<div class=\"publication\">Date not verified</div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "unresolved"
+      "status": "verified-original",
+      "year": "1959",
+      "source": "https://museodellibrovenezolano.libroria.com/wp-content/uploads/2021/02/17213700-BG-118-Biblioteca-Ayacucho-Catalogo-1974-2007.pdf",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Sickness",
@@ -7452,8 +7585,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://ci.nii.ac.jp/ncid/BA51354671\" target=\"_blank\" rel=\"noopener\">Edition: 1997</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://ci.nii.ac.jp/ncid/BA51354671\" target=\"_blank\" rel=\"noopener\">Edition: 1997</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "identity_requires_review",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1997",
+      "source": "https://ci.nii.ac.jp/ncid/BA51354671",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "The Crocodile",
@@ -7552,8 +7687,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://books.google.com/books?id=6Jk5zERqlKgC\" target=\"_blank\" rel=\"noopener\">Edition: 1983</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://books.google.com/books?id=6Jk5zERqlKgC\" target=\"_blank\" rel=\"noopener\">Edition: 1983</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "identity_requires_review",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "1983",
+      "source": "https://repository.usp.ac.fj/8466/1/Huntsman.PDF",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "Where the Hell Is Tuvalu?",
@@ -7631,8 +7768,10 @@
       "original_date_html": "<div class=\"publication\"><a href=\"https://caledolivres.nc/fr/livres-du-pacifique/8883-nagaemas-9791092893007.html\" target=\"_blank\" rel=\"noopener\">Edition: 2013</a></div>",
       "previous_date_html": "<div class=\"publication\"><a href=\"https://caledolivres.nc/fr/livres-du-pacifique/8883-nagaemas-9791092893007.html\" target=\"_blank\" rel=\"noopener\">Edition: 2013</a></div>",
       "checked_at": "2026-11-18",
-      "provider_status": "no_direct_goodreads_link",
-      "status": "edition-fallback"
+      "status": "verified-original",
+      "year": "2013",
+      "source": "https://ouicoprod.org/talent/?id=151",
+      "followup_status": "original_publication_confirmed"
     },
     {
       "title": "My Cat Yugoslavia",

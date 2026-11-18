@@ -1,0 +1,643 @@
+[
+  {
+    "title": "Paranoia",
+    "author": "Viktor Martinovich",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2009",
+    "source": "https://wiedling-litag.com/authors/Martinovich.html",
+    "note": "Author literary agency explicitly identifies publication in Russia at the end of 2009.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Dogs of Europe",
+    "author": "Alhierd Bacharevič",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2017",
+    "source": "https://literatur.review/en/reviews/fiction/nothing-certain-anytime-anywhere",
+    "note": "Literary review explicitly distinguishes original Belarusian publication in 2017 from subsequent translations.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Amateur",
+    "author": "Jean Back",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2009",
+    "source": "https://euprizeliterature.eu/sites/default/files/2022-01/EUPL%20Eleven%20Winning%20Authors%202010.pdf",
+    "note": "European Union Prize for Literature original-language bibliography: Amateur, Ultimomondo, 2009.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Glass Garden",
+    "author": "Tatiana Țîbuleac",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2018",
+    "source": "https://www.tnb.ro/en/the-glass-garden",
+    "note": "National Theatre Bucharest adaptation page explicitly identifies original Cartier publication in 2018.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "La dame des brumes",
+    "author": "Patrice Woolley",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "2016",
+    "source": "https://editions-exaequo.com/livres/la-dame-des-brumes-de-patrice-woolley/",
+    "note": "Original publisher lists first release on 1 February 2016; French original, not a translated reprint.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Moromete Family",
+    "author": "Marin Preda",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1955–1967",
+    "source": "https://bibliotecasatumare.ro/detalii-istorie/?ev_id=607",
+    "note": "County library identifies two original volumes: 1955 and 1967; retain the publication span for the complete work.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Androceo. Storia di virus e di stelle",
+    "author": "Milena Ercolani",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "2020",
+    "source": "https://www.youtube.com/watch?v=ZDHp0FYm4VA",
+    "note": "Original publisher Pegasus book-launch trailer dated 2 June 2020; original-language ISBN catalogue also records first release in 2020.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "It Happened on September the First (or Whenever)",
+    "author": "Pavol Rankov",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2008",
+    "source": "https://euprizeliterature.eu/sites/default/files/2022-01/EUPL_2009_Pavol_Rankov_Slovakia.pdf",
+    "note": "European Union Prize for Literature author bibliography identifies Slovak original in 2008.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Stone Dreams",
+    "author": "Akram Aylisli",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "2012",
+    "source": "https://en.apa.az/print/190920",
+    "note": "Contemporaneous report on the Armenian translation explicitly identifies first Russian magazine publication in December 2012, rather than composition in 2006.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Hero with a Thousand Eyes",
+    "author": "Karma Ura",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1995",
+    "source": "https://www.repository.cam.ac.uk/bitstream/handle/1810/227030/JBS_01_01_04.pdf",
+    "note": "Contemporaneous Bhutan Studies research cites the original author-published historical novel, Thimphu 1995; corroborated by original-edition catalogue.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Rose's Diary",
+    "author": "Reem Al-Kamali",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2021",
+    "source": "https://www.arabicfiction.org/sites/default/files/NEW%20IPAF%202022%20Engish%20booklet%26cover%20online-compressed_0.pdf",
+    "note": "International Prize for Arabic Fiction original-language book record: Dar al-Adab, May 2021.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Galagolia",
+    "author": "Dubai Abulhoul",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2012",
+    "source": "https://sailemagazine.com/2012/03/interview-with-dubai-abulhoul/",
+    "note": "Contemporaneous author interview announces the debut novel release in March 2012.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Friend",
+    "author": "Baek Nam-nyong",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1988",
+    "source": "https://www.netgalley.com/catalog/book/178176",
+    "note": "Columbia University Press publisher-supplied record explicitly identifies first publication in Pyongyang in 1988, before 2020 English translation.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Hwang Jini",
+    "author": "Hong Sok-jung",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2002",
+    "source": "https://www.cia.gov/resources/csi/static/Changgom-Long-Sword.pdf",
+    "note": "Signed book-review research identifies Hong Sok-jung’s original fictional biography as 2002; distinct from the later South Korean novel and film.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "My Michael",
+    "author": "Amos Oz",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1968",
+    "source": "https://books.google.com/books/about/My_Michael.html?id=j3FIE92FEvcC",
+    "note": "Publisher synopsis in Google Books explicitly distinguishes initial 1968 publication from the 2011 edition.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Lover",
+    "author": "A. B. Yehoshua",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1977",
+    "source": "https://liepmanagency.com/wp-content/uploads/2022/03/Liepman-International-Catalogue-Spring-2022.pdf",
+    "note": "Author literary agency catalogue explicitly identifies original publication in 1977.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Suslov's Daughter",
+    "author": "Habib Abdulrab Sarori",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2014",
+    "source": "https://icn.com/en-jo/product/suslovs-daughter---habib-abdulrab-sarori-1hnhI0",
+    "note": "Arabic book catalogue identifies Dar Al Saqi original in 2014; English translation is later.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "When the Wolves Grow Old",
+    "author": "Jamal Naji",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2009",
+    "source": "https://archive.arabicfiction.org/en/node/474",
+    "note": "Official prize record identifies original Ministry of Culture Publications edition, Amman, 2009.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Corsair",
+    "author": "Abdulaziz Al-Mahmoud",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2011",
+    "source": "https://doi.org/10.1080/17449855.2021.1931413",
+    "note": "Research article explicitly distinguishes Arabic Al Qursan (2011) from its later English translation.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Time of Ordeal",
+    "author": "Mukhtar Auezov",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1928",
+    "source": "https://www.iias.asia/sites/iias/files/nwl_article/2019-05/IIAS_NL74_3233.pdf",
+    "note": "International Institute for Asian Studies article explicitly identifies original Qily Zaman publication in Kyzyl-Orda in 1928.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The End of the Legend",
+    "author": "Abish Kekilbayev",
+    "previous_status": "unresolved",
+    "status": "conflicting_original_dates",
+    "note": "1969 and 1974 appear in research sources; original-title/first-version publication history is not resolved.",
+    "sources": [
+      "https://dergipark.org.tr/tr/download/issue-full-file/95464",
+      "https://ku.edu.kz/files/conference/evol2019/evol2019.pdf"
+    ],
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Lonely Yurt",
+    "author": "Smagul Yelubay",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1990",
+    "source": "https://adebiportal.kz/ru/authors/view/39",
+    "note": "Kazakh literary portal author bibliography identifies original Ақ боз үй (1990), separately from Russian 1992 and English 2016 translations. Conflicting English summaries giving 1991 are not used.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Farewell, Gulsary!",
+    "author": "Chingiz Aitmatov",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1966",
+    "source": "https://journals.rudn.ru/semiotics-semantics/article/view/14310/ru_RU",
+    "note": "Research bibliography explicitly identifies first publication in Novy Mir, 1966, issue 3.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Lifestyle in the Countryside",
+    "author": "Ali Hussain (Naifaru)",
+    "previous_status": "edition-fallback",
+    "status": "edition_only",
+    "note": "IRCI and public library records establish a 1994 publication/printing, but not first publication.",
+    "sources": [
+      "https://www.irci.jp/rdb/item/13605",
+      "https://library.kulhudhuffushicity.gov.mv/cgi-bin/koha/opac-search.pl?count=20&offset=1560&q=ccl%3Dpl%3A%22MALE%22&sort_by=relevance"
+    ],
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Sumnima",
+    "author": "B. P. Koirala",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1969",
+    "source": "https://www.nepaliexpert.com/book/sumnima",
+    "note": "Original-language catalogue identifies Sajha publication in 1969; consistent with the Kathmandu Post author reading recommendations.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Dilshad",
+    "author": "Bushra Khalfan",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2021",
+    "source": "https://leila-arabicliterature.com/book/dilshad-hungry-and-sated/",
+    "note": "Arabic literature promotion project identifies original publication in 2021; distinct from the 2024 sequel.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Beaver",
+    "author": "Mohammed Hasan Alwan",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2011",
+    "source": "https://www.newwriting.net/2012/07/the-beaver/",
+    "note": "University of East Anglia translation workshop report, with the author participating, explicitly identifies Saqi Arabic publication in 2011.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Sail and the Storm",
+    "author": "Hanna Mina",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1966",
+    "source": "https://nou.edu.ng/coursewarecontent/ARA323%20-%20ARABIC%20NOVEL.pdf",
+    "note": "National Open University Arabic novel course identifies Al-Shira wal-asifah (1966).",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Time",
+    "author": "Chart Korbjitti",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1993",
+    "source": "https://eprints.soas.ac.uk/23656/1/Techawongstien_4298.pdf",
+    "note": "SOAS literary translation research distinguishes Thai Wela (Time), 1993, from subsequent English editions.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Mad Dogs & Company",
+    "author": "Chart Korbjitti",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1988",
+    "source": "https://www.nationthailand.com/lifestyle/shopping/30237312",
+    "note": "Author interview/profile explicitly identifies release of the original Thai novel in 1988.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Cobra",
+    "author": "Ak Welsapar",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2002",
+    "source": "https://www.welsapar.com/books.html",
+    "note": "Author’s own bibliography explicitly identifies Cobra, novel in Turkmen, 2002; Russian edition listed separately.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Bygone Days",
+    "author": "Abdulla Qodiriy",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1922",
+    "source": "https://www.aramcoworld.com/en/resources/reviews/2021/otkan-kunlar-bygone-days",
+    "note": "Literary review explicitly identifies serial publication beginning in Inqilob in 1922, with complete book publication four years later. First published refers to the beginning of serialisation.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Night and Day",
+    "author": "Abdulhamid Cho'lpon",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1936",
+    "source": "https://www.uzbekliterature.uz/sites/default/files/abdulhamid-cholpons-story-of-the-night-and-day.pdf",
+    "note": "Uzbek literary research explicitly identifies original publication in 1936; dates attached to composition are not used.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "As She Was Discovering Tigony",
+    "author": "Olympe Bhêly-Quenum",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "2000",
+    "source": "https://www.brvm.org/sites/default/files/20090530_-_ra_-_nei-ceda_ci_-_exercice_2000.pdf",
+    "note": "Original publisher’s 2000 annual report lists publication of C’était à Tigony that year. University thesis identifies this as the geophysicist Dorcas novel later translated under the English title.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Chaff on the Wind",
+    "author": "Ebou Dibba",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1986",
+    "source": "https://gambiawhoswho.gm/people/ebou-dibba/",
+    "note": "Gambian author bibliography explicitly identifies publication in 1986; corroborated by the original Macmillan catalogue record.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Saint Monsieur Baly",
+    "author": "Williams Sassine",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1973",
+    "source": "https://www.ledonline.it/index.php/Ponts/article/download/405/378",
+    "note": "Research article cites the original Présence Africaine publication, Paris, 1973.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Between Tides",
+    "author": "Valentin-Yves Mudimbe",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1973",
+    "source": "https://www.tandfonline.com/doi/pdf/10.1080/23323256.2025.2516042",
+    "note": "Scholarly bibliography identifies Entre les eaux (1973), separately from the English translation.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Rift",
+    "author": "Valentin-Yves Mudimbe",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1979",
+    "source": "https://pmb.ccnigerien.org/opac_css/index.php?id=12230&lvl=notice_display",
+    "note": "Original French catalogue record identifies L’Écart, Présence Africaine, Paris, 1979; not the later English edition.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Land of the Fathers",
+    "author": "Vamba Sherif",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1999",
+    "source": "https://www.abebooks.com/9781908446497/Land-Fathers-Sherif-Vamba-1908446498/plp",
+    "note": "Publisher-supplied excerpt copyright identifies Vamba Sherif original work in 1999; corroborated by the Dutch first-publication bibliography, distinct from 2017 English edition.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Lazarus Effect",
+    "author": "Hawa Jande Golakai",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2011",
+    "source": "https://www.litnet.co.za/a-crime-thriller-that-can-offer-more-than-cheap-thrills-reading-hj/",
+    "note": "Contemporaneous August 2011 review identifies the author’s debut published by Kwela Books.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "I'm Alone",
+    "author": "Beyrouk",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2018",
+    "source": "https://www.bm-auxerre.fr/index.php/notices/je-suis-seul",
+    "note": "Public library catalogue identifies original French Je suis seul, Elyzad, 2018; corroborated by contemporaneous reviews.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Troubled Waters",
+    "author": "Joseph Diescho",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1993",
+    "source": "https://www.themodernnovel.org/africa/other-africa/namibia/diescho/troubled/",
+    "note": "Publication history explicitly identifies first publication in 1993 by Gamsberg Macmillan; corroborated by the Student Encyclopedia of African Literature. Goodreads 1988 is confused with the author’s first novel Born of the Sun.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "15 Dias de Regresso",
+    "author": "Olinda Beja",
+    "previous_status": "edition-fallback",
+    "status": "conflicting_original_dates",
+    "note": "Scholarly accounts disagree between 1993 and 1994; the catalogued later edition is retained pending original colophon verification.",
+    "sources": [
+      "https://www.letras.ufmg.br/literafro/arquivos/literAfricas/Literatura_Sao_Tome_e_Principe/InocnciaMata4_O_espao_por_quem_o_vive_literfricas.pdf",
+      "https://seer.ufrgs.br/index.php/NauLiteraria/article/download/78456/53989/393451"
+    ],
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Messiah of Darfur",
+    "author": "Abdelaziz Baraka Sakin",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2012",
+    "source": "https://en.casaarabe.es/eventos-arabes/show/the-messiah-of-darfur",
+    "note": "Casa Árabe explicitly identifies first Arabic publication in Sudan in 2012.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Continent of Everything and Practically Nothing",
+    "author": "Sami Tchak",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2021",
+    "source": "https://www.editions-jclattes.fr/auteur/sami-tchak/",
+    "note": "Original publisher bibliography identifies Le continent du Tout et du presque Rien, 3 November 2021.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Madwoman of Gandoca",
+    "author": "Anacristina Rossi",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1992",
+    "source": "https://www.acl.ac.cr/bacl_iii_3.pdf",
+    "note": "Author’s own account in the Costa Rican Academy of Language bulletin explicitly identifies release of La Loca de Gandoca in 1992.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Colour of Forgetting",
+    "author": "Merle Collins",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1995",
+    "source": "https://www.themodernnovel.org/americas/caribbean/grenada/collins/colour/",
+    "note": "Publication-history entry explicitly identifies first publication by Virago in 1995; corroborated by original-edition national bibliography.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Human Matter",
+    "author": "Rodrigo Rey Rosa",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "2009",
+    "source": "https://bibliovault.org/BV.browse_title.epl?SortChar=H&page=18",
+    "note": "Publisher-distributed BiblioVault description explicitly identifies original Spanish publication in 2009.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Garden",
+    "author": "Dulce María Loynaz",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1951",
+    "source": "https://vindictas.unam.mx/sites/default/files/teasers/fragmento_jardin_difusion.pdf",
+    "note": "UNAM publisher excerpt explicitly states first edition: Aguilar, 1951; composition dates are not used as publication.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Ashes of Izalco",
+    "author": "Claribel Alegría and Darwin J. Flakoll",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1966",
+    "source": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BC2D1006DBBB068D57E5FD318A59DC5B/S0003161524000026a.pdf/poetry-is-subversion-writers-and-revolution-at-la-pajara-pinta-el-salvador-1966-1975.pdf",
+    "note": "Research article explicitly identifies Spanish publication in Spain in 1966, preceding English translation.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Country of Women",
+    "author": "Gioconda Belli",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2010",
+    "source": "https://www.rtve.es/play/audios/hora-america/pais-mujeres-hora-america/935213/",
+    "note": "Contemporaneous November 2010 interview with the author presents the newly published original El país de las mujeres.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Prisms",
+    "author": "Garth St Omer",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "2015",
+    "source": "https://culture.uliege.be/jcms/c_2605959/fr/garth-st-omer-prisnms",
+    "note": "University of Liège review explicitly distinguishes writing in the 1980s from first publication in August 2015. Correct title is Prisnms, a deliberate blend of prisons and prisms.",
+    "checked": "2026-11-18",
+    "corrected_title": "Prisnms"
+  },
+  {
+    "title": "Easily Fooled",
+    "author": "H. Nigel Thomas",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "2021",
+    "source": "https://www2.banq.qc.ca/ressources_en_ligne/bibliographie_quebec/refonte_2021/atvs3436821436965637600.html",
+    "note": "Bibliothèque et Archives nationales du Québec explicitly catalogues first edition, Guernica 2021; corroborated by publisher release record.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Invention of Morel",
+    "author": "Adolfo Bioy Casares",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1940",
+    "source": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00061/full",
+    "note": "Research article explicitly identifies first publication in 1940.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Kiss of the Spider Woman",
+    "author": "Manuel Puig",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1976",
+    "source": "https://roadsideattractionspublicity.com/strapi/uploads/KOTSW_PRODUCTION_NOTES_final_9_30_fecd8a1ce5.pdf",
+    "note": "Official adaptation production history explicitly identifies first novel publication in 1976.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Yanakuna",
+    "author": "Jesús Lara",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1952",
+    "source": "https://search.worldcat.org/it/title/yanakuna-novela-quechua/oclc/600039734",
+    "note": "Catalogue identifies original Spanish Yanakuna, Editorial Los Amigos del Libro, 1952; corroborated by original-edition bibliographies and first-edition physical description.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Norte",
+    "author": "Edmundo Paz Soldán",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "2011",
+    "source": "https://ecdotica.com/norte-narrativa-de-frontera/",
+    "note": "Contemporaneous January 2011 literary announcement explicitly reports new publication by Mondadori and Nuevo Milenio.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Place Without Limits",
+    "author": "José Donoso",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1966",
+    "source": "https://ediciones.uahurtado.cl/en/product/the-place-without-limits/",
+    "note": "University publisher bibliography identifies original El lugar sin límites (1966), separately from later critical edition.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Snow of the Admiral",
+    "author": "Álvaro Mutis",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1986",
+    "source": "https://edelweiss-assets.abovethetreeline.com/RH/uploads/RHBlueClientSpring15.pdf",
+    "note": "Publisher catalogue author biography explicitly identifies first novella publication in 1986.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "The Small Beings",
+    "author": "Salvador Garmendia",
+    "previous_status": "unresolved",
+    "status": "original_publication_confirmed",
+    "year": "1959",
+    "source": "https://museodellibrovenezolano.libroria.com/wp-content/uploads/2021/02/17213700-BG-118-Biblioteca-Ayacucho-Catalogo-1974-2007.pdf",
+    "note": "Biblioteca Ayacucho publisher catalogue explicitly identifies first novel Los pequeños seres (1959).",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "History of Palau: Heritage of an Emerging Nation",
+    "author": "Elizabeth Diaz Rechebei and Samuel F. McPhetres",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1997",
+    "source": "https://ci.nii.ac.jp/ncid/BA51354671",
+    "note": "Original Ministry of Education catalogue record, contemporary Micronesian Seminar 1997 bibliography, and physically described first edition agree on 1997. Not a later translation.",
+    "checked": "2026-11-18",
+    "corroborating_sources": [
+      "https://micsem.org/publication-list/1997-publications-list/",
+      "https://www.ebay.com/itm/800164654302"
+    ]
+  },
+  {
+    "title": "Tuvalu: A History",
+    "author": "Simati Faaniu et al. · edited by Hugh Laracy",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "1983",
+    "source": "https://repository.usp.ac.fj/8466/1/Huntsman.PDF",
+    "note": "University of the South Pacific study of island-history projects explicitly identifies the collective Tuvalu history as appearing in 1983; corroborated by a physically described first edition.",
+    "checked": "2026-11-18"
+  },
+  {
+    "title": "Nagaemas",
+    "author": "Marcel Melthérorong",
+    "previous_status": "edition-fallback",
+    "status": "original_publication_confirmed",
+    "year": "2013",
+    "source": "https://ouicoprod.org/talent/?id=151",
+    "note": "Author arts-agency biography explicitly identifies second novel publication in 2013; contemporaneous October 2013 catalogue confirms original Alliance Française edition.",
+    "checked": "2026-11-18"
+  }
+]

@@ -222,6 +222,18 @@
     "after": "First published: 1964"
   },
   {
+    "title": "Paranoia",
+    "author": "Viktor Martinovich",
+    "before": "Date not verified",
+    "after": "First published: 2009"
+  },
+  {
+    "title": "Dogs of Europe",
+    "author": "Alhierd Bacharevič",
+    "before": "Date not verified",
+    "after": "First published: 2017"
+  },
+  {
     "title": "King Stakh's Wild Hunt",
     "author": "Uladzimir Karatkievics",
     "before": "Edition: 2012",
@@ -468,6 +480,12 @@
     "after": "First published: 2012"
   },
   {
+    "title": "Amateur",
+    "author": "Jean Back",
+    "before": "Date not verified",
+    "after": "First published: 2009"
+  },
+  {
     "title": "Skylark",
     "author": "Kosztolányi Dezső",
     "before": "Edition: 1996",
@@ -516,6 +534,12 @@
     "after": "First published: 2017"
   },
   {
+    "title": "The Glass Garden",
+    "author": "Tatiana Țîbuleac",
+    "before": "Date not verified",
+    "after": "First published: 2018"
+  },
+  {
     "title": "Kinderland",
     "author": "Liliana Corobca",
     "before": "Edition: 2013",
@@ -526,6 +550,12 @@
     "author": "Liliana Corobca",
     "before": "Date not verified",
     "after": "First published: 2014"
+  },
+  {
+    "title": "La dame des brumes",
+    "author": "Patrice Woolley",
+    "before": "Edition: 2016",
+    "after": "First published: 2016"
   },
   {
     "title": "The Son",
@@ -642,6 +672,12 @@
     "after": "First published: 1922"
   },
   {
+    "title": "The Moromete Family",
+    "author": "Marin Preda",
+    "before": "Date not verified",
+    "after": "First published: 1955–1967"
+  },
+  {
     "title": "Adventures in Immediate Irreality",
     "author": "Max Blecher",
     "before": "Edition: 2015",
@@ -658,6 +694,12 @@
     "author": "Mircea Cărtărescu",
     "before": "Edition: 2015",
     "after": "First published: 2015"
+  },
+  {
+    "title": "Androceo. Storia di virus e di stelle",
+    "author": "Milena Ercolani",
+    "before": "Edition: 2020",
+    "after": "First published: 2020"
   },
   {
     "title": "Stiller",
@@ -730,6 +772,12 @@
     "author": "Daniela Kapitáňová",
     "before": "Date not verified",
     "after": "First published: 2000"
+  },
+  {
+    "title": "It Happened on September the First (or Whenever)",
+    "author": "Pavol Rankov",
+    "before": "Date not verified",
+    "after": "First published: 2008"
   },
   {
     "title": "Seeing People Off",
@@ -858,6 +906,12 @@
     "after": "First published: 1937"
   },
   {
+    "title": "Stone Dreams",
+    "author": "Akram Aylisli",
+    "before": "Edition: 2022",
+    "after": "First published: 2012"
+  },
+  {
     "title": "Quixotiq",
     "author": "Ali Al Saeed",
     "before": "Edition: 2004",
@@ -904,6 +958,12 @@
     "author": "Kunzang Choden",
     "before": "Date not verified",
     "after": "First published: 2006"
+  },
+  {
+    "title": "The Hero with a Thousand Eyes",
+    "author": "Karma Ura",
+    "before": "Edition: 1995",
+    "after": "First published: 1995"
   },
   {
     "title": "The Forlorn Adventure",
@@ -988,6 +1048,30 @@
     "author": "Maha Gargash",
     "before": "Edition: 2016",
     "after": "First published: 2016"
+  },
+  {
+    "title": "Rose's Diary",
+    "author": "Reem Al-Kamali",
+    "before": "Date not verified",
+    "after": "First published: 2021"
+  },
+  {
+    "title": "Galagolia",
+    "author": "Dubai Abulhoul",
+    "before": "Date not verified",
+    "after": "First published: 2012"
+  },
+  {
+    "title": "Friend",
+    "author": "Baek Nam-nyong",
+    "before": "Date not verified",
+    "after": "First published: 1988"
+  },
+  {
+    "title": "Hwang Jini",
+    "author": "Hong Sok-jung",
+    "before": "Date not verified",
+    "after": "First published: 2002"
   },
   {
     "title": "Noli Me Tangere",
@@ -1146,6 +1230,18 @@
     "after": "First published: 2008"
   },
   {
+    "title": "My Michael",
+    "author": "Amos Oz",
+    "before": "Date not verified",
+    "after": "First published: 1968"
+  },
+  {
+    "title": "The Lover",
+    "author": "A. B. Yehoshua",
+    "before": "Date not verified",
+    "after": "First published: 1977"
+  },
+  {
     "title": "Blooms of Darkness",
     "author": "Aharon Appelfeld",
     "before": "Edition: 2012",
@@ -1182,6 +1278,12 @@
     "after": "First published: 2012"
   },
   {
+    "title": "The Suslov's Daughter",
+    "author": "Habib Abdulrab Sarori",
+    "before": "Date not verified",
+    "after": "First published: 2014"
+  },
+  {
     "title": "Pillars of Salt",
     "author": "Fadia Faqir",
     "before": "Edition: 1997",
@@ -1198,6 +1300,12 @@
     "author": "Fadia Faqir",
     "before": "Date not verified",
     "after": "First published: 2014"
+  },
+  {
+    "title": "When the Wolves Grow Old",
+    "author": "Jamal Naji",
+    "before": "Date not verified",
+    "after": "First published: 2009"
   },
   {
     "title": "Time of White Horses",
@@ -1218,6 +1326,12 @@
     "after": "First published: 2017"
   },
   {
+    "title": "The Corsair",
+    "author": "Abdulaziz Al-Mahmoud",
+    "before": "Date not verified",
+    "after": "First published: 2011"
+  },
+  {
     "title": "The Holy Sail",
     "author": "Abdulaziz Al-Mahmoud",
     "before": "Date not verified",
@@ -1228,6 +1342,18 @@
     "author": "Rollan Seisenbayev",
     "before": "Edition: 2019",
     "after": "First published: 2019"
+  },
+  {
+    "title": "The Time of Ordeal",
+    "author": "Mukhtar Auezov",
+    "before": "Date not verified",
+    "after": "First published: 1928"
+  },
+  {
+    "title": "Lonely Yurt",
+    "author": "Smagul Yelubay",
+    "before": "Edition: 2016",
+    "after": "First published: 1990"
   },
   {
     "title": "Requiem para o navegador solitário",
@@ -1282,6 +1408,12 @@
     "author": "Chingiz Aitmatov",
     "before": "Edition: 2007",
     "after": "First published: 1958"
+  },
+  {
+    "title": "Farewell, Gulsary!",
+    "author": "Chingiz Aitmatov",
+    "before": "Edition: 1976",
+    "after": "First published: 1966"
   },
   {
     "title": "The White Ship",
@@ -1434,6 +1566,12 @@
     "after": "First published: 1965"
   },
   {
+    "title": "Sumnima",
+    "author": "B. P. Koirala",
+    "before": "Date not verified",
+    "after": "First published: 1969"
+  },
+  {
     "title": "Karnali Blues",
     "author": "Buddhisagar",
     "before": "Edition: 2022",
@@ -1467,6 +1605,12 @@
     "title": "Silken Gazelles",
     "author": "Jokha Alharthi",
     "before": "Edition: 2025",
+    "after": "First published: 2021"
+  },
+  {
+    "title": "Dilshad",
+    "author": "Bushra Khalfan",
+    "before": "Date not verified",
     "after": "First published: 2021"
   },
   {
@@ -1602,6 +1746,12 @@
     "after": "First published: 2010"
   },
   {
+    "title": "The Beaver",
+    "author": "Mohammed Hasan Alwan",
+    "before": "Date not verified",
+    "after": "First published: 2011"
+  },
+  {
     "title": "Fistful of Colours",
     "author": "Suchen Christine Lim",
     "before": "Edition: 2017",
@@ -1650,6 +1800,12 @@
     "after": "First published: 2016"
   },
   {
+    "title": "The Sail and the Storm",
+    "author": "Hanna Mina",
+    "before": "Date not verified",
+    "after": "First published: 1966"
+  },
+  {
     "title": "Sarmada",
     "author": "Fadi Azzam",
     "before": "Edition: 2021",
@@ -1678,6 +1834,18 @@
     "author": "Kampoon Boontawee",
     "before": "Edition: 1988",
     "after": "First published: 1976"
+  },
+  {
+    "title": "Time",
+    "author": "Chart Korbjitti",
+    "before": "Edition: 2010",
+    "after": "First published: 1993"
+  },
+  {
+    "title": "Mad Dogs & Company",
+    "author": "Chart Korbjitti",
+    "before": "Date not verified",
+    "after": "First published: 1988"
   },
   {
     "title": "The Time Regulation Institute",
@@ -1714,6 +1882,24 @@
     "author": "Ak Welsapar",
     "before": "Edition: 2016",
     "after": "First published: 1988"
+  },
+  {
+    "title": "Cobra",
+    "author": "Ak Welsapar",
+    "before": "Date not verified",
+    "after": "First published: 2002"
+  },
+  {
+    "title": "Bygone Days",
+    "author": "Abdulla Qodiriy",
+    "before": "Date not verified",
+    "after": "First published: 1922"
+  },
+  {
+    "title": "Night and Day",
+    "author": "Abdulhamid Cho'lpon",
+    "before": "Date not verified",
+    "after": "First published: 1936"
   },
   {
     "title": "The Railway",
@@ -1828,6 +2014,12 @@
     "author": "Olympe Bhêly-Quenum",
     "before": "Edition: 1981",
     "after": "First published: 1960"
+  },
+  {
+    "title": "As She Was Discovering Tigony",
+    "author": "Olympe Bhêly-Quenum",
+    "before": "Edition: 2016",
+    "after": "First published: 2000"
   },
   {
     "title": "The Ultimate Tragedy",
@@ -2106,6 +2298,12 @@
     "after": "First published: 1989"
   },
   {
+    "title": "Chaff on the Wind",
+    "author": "Ebou Dibba",
+    "before": "Edition: 1986",
+    "after": "First published: 1986"
+  },
+  {
     "title": "Fafa",
     "author": "Ebou Dibba",
     "before": "Edition: 1989",
@@ -2152,6 +2350,12 @@
     "author": "Camara Laye",
     "before": "Edition: 1965",
     "after": "First published: 1954"
+  },
+  {
+    "title": "Saint Monsieur Baly",
+    "author": "Williams Sassine",
+    "before": "Edition: 2000",
+    "after": "First published: 1973"
   },
   {
     "title": "The Oldest Orphan",
@@ -2244,10 +2448,22 @@
     "after": "First published: 2020"
   },
   {
+    "title": "Between Tides",
+    "author": "Valentin-Yves Mudimbe",
+    "before": "Date not verified",
+    "after": "First published: 1973"
+  },
+  {
     "title": "Full Circle",
     "author": "Frederick Yamusangie",
     "before": "Edition: 2003",
     "after": "First published: 2003"
+  },
+  {
+    "title": "The Rift",
+    "author": "Valentin-Yves Mudimbe",
+    "before": "Date not verified",
+    "after": "First published: 1979"
   },
   {
     "title": "Broken Glass",
@@ -2304,6 +2520,12 @@
     "after": "First published: 1953"
   },
   {
+    "title": "The Land of the Fathers",
+    "author": "Vamba Sherif",
+    "before": "Date not verified",
+    "after": "First published: 1999"
+  },
+  {
     "title": "Bound to Secrecy",
     "author": "Vamba Sherif",
     "before": "Edition: 2015",
@@ -2314,6 +2536,12 @@
     "author": "Wayétu Moore",
     "before": "Edition: 2020",
     "after": "First published: 2018"
+  },
+  {
+    "title": "The Lazarus Effect",
+    "author": "Hawa Jande Golakai",
+    "before": "Date not verified",
+    "after": "First published: 2011"
   },
   {
     "title": "The Rain and the Night",
@@ -2424,6 +2652,12 @@
     "after": "First published: 2015"
   },
   {
+    "title": "I'm Alone",
+    "author": "Beyrouk",
+    "before": "Date not verified",
+    "after": "First published: 2018"
+  },
+  {
     "title": "Eve Out of Her Ruins",
     "author": "Ananda Devi",
     "before": "Edition: 2016",
@@ -2494,6 +2728,12 @@
     "author": "Joseph Diescho",
     "before": "Edition: 1988",
     "after": "First published: 1988"
+  },
+  {
+    "title": "Troubled Waters",
+    "author": "Joseph Diescho",
+    "before": "Edition: 1993",
+    "after": "First published: 1993"
   },
   {
     "title": "Sarraounia",
@@ -2640,6 +2880,12 @@
     "after": "First published: 2005"
   },
   {
+    "title": "The Messiah of Darfur",
+    "author": "Abdelaziz Baraka Sakin",
+    "before": "Date not verified",
+    "after": "First published: 2012"
+  },
+  {
     "title": "Paradise",
     "author": "Abdulrazak Gurnah",
     "before": "Edition: 1995",
@@ -2668,6 +2914,12 @@
     "author": "Adam Shafi",
     "before": "Date not verified",
     "after": "First published: 1998"
+  },
+  {
+    "title": "The Continent of Everything and Practically Nothing",
+    "author": "Sami Tchak",
+    "before": "Date not verified",
+    "after": "First published: 2021"
   },
   {
     "title": "The Scents of Marie-Claire",
@@ -2934,6 +3186,12 @@
     "after": "First published: 1989"
   },
   {
+    "title": "The Madwoman of Gandoca",
+    "author": "Anacristina Rossi",
+    "before": "Date not verified",
+    "after": "First published: 1992"
+  },
+  {
     "title": "There Never Was a Once Upon a Time",
     "author": "Carmen Naranjo",
     "before": "Edition: 1989",
@@ -3042,6 +3300,12 @@
     "after": "First published: 1987"
   },
   {
+    "title": "The Colour of Forgetting",
+    "author": "Merle Collins",
+    "before": "Edition: 1995",
+    "after": "First published: 1995"
+  },
+  {
     "title": "Pynter Bender",
     "author": "Jacob Ross",
     "before": "Edition: 2008",
@@ -3082,6 +3346,12 @@
     "author": "Eduardo Halfon",
     "before": "Edition: 2018",
     "after": "First published: 2017"
+  },
+  {
+    "title": "Human Matter",
+    "author": "Rodrigo Rey Rosa",
+    "before": "Edition: 2019",
+    "after": "First published: 2009"
   },
   {
     "title": "Masters of the Dew",
@@ -3174,6 +3444,12 @@
     "after": "First published: 1967"
   },
   {
+    "title": "Garden",
+    "author": "Dulce María Loynaz",
+    "before": "Date not verified",
+    "after": "First published: 1951"
+  },
+  {
     "title": "Pedro Páramo",
     "author": "Juan Rulfo",
     "before": "Edition: 2023",
@@ -3220,6 +3496,18 @@
     "author": "Sergio Ramírez",
     "before": "Edition: 2015",
     "after": "First published: 1988"
+  },
+  {
+    "title": "Ashes of Izalco",
+    "author": "Claribel Alegría and Darwin J. Flakoll",
+    "before": "Date not verified",
+    "after": "First published: 1966"
+  },
+  {
+    "title": "The Country of Women",
+    "author": "Gioconda Belli",
+    "before": "Date not verified",
+    "after": "First published: 2010"
   },
   {
     "title": "The Golden Horse",
@@ -3282,6 +3570,12 @@
     "after": "First published: 1972"
   },
   {
+    "title": "Prisnms",
+    "author": "Garth St Omer",
+    "before": "Date not verified",
+    "after": "First published: 2015"
+  },
+  {
     "title": "Spirits in the Dark",
     "author": "H. Nigel Thomas",
     "before": "Edition: 1993",
@@ -3304,6 +3598,12 @@
     "author": "H. Nigel Thomas",
     "before": "Edition: 2015",
     "after": "First published: 2015"
+  },
+  {
+    "title": "Easily Fooled",
+    "author": "H. Nigel Thomas",
+    "before": "Edition: 2021",
+    "after": "First published: 2021"
   },
   {
     "title": "A House for Mr Biswas",
@@ -3348,10 +3648,28 @@
     "after": "First published: 1948"
   },
   {
+    "title": "The Invention of Morel",
+    "author": "Adolfo Bioy Casares",
+    "before": "Edition: 1964",
+    "after": "First published: 1940"
+  },
+  {
+    "title": "Kiss of the Spider Woman",
+    "author": "Manuel Puig",
+    "before": "Edition: 2025",
+    "after": "First published: 1976"
+  },
+  {
     "title": "The Promise",
     "author": "Silvina Ocampo",
     "before": "Edition: 2019",
     "after": "First published: 2011"
+  },
+  {
+    "title": "Yanakuna",
+    "author": "Jesús Lara",
+    "before": "Edition: 1958",
+    "after": "First published: 1952"
   },
   {
     "title": "Turing's Delirium",
@@ -3370,6 +3688,12 @@
     "author": "Jaime Saenz",
     "before": "Edition: 1979",
     "after": "First published: 1979"
+  },
+  {
+    "title": "Norte",
+    "author": "Edmundo Paz Soldán",
+    "before": "Edition: 2016",
+    "after": "First published: 2011"
   },
   {
     "title": "The Posthumous Memoirs of Brás Cubas",
@@ -3400,6 +3724,12 @@
     "author": "Jorge Amado",
     "before": "Date not verified",
     "after": "First published: 1937"
+  },
+  {
+    "title": "The Place Without Limits",
+    "author": "José Donoso",
+    "before": "Date not verified",
+    "after": "First published: 1966"
   },
   {
     "title": "The Obscene Bird of Night",
@@ -3510,6 +3840,12 @@
     "after": "First published: 2011"
   },
   {
+    "title": "The Snow of the Admiral",
+    "author": "Álvaro Mutis",
+    "before": "Date not verified",
+    "after": "First published: 1986"
+  },
+  {
     "title": "I the Supreme",
     "author": "Augusto Roa Bastos",
     "before": "Edition: 2019",
@@ -3616,6 +3952,12 @@
     "author": "Teresa de la Parra",
     "before": "Edition: 1993",
     "after": "First published: 1924"
+  },
+  {
+    "title": "The Small Beings",
+    "author": "Salvador Garmendia",
+    "before": "Date not verified",
+    "after": "First published: 1959"
   },
   {
     "title": "The Sickness",
@@ -3726,6 +4068,12 @@
     "after": "First published: 2013"
   },
   {
+    "title": "History of Palau: Heritage of an Emerging Nation",
+    "author": "Elizabeth Diaz Rechebei and Samuel F. McPhetres",
+    "before": "Edition: 1997",
+    "after": "First published: 1997"
+  },
+  {
     "title": "The Crocodile",
     "author": "Vincent Eri",
     "before": "Edition: 1972",
@@ -3780,6 +4128,12 @@
     "after": "First published: 1987"
   },
   {
+    "title": "Tuvalu: A History",
+    "author": "Simati Faaniu et al. · edited by Hugh Laracy",
+    "before": "Edition: 1983",
+    "after": "First published: 1983"
+  },
+  {
     "title": "Where the Hell Is Tuvalu?",
     "author": "Philip Ells",
     "before": "Edition: 2006",
@@ -3820,6 +4174,12 @@
     "author": "Marcel Melthérorong",
     "before": "Edition: 2007",
     "after": "First published: 2007"
+  },
+  {
+    "title": "Nagaemas",
+    "author": "Marcel Melthérorong",
+    "before": "Edition: 2013",
+    "after": "First published: 2013"
   },
   {
     "title": "My Cat Yugoslavia",
