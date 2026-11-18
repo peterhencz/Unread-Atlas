@@ -1,0 +1,2591 @@
+{
+  "Joseph Roth | The Radetzky March": {
+    "title": "The Radetzky March",
+    "author": "Joseph Roth",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/b17e522ecc4a9ca8.jpg",
+    "width": 302,
+    "height": 475,
+    "source": "https://www.goodreads.com/book/show/11786043",
+    "remote_image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1394331670i/11786043.jpg",
+    "provider": "goodreads",
+    "matched_title": "The Radetzky March (Von Trotta Family, #1)",
+    "matched_authors": [
+      "Joseph Roth",
+      "Joachim Neugroschel"
+    ]
+  },
+  "Robert Seethaler | A Whole Life": {
+    "title": "A Whole Life",
+    "author": "Robert Seethaler",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/c0abab0a1a79c747.jpg",
+    "width": 294,
+    "height": 445,
+    "source": "https://openlibrary.org/books/OL27215262M",
+    "remote_image": "https://covers.openlibrary.org/b/id/15263145-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "A whole life",
+    "matched_authors": [
+      "Robert Seethaler"
+    ]
+  },
+  "Jacqueline Harpman | I Who Have Never Known Men": {
+    "title": "I Who Have Never Known Men",
+    "author": "Jacqueline Harpman",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Amélie Nothomb | Fear and Trembling": {
+    "title": "Fear and Trembling",
+    "author": "Amélie Nothomb",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ivo Andrić | The Bridge on the Drina": {
+    "title": "The Bridge on the Drina",
+    "author": "Ivo Andrić",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Saša Stanišić | How the Soldier Repairs the Gramophone": {
+    "title": "How the Soldier Repairs the Gramophone",
+    "author": "Saša Stanišić",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Dimitar Talev | The Iron Candlestick": {
+    "title": "The Iron Candlestick",
+    "author": "Dimitar Talev",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Dimitar Dimov | Tobacco": {
+    "title": "Tobacco",
+    "author": "Dimitar Dimov",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Emiliyan Stanev | The Peach Thief": {
+    "title": "The Peach Thief",
+    "author": "Emiliyan Stanev",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Milan Kundera | The Unbearable Lightness of Being": {
+    "title": "The Unbearable Lightness of Being",
+    "author": "Milan Kundera",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Milan Kundera | The Joke": {
+    "title": "The Joke",
+    "author": "Milan Kundera",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jaroslav Hašek | The Good Soldier Švejk": {
+    "title": "The Good Soldier Švejk",
+    "author": "Jaroslav Hašek",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Herman Bang | This Corner of the World": {
+    "title": "This Corner of the World",
+    "author": "Herman Bang",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Peter Høeg | The History of Danish Dreams": {
+    "title": "The History of Danish Dreams",
+    "author": "Peter Høeg",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/51dca326ad34f7d7.jpg",
+    "width": 332,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL21745888M",
+    "remote_image": "https://covers.openlibrary.org/b/id/6729396-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The history of Danish dreams",
+    "matched_authors": [
+      "Peter Høeg"
+    ]
+  },
+  "Luan Starova | My Father's Books": {
+    "title": "My Father's Books",
+    "author": "Luan Starova",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Petre M. Andreevski | Pirey": {
+    "title": "Pirey",
+    "author": "Petre M. Andreevski",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Andrus Kivirähk | The Man Who Spoke Snakish": {
+    "title": "The Man Who Spoke Snakish",
+    "author": "Andrus Kivirähk",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Viivi Luik | The Beauty of History": {
+    "title": "The Beauty of History",
+    "author": "Viivi Luik",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/3b03761993da974d.jpg",
+    "width": 128,
+    "height": 200,
+    "source": "https://openlibrary.org/books/OL21528058M",
+    "remote_image": "https://covers.openlibrary.org/b/id/5433312-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The beauty of history",
+    "matched_authors": [
+      "Viivi Luik"
+    ]
+  },
+  "Vasil Bykau | The Ordeal": {
+    "title": "The Ordeal",
+    "author": "Vasil Bykau",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/60e63879872c2a5c.jpg",
+    "width": 128,
+    "height": 195,
+    "source": "https://openlibrary.org/books/OL9687432M",
+    "remote_image": "https://covers.openlibrary.org/b/id/5002853-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Ordeal",
+    "matched_authors": [
+      "Vasilʹ Bykaŭ",
+      "Vasily Bykov",
+      "VasiliiUladzimiravich Bykau"
+    ]
+  },
+  "Vasil Bykau | Alpine Ballad": {
+    "title": "Alpine Ballad",
+    "author": "Vasil Bykau",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/36ba09b955eb4d95.jpg",
+    "width": 313,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL18352583W",
+    "remote_image": "https://covers.openlibrary.org/b/id/14339259-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "Alpine ballad ; Hold out till dawn",
+    "matched_authors": [
+      "Vasilʹ Bykaŭ"
+    ]
+  },
+  "Viktor Martinovich | Paranoia": {
+    "title": "Paranoia",
+    "author": "Viktor Martinovich",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Alhierd Bacharevič | Dogs of Europe": {
+    "title": "Dogs of Europe",
+    "author": "Alhierd Bacharevič",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Uladzimir Karatkievics | King Stakh's Wild Hunt": {
+    "title": "King Stakh's Wild Hunt",
+    "author": "Uladzimir Karatkievics",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tove Jansson | The Summer Book": {
+    "title": "The Summer Book",
+    "author": "Tove Jansson",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Marcel Proust | Swann's Way": {
+    "title": "Swann's Way",
+    "author": "Marcel Proust",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Marie NDiaye | Three Strong Women": {
+    "title": "Three Strong Women",
+    "author": "Marie NDiaye",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Nikos Kazantzakis | Zorba the Greek": {
+    "title": "Zorba the Greek",
+    "author": "Nikos Kazantzakis",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/1ed687be395b00c3.jpg",
+    "width": 327,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL37804588M",
+    "remote_image": "https://covers.openlibrary.org/b/id/14567040-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Zorba the Greek",
+    "matched_authors": [
+      "Nikos Kazantzakis"
+    ]
+  },
+  "Nikos Kazantzakis | The Last Temptation of Christ": {
+    "title": "The Last Temptation of Christ",
+    "author": "Nikos Kazantzakis",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/955041767c61bf31.jpg",
+    "width": 312,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL31376513W",
+    "remote_image": "https://covers.openlibrary.org/b/id/13819425-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "The Last Temptation of Christ",
+    "matched_authors": [
+      "Nikos Kazantzakis"
+    ]
+  },
+  "Margarita Karapanou | Kassandra and the Wolf": {
+    "title": "Kassandra and the Wolf",
+    "author": "Margarita Karapanou",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Kostas Tachtsis | The Third Wedding": {
+    "title": "The Third Wedding",
+    "author": "Kostas Tachtsis",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/09bdd8b66b68e2d1.jpg",
+    "width": 310,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL21270735M",
+    "remote_image": "https://covers.openlibrary.org/b/id/7933149-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The third wedding",
+    "matched_authors": [
+      "Kōstas Tachtsēs"
+    ]
+  },
+  "Harry Mulisch | The Assault": {
+    "title": "The Assault",
+    "author": "Harry Mulisch",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Dubravka Ugrešić | The Ministry of Pain": {
+    "title": "The Ministry of Pain",
+    "author": "Dubravka Ugrešić",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/7748fbc496e29d87.jpg",
+    "width": 331,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL22724047M",
+    "remote_image": "https://covers.openlibrary.org/b/id/9687185-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The ministry of pain",
+    "matched_authors": [
+      "Dubravka UgreÚsiÔc"
+    ]
+  },
+  "Miroslav Krleža | The Return of Philip Latinowicz": {
+    "title": "The Return of Philip Latinowicz",
+    "author": "Miroslav Krleža",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Halldór Laxness | Independent People": {
+    "title": "Independent People",
+    "author": "Halldór Laxness",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jón Kalman Stefánsson | Heaven and Hell": {
+    "title": "Heaven and Hell",
+    "author": "Jón Kalman Stefánsson",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Gunnar Gunnarsson | Advent": {
+    "title": "Advent",
+    "author": "Gunnar Gunnarsson",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Olga Tokarczuk | Primeval and Other Times": {
+    "title": "Primeval and Other Times",
+    "author": "Olga Tokarczuk",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Inga Ābele | High Tide": {
+    "title": "High Tide",
+    "author": "Inga Ābele",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jānis Joņevs | Doom 94": {
+    "title": "Doom 94",
+    "author": "Jānis Joņevs",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ričardas Gavelis | Sun-Tzu's Life in the Holy City of Vilnius": {
+    "title": "Sun-Tzu's Life in the Holy City of Vilnius",
+    "author": "Ričardas Gavelis",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Alvydas Šlepikas | In the Shadow of Wolves": {
+    "title": "In the Shadow of Wolves",
+    "author": "Alvydas Šlepikas",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jean Back | Amateur": {
+    "title": "Amateur",
+    "author": "Jean Back",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Vladimir Lorchenkov | The Good Life Elsewhere": {
+    "title": "The Good Life Elsewhere",
+    "author": "Vladimir Lorchenkov",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tatiana Țîbuleac | The Summer My Mother Had Green Eyes": {
+    "title": "The Summer My Mother Had Green Eyes",
+    "author": "Tatiana Țîbuleac",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/4105245b6db9603e.jpg",
+    "width": 323,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL62588023M",
+    "remote_image": "https://covers.openlibrary.org/b/id/15256700-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Summer My Mother Had Green Eyes",
+    "matched_authors": [
+      "Tatiana Tibuleac"
+    ]
+  },
+  "Tatiana Țîbuleac | The Glass Garden": {
+    "title": "The Glass Garden",
+    "author": "Tatiana Țîbuleac",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Liliana Corobca | The Censor's Notebook": {
+    "title": "The Censor's Notebook",
+    "author": "Liliana Corobca",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jenny Erpenbeck | Visitation": {
+    "title": "Visitation",
+    "author": "Jenny Erpenbeck",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tarjei Vesaas | The Ice Palace": {
+    "title": "The Ice Palace",
+    "author": "Tarjei Vesaas",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Luigi Pirandello | The Late Mattia Pascal": {
+    "title": "The Late Mattia Pascal",
+    "author": "Luigi Pirandello",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/c4abad3eab2baa9d.jpg",
+    "width": 305,
+    "height": 475,
+    "source": "https://openlibrary.org/works/OL15249439W",
+    "remote_image": "https://covers.openlibrary.org/b/id/718541-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "The Late Mattia Pascal (Eridanos Library)",
+    "matched_authors": [
+      "Luigi Pirandello"
+    ]
+  },
+  "Italo Svevo | Zeno's Conscience": {
+    "title": "Zeno's Conscience",
+    "author": "Italo Svevo",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/f848c39ba59dbb42.jpg",
+    "width": 313,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL2276555W",
+    "remote_image": "https://covers.openlibrary.org/b/id/908656-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "Zeno's Conscience (Everyman's Library Contemporary Classics)",
+    "matched_authors": [
+      "Italo Svevo"
+    ]
+  },
+  "Elsa Morante | History": {
+    "title": "History",
+    "author": "Elsa Morante",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Leo Tolstoy | Anna Karenina": {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Fyodor Dostoevsky | The Brothers Karamazov": {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ivan Turgenev | Fathers and Sons": {
+    "title": "Fathers and Sons",
+    "author": "Ivan Turgenev",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mikhail Bulgakov | The Master and Margarita": {
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Vasily Grossman | Life and Fate": {
+    "title": "Life and Fate",
+    "author": "Vasily Grossman",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Eça de Queirós | The Maias": {
+    "title": "The Maias",
+    "author": "Eça de Queirós",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Eça de Queirós | The Crime of Father Amaro": {
+    "title": "The Crime of Father Amaro",
+    "author": "Eça de Queirós",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "José Saramago | Blindness": {
+    "title": "Blindness",
+    "author": "José Saramago",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Marin Preda | The Moromete Family": {
+    "title": "The Moromete Family",
+    "author": "Marin Preda",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Herta Müller | The Land of Green Plums": {
+    "title": "The Land of Green Plums",
+    "author": "Herta Müller",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mercè Rodoreda | The Time of the Doves": {
+    "title": "The Time of the Doves",
+    "author": "Mercè Rodoreda",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Javier Marías | A Heart So White": {
+    "title": "A Heart So White",
+    "author": "Javier Marías",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Danilo Kiš | Hourglass": {
+    "title": "Hourglass",
+    "author": "Danilo Kiš",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Miloš Crnjanski | Migrations": {
+    "title": "Migrations",
+    "author": "Miloš Crnjanski",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Milorad Pavić | Dictionary of the Khazars": {
+    "title": "Dictionary of the Khazars",
+    "author": "Milorad Pavić",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "David Albahari | Bait": {
+    "title": "Bait",
+    "author": "David Albahari",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Peter Pišťanek | Rivers of Babylon": {
+    "title": "Rivers of Babylon",
+    "author": "Peter Pišťanek",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/7265c711ce831728.jpg",
+    "width": 128,
+    "height": 184,
+    "source": "https://openlibrary.org/works/OL3183565W",
+    "remote_image": "https://covers.openlibrary.org/b/id/3839949-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "Rivers of Babylon 2., alebo, Drevená dedina",
+    "matched_authors": [
+      "Peter Pišt̓anek"
+    ]
+  },
+  "Daniela Kapitáňová | Samko Tále's Cemetery Book": {
+    "title": "Samko Tále's Cemetery Book",
+    "author": "Daniela Kapitáňová",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Pavol Rankov | It Happened on September the First (or Whenever)": {
+    "title": "It Happened on September the First (or Whenever)",
+    "author": "Pavol Rankov",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Balla | In the Name of the Father": {
+    "title": "In the Name of the Father",
+    "author": "Balla",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Drago Jančar | I Saw Her That Night": {
+    "title": "I Saw Her That Night",
+    "author": "Drago Jančar",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Goran Vojnović | Southern Scum Go Home!": {
+    "title": "Southern Scum Go Home!",
+    "author": "Goran Vojnović",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Miha Mazzini | The German Lottery": {
+    "title": "The German Lottery",
+    "author": "Miha Mazzini",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Valerian Pidmohylny | The City": {
+    "title": "The City",
+    "author": "Valerian Pidmohylny",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Serhiy Zhadan | The Orphanage": {
+    "title": "The Orphanage",
+    "author": "Serhiy Zhadan",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Oksana Zabuzhko | The Museum of Abandoned Secrets": {
+    "title": "The Museum of Abandoned Secrets",
+    "author": "Oksana Zabuzhko",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Sofia Andrukhovych | Felix Austria": {
+    "title": "Felix Austria",
+    "author": "Sofia Andrukhovych",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Kunzang Choden | Dawa: The Story of a Stray Dog in Bhutan": {
+    "title": "Dawa: The Story of a Stray Dog in Bhutan",
+    "author": "Kunzang Choden",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Constantia Soteriou | Brandy Sour": {
+    "title": "Brandy Sour",
+    "author": "Constantia Soteriou",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Han Kang | Human Acts": {
+    "title": "Human Acts",
+    "author": "Han Kang",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Han Kang | The Vegetarian": {
+    "title": "The Vegetarian",
+    "author": "Han Kang",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Hwang Sok-yong | The Guest": {
+    "title": "The Guest",
+    "author": "Hwang Sok-yong",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/ffc452b30fb05a0c.jpg",
+    "width": 333,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL9529788M",
+    "remote_image": "https://covers.openlibrary.org/b/id/1945641-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Guest",
+    "matched_authors": [
+      "Hwang Sok-yong"
+    ]
+  },
+  "Cho Nam-joo | Kim Jiyoung, Born 1982": {
+    "title": "Kim Jiyoung, Born 1982",
+    "author": "Cho Nam-joo",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Maha Gargash | That Other Me": {
+    "title": "That Other Me",
+    "author": "Maha Gargash",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Reem Al-Kamali | Rose's Diary": {
+    "title": "Rose's Diary",
+    "author": "Reem Al-Kamali",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Dubai Abulhoul | Galagolia": {
+    "title": "Galagolia",
+    "author": "Dubai Abulhoul",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Baek Nam-nyong | Friend": {
+    "title": "Friend",
+    "author": "Baek Nam-nyong",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Hong Sok-jung | Hwang Jini": {
+    "title": "Hwang Jini",
+    "author": "Hong Sok-jung",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Nino Haratischwili | The Eighth Life (for Brilka)": {
+    "title": "The Eighth Life (for Brilka)",
+    "author": "Nino Haratischwili",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mikheil Javakhishvili | Kvachi": {
+    "title": "Kvachi",
+    "author": "Mikheil Javakhishvili",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Aka Morchiladze | Journey to Karabakh": {
+    "title": "Journey to Karabakh",
+    "author": "Aka Morchiladze",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Nana Ekvtimishvili | The Pear Field": {
+    "title": "The Pear Field",
+    "author": "Nana Ekvtimishvili",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ismat Chughtai | The Crooked Line": {
+    "title": "The Crooked Line",
+    "author": "Ismat Chughtai",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/7c73300445acdad0.jpg",
+    "width": 325,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL8606942M",
+    "remote_image": "https://covers.openlibrary.org/b/id/784547-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Crooked Line",
+    "matched_authors": [
+      "Ismat Cughtai",
+      "Tahira Naqvi"
+    ]
+  },
+  "Pramoedya Ananta Toer | This Earth of Mankind": {
+    "title": "This Earth of Mankind",
+    "author": "Pramoedya Ananta Toer",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Sinan Antoon | I'jaam": {
+    "title": "I'jaam",
+    "author": "Sinan Antoon",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Inaam Kachachi | The American Granddaughter": {
+    "title": "The American Granddaughter",
+    "author": "Inaam Kachachi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Sadegh Hedayat | The Blind Owl": {
+    "title": "The Blind Owl",
+    "author": "Sadegh Hedayat",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Simin Daneshvar | Savushun": {
+    "title": "Savushun",
+    "author": "Simin Daneshvar",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/c1983f50cc091418.jpg",
+    "width": 314,
+    "height": 475,
+    "source": "https://openlibrary.org/books/OL8389692M",
+    "remote_image": "https://covers.openlibrary.org/b/id/713007-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Savushun",
+    "matched_authors": [
+      "Sīmīn Dānishvar"
+    ]
+  },
+  "Shahrnush Parsipur | Women Without Men": {
+    "title": "Women Without Men",
+    "author": "Shahrnush Parsipur",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/8e84d96c261e8da3.jpg",
+    "width": 317,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL8606918M",
+    "remote_image": "https://covers.openlibrary.org/b/id/784512-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Women Without Men",
+    "matched_authors": [
+      "Shahrnush Parsipur"
+    ]
+  },
+  "Mahmoud Dowlatabadi | The Colonel": {
+    "title": "The Colonel",
+    "author": "Mahmoud Dowlatabadi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "David Grossman | To the End of the Land": {
+    "title": "To the End of the Land",
+    "author": "David Grossman",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Amos Oz | My Michael": {
+    "title": "My Michael",
+    "author": "Amos Oz",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "A. B. Yehoshua | The Lover": {
+    "title": "The Lover",
+    "author": "A. B. Yehoshua",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jun'ichirō Tanizaki | Some Prefer Nettles": {
+    "title": "Some Prefer Nettles",
+    "author": "Jun'ichirō Tanizaki",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jun'ichirō Tanizaki | The Makioka Sisters": {
+    "title": "The Makioka Sisters",
+    "author": "Jun'ichirō Tanizaki",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Yū Miri | Tokyo Ueno Station": {
+    "title": "Tokyo Ueno Station",
+    "author": "Yū Miri",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ali al-Muqri | The Handsome Jew": {
+    "title": "The Handsome Jew",
+    "author": "Ali al-Muqri",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ali al-Muqri | Hurma": {
+    "title": "Hurma",
+    "author": "Ali al-Muqri",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/871c604e7056b6e4.jpg",
+    "width": 334,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL27514810M",
+    "remote_image": "https://covers.openlibrary.org/b/id/8971302-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Hurma",
+    "matched_authors": [
+      "Ali al-Muqri"
+    ]
+  },
+  "Wajdi al-Ahdal | A Land Without Jasmine": {
+    "title": "A Land Without Jasmine",
+    "author": "Wajdi al-Ahdal",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Habib Abdulrab Sarori | The Suslov's Daughter": {
+    "title": "The Suslov's Daughter",
+    "author": "Habib Abdulrab Sarori",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Fadia Faqir | Willow Trees Don't Weep": {
+    "title": "Willow Trees Don't Weep",
+    "author": "Fadia Faqir",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jamal Naji | When the Wolves Grow Old": {
+    "title": "When the Wolves Grow Old",
+    "author": "Jamal Naji",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Vaddey Ratner | Music of the Ghosts": {
+    "title": "Music of the Ghosts",
+    "author": "Vaddey Ratner",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdulaziz Al-Mahmoud | The Corsair": {
+    "title": "The Corsair",
+    "author": "Abdulaziz Al-Mahmoud",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdulaziz Al-Mahmoud | The Holy Sail": {
+    "title": "The Holy Sail",
+    "author": "Abdulaziz Al-Mahmoud",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mukhtar Auezov | The Time of Ordeal": {
+    "title": "The Time of Ordeal",
+    "author": "Mukhtar Auezov",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abish Kekilbayev | The End of the Legend": {
+    "title": "The End of the Legend",
+    "author": "Abish Kekilbayev",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Yu Hua | To Live": {
+    "title": "To Live",
+    "author": "Yu Hua",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Yu Hua | Chronicle of a Blood Merchant": {
+    "title": "Chronicle of a Blood Merchant",
+    "author": "Yu Hua",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Chingiz Aitmatov | The Place of the Skull": {
+    "title": "The Place of the Skull",
+    "author": "Chingiz Aitmatov",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Chingiz Aitmatov | Farewell, Gulsary!": {
+    "title": "Farewell, Gulsary!",
+    "author": "Chingiz Aitmatov",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Saud Alsanousi | The Bamboo Stalk": {
+    "title": "The Bamboo Stalk",
+    "author": "Saud Alsanousi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Saud Alsanousi | Mama Hissa's Mice": {
+    "title": "Mama Hissa's Mice",
+    "author": "Saud Alsanousi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ismail Fahd Ismail | The Old Woman and the River": {
+    "title": "The Old Woman and the River",
+    "author": "Ismail Fahd Ismail",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Bothayna Al-Essa | The Book Censor's Library": {
+    "title": "The Book Censor's Library",
+    "author": "Bothayna Al-Essa",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mai Al-Nakib | An Unlasting Home": {
+    "title": "An Unlasting Home",
+    "author": "Mai Al-Nakib",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Elias Khoury | Gate of the Sun": {
+    "title": "Gate of the Sun",
+    "author": "Elias Khoury",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Hanan al-Shaykh | The Story of Zahra": {
+    "title": "The Story of Zahra",
+    "author": "Hanan al-Shaykh",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Rabee Jaber | The Mehlis Report": {
+    "title": "The Mehlis Report",
+    "author": "Rabee Jaber",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Amin Maalouf | Leo Africanus": {
+    "title": "Leo Africanus",
+    "author": "Amin Maalouf",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tash Aw | The Harmony Silk Factory": {
+    "title": "The Harmony Silk Factory",
+    "author": "Tash Aw",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/ff4d340df86505aa.jpg",
+    "width": 316,
+    "height": 475,
+    "source": "https://openlibrary.org/books/OL9218177M",
+    "remote_image": "https://covers.openlibrary.org/b/id/12547-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Harmony Silk Factory (SIGNED)",
+    "matched_authors": [
+      "Tash Aw"
+    ]
+  },
+  "Nu Nu Yi | Smile as They Bow": {
+    "title": "Smile as They Bow",
+    "author": "Nu Nu Yi",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/670c8d2340ad49a9.jpg",
+    "width": 327,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL23101319M",
+    "remote_image": "https://covers.openlibrary.org/b/id/9422083-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Smile as they bow",
+    "matched_authors": [
+      "Nu Nu Yi"
+    ]
+  },
+  "Wendy Law-Yone | The Road to Wanting": {
+    "title": "The Road to Wanting",
+    "author": "Wendy Law-Yone",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/2028e84c09c86b69.jpg",
+    "width": 333,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL15477971W",
+    "remote_image": "https://covers.openlibrary.org/b/id/11067794-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "The road to wanting",
+    "matched_authors": [
+      "Wendy Law-Yone"
+    ]
+  },
+  "Wendy Law-Yone | The Coffin Tree": {
+    "title": "The Coffin Tree",
+    "author": "Wendy Law-Yone",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/cf8f43179a4627f7.jpg",
+    "width": 335,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL7945236M",
+    "remote_image": "https://covers.openlibrary.org/b/id/9423854-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Coffin Tree",
+    "matched_authors": [
+      "Wendy Law-Yone"
+    ]
+  },
+  "Wendy Law-Yone | Irrawaddy Tango": {
+    "title": "Irrawaddy Tango",
+    "author": "Wendy Law-Yone",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/bc0c250a767a9091.jpg",
+    "width": 308,
+    "height": 475,
+    "source": "https://openlibrary.org/works/OL4317601W",
+    "remote_image": "https://covers.openlibrary.org/b/id/1532779-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "Irrawaddy tango",
+    "matched_authors": [
+      "Wendy Law-Yone"
+    ]
+  },
+  "Galsan Tschinag | The Blue Sky": {
+    "title": "The Blue Sky",
+    "author": "Galsan Tschinag",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Galsan Tschinag | The Gray Earth": {
+    "title": "The Gray Earth",
+    "author": "Galsan Tschinag",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Galsan Tschinag | The White Mountain": {
+    "title": "The White Mountain",
+    "author": "Galsan Tschinag",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Parijat | Blue Mimosa": {
+    "title": "Blue Mimosa",
+    "author": "Parijat",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/9e22d3c5629e580d.jpg",
+    "width": 500,
+    "height": 333,
+    "source": "https://openlibrary.org/books/OL5403122M",
+    "remote_image": "https://covers.openlibrary.org/b/id/6308315-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Blue mimosa.",
+    "matched_authors": [
+      "Pārijāta"
+    ]
+  },
+  "B. P. Koirala | Sumnima": {
+    "title": "Sumnima",
+    "author": "B. P. Koirala",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jokha Alharthi | Silken Gazelles": {
+    "title": "Silken Gazelles",
+    "author": "Jokha Alharthi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Bushra Khalfan | Dilshad": {
+    "title": "Dilshad",
+    "author": "Bushra Khalfan",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdulaziz Al Farsi | Earth Weeps, Saturn Laughs": {
+    "title": "Earth Weeps, Saturn Laughs",
+    "author": "Abdulaziz Al Farsi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Narine Abgaryan | Simon": {
+    "title": "Simon",
+    "author": "Narine Abgaryan",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ghassan Kanafani | Men in the Sun": {
+    "title": "Men in the Sun",
+    "author": "Ghassan Kanafani",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ghassan Kanafani | Returning to Haifa": {
+    "title": "Returning to Haifa",
+    "author": "Ghassan Kanafani",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Sahar Khalifeh | Wild Thorns": {
+    "title": "Wild Thorns",
+    "author": "Sahar Khalifeh",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/fd8f607a910ffc26.jpg",
+    "width": 329,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL8668942W",
+    "remote_image": "https://covers.openlibrary.org/b/id/807068-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "Wild Thorns",
+    "matched_authors": [
+      "Ṣahar Khalīfah"
+    ]
+  },
+  "Adania Shibli | Minor Detail": {
+    "title": "Minor Detail",
+    "author": "Adania Shibli",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mohammed Hasan Alwan | The Beaver": {
+    "title": "The Beaver",
+    "author": "Mohammed Hasan Alwan",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Suchen Christine Lim | The River's Song": {
+    "title": "The River's Song",
+    "author": "Suchen Christine Lim",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Sharlene Teo | Ponti": {
+    "title": "Ponti",
+    "author": "Sharlene Teo",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jeremy Tiang | State of Emergency": {
+    "title": "State of Emergency",
+    "author": "Jeremy Tiang",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Hanna Mina | The Sail and the Storm": {
+    "title": "The Sail and the Storm",
+    "author": "Hanna Mina",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Fadi Azzam | Sarmada": {
+    "title": "Sarmada",
+    "author": "Fadi Azzam",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Chart Korbjitti | The Judgment": {
+    "title": "The Judgment",
+    "author": "Chart Korbjitti",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Chart Korbjitti | Time": {
+    "title": "Time",
+    "author": "Chart Korbjitti",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Chart Korbjitti | Mad Dogs & Company": {
+    "title": "Mad Dogs & Company",
+    "author": "Chart Korbjitti",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ahmet Hamdi Tanpınar | The Time Regulation Institute": {
+    "title": "The Time Regulation Institute",
+    "author": "Ahmet Hamdi Tanpınar",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/557412933f581ca2.jpg",
+    "width": 326,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL27541242M",
+    "remote_image": "https://covers.openlibrary.org/b/id/8996939-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Time Regulation Institute",
+    "matched_authors": [
+      "Ahmet Hamdi Tanpınar"
+    ]
+  },
+  "Orhan Pamuk | My Name Is Red": {
+    "title": "My Name Is Red",
+    "author": "Orhan Pamuk",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ak Welsapar | Cobra": {
+    "title": "Cobra",
+    "author": "Ak Welsapar",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdulla Qodiriy | Bygone Days": {
+    "title": "Bygone Days",
+    "author": "Abdulla Qodiriy",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdulhamid Cho'lpon | Night and Day": {
+    "title": "Night and Day",
+    "author": "Abdulhamid Cho'lpon",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Bảo Ninh | The Sorrow of War": {
+    "title": "The Sorrow of War",
+    "author": "Bảo Ninh",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Dương Thu Hương | Paradise of the Blind": {
+    "title": "Paradise of the Blind",
+    "author": "Dương Thu Hương",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/0d502b53c385c1c8.jpg",
+    "width": 328,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL32716089M",
+    "remote_image": "https://covers.openlibrary.org/b/id/11343187-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Paradise of the Blind",
+    "matched_authors": [
+      "Dương, Thu Hương.",
+      "Thu Huong Duong",
+      "Nina Mcpherson",
+      "Duong Thu Huong",
+      "HUONG, DUONG, T"
+    ]
+  },
+  "Dương Thu Hương | Novel Without a Name": {
+    "title": "Novel Without a Name",
+    "author": "Dương Thu Hương",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/33c9d0ca4a4df52b.jpg",
+    "width": 319,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL22064396M",
+    "remote_image": "https://covers.openlibrary.org/b/id/14648920-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Novel without a name",
+    "matched_authors": [
+      "Dương, Thu Hương.",
+      "Thu Huong Duong",
+      "Duong Thu Huong",
+      "D. Huong",
+      "DUONG HUONG"
+    ]
+  },
+  "Ondjaki | Good Morning Comrades": {
+    "title": "Good Morning Comrades",
+    "author": "Ondjaki",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/c3e180db0fe522cb.jpg",
+    "width": 262,
+    "height": 400,
+    "source": "https://openlibrary.org/books/OL26176440M",
+    "remote_image": "https://covers.openlibrary.org/b/id/7847611-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Good Morning Comrades A Novel",
+    "matched_authors": [
+      "Ondjaki",
+      "Stephen Henighan"
+    ]
+  },
+  "José Luandino Vieira | Our Musseque": {
+    "title": "Our Musseque",
+    "author": "José Luandino Vieira",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/5ebb9039a0c83bbd.jpg",
+    "width": 295,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL39200364M",
+    "remote_image": "https://covers.openlibrary.org/b/id/12832999-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Our musseque",
+    "matched_authors": [
+      "José Luandino Vieira"
+    ]
+  },
+  "Olympe Bhêly-Quenum | Snares Without End": {
+    "title": "Snares Without End",
+    "author": "Olympe Bhêly-Quenum",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/00a874e9f9784475.jpg",
+    "width": 128,
+    "height": 207,
+    "source": "https://openlibrary.org/books/OL3522617M",
+    "remote_image": "https://covers.openlibrary.org/b/id/4283808-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Snares without end",
+    "matched_authors": [
+      "Olympe Bhêly-Quénum",
+      "Olympe Bhêly-Quénum"
+    ]
+  },
+  "Olympe Bhêly-Quenum | As She Was Discovering Tigony": {
+    "title": "As She Was Discovering Tigony",
+    "author": "Olympe Bhêly-Quenum",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdulai Silá | The Ultimate Tragedy": {
+    "title": "The Ultimate Tragedy",
+    "author": "Abdulai Silá",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Gaël Faye | Small Country": {
+    "title": "Small Country",
+    "author": "Gaël Faye",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Stella Gaitano | Edo's Souls": {
+    "title": "Edo's Souls",
+    "author": "Stella Gaitano",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdourahman A. Waberi | In the United States of Africa": {
+    "title": "In the United States of Africa",
+    "author": "Abdourahman A. Waberi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Juan Tomás Ávila Laurel | By Night the Mountain Burns": {
+    "title": "By Night the Mountain Burns",
+    "author": "Juan Tomás Ávila Laurel",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/3d5910a217aaae7d.jpg",
+    "width": 326,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL32395921M",
+    "remote_image": "https://covers.openlibrary.org/b/id/11058799-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "By Night the Mountain Burns",
+    "matched_authors": [
+      "Juan-Tomás Avila Laurel",
+      "José Manuel Pedrosa",
+      "Jethro Soutar"
+    ]
+  },
+  "Donato Ndongo | Shadows of Your Black Memory": {
+    "title": "Shadows of Your Black Memory",
+    "author": "Donato Ndongo",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Naguib Mahfouz | Palace Walk": {
+    "title": "Palace Walk",
+    "author": "Naguib Mahfouz",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Naguib Mahfouz | Midaq Alley": {
+    "title": "Midaq Alley",
+    "author": "Naguib Mahfouz",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ahmadou Kourouma | Allah Is Not Obliged": {
+    "title": "Allah Is Not Obliged",
+    "author": "Ahmadou Kourouma",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/579700a8ca71f8bd.jpg",
+    "width": 312,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL18000434M",
+    "remote_image": "https://covers.openlibrary.org/b/id/9627335-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Allah is not obliged",
+    "matched_authors": [
+      "Ahmadou Kourouma"
+    ]
+  },
+  "Gebreyesus Hailu | The Conscript": {
+    "title": "The Conscript",
+    "author": "Gebreyesus Hailu",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/98c10f92827f01db.jpg",
+    "width": 259,
+    "height": 400,
+    "source": "https://openlibrary.org/works/OL17447607W",
+    "remote_image": "https://covers.openlibrary.org/b/id/7597479-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "The Conscript A Novel Of Libyas Anticolonial War",
+    "matched_authors": [
+      "Gebreyesus Hailu",
+      "Ghirmai Negash",
+      "Laura Chrisman"
+    ]
+  },
+  "Sulaiman Addonia | The Seers": {
+    "title": "The Seers",
+    "author": "Sulaiman Addonia",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Dinaw Mengestu | All Our Names": {
+    "title": "All Our Names",
+    "author": "Dinaw Mengestu",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ama Ata Aidoo | Changes: A Love Story": {
+    "title": "Changes: A Love Story",
+    "author": "Ama Ata Aidoo",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Camara Laye | The Radiance of the King": {
+    "title": "The Radiance of the King",
+    "author": "Camara Laye",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Williams Sassine | Saint Monsieur Baly": {
+    "title": "Saint Monsieur Baly",
+    "author": "Williams Sassine",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tierno Monénembo | The Black Terrorist": {
+    "title": "The Black Terrorist",
+    "author": "Tierno Monénembo",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mongo Beti | The Poor Christ of Bomba": {
+    "title": "The Poor Christ of Bomba",
+    "author": "Mongo Beti",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/037eceba4020a9dc.jpg",
+    "width": 321,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL24951607M",
+    "remote_image": "https://covers.openlibrary.org/b/id/6972691-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The poor Christ of Bomba",
+    "matched_authors": [
+      "Mongo Beti"
+    ]
+  },
+  "Calixthe Beyala | The Sun Hath Looked Upon Me": {
+    "title": "The Sun Hath Looked Upon Me",
+    "author": "Calixthe Beyala",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/4187fa46f4c3d2d2.jpg",
+    "width": 311,
+    "height": 475,
+    "source": "https://openlibrary.org/books/OL7509029M",
+    "remote_image": "https://covers.openlibrary.org/b/id/275127-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Sun Hath Looked Upon Me",
+    "matched_authors": [
+      "Calixthe Beyala"
+    ]
+  },
+  "Ngũgĩ wa Thiong'o | A Grain of Wheat": {
+    "title": "A Grain of Wheat",
+    "author": "Ngũgĩ wa Thiong'o",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/2f3aedf36245f3d0.jpg",
+    "width": 328,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL10242W",
+    "remote_image": "https://covers.openlibrary.org/b/id/14342094-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "A grain of wheat",
+    "matched_authors": [
+      "Ngũgĩ wa Thiongʼo"
+    ]
+  },
+  "Ngũgĩ wa Thiong'o | Petals of Blood": {
+    "title": "Petals of Blood",
+    "author": "Ngũgĩ wa Thiong'o",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/f284f72a4d69c07b.jpg",
+    "width": 316,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL30586750M",
+    "remote_image": "https://covers.openlibrary.org/b/id/14343581-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Petals of Blood",
+    "matched_authors": [
+      "Ngũgĩ wa Thiongʼo"
+    ]
+  },
+  "Ngũgĩ wa Thiong'o | Wizard of the Crow": {
+    "title": "Wizard of the Crow",
+    "author": "Ngũgĩ wa Thiong'o",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/82eefef297d00ebc.jpg",
+    "width": 327,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL47302935M",
+    "remote_image": "https://covers.openlibrary.org/b/id/13767492-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Wizard of the crow",
+    "matched_authors": [
+      "Ngũgĩ wa Thiongʼo"
+    ]
+  },
+  "Fiston Mwanza Mujila | The Villain's Dance": {
+    "title": "The Villain's Dance",
+    "author": "Fiston Mwanza Mujila",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Valentin-Yves Mudimbe | Between Tides": {
+    "title": "Between Tides",
+    "author": "Valentin-Yves Mudimbe",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Valentin-Yves Mudimbe | The Rift": {
+    "title": "The Rift",
+    "author": "Valentin-Yves Mudimbe",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Vamba Sherif | The Land of the Fathers": {
+    "title": "The Land of the Fathers",
+    "author": "Vamba Sherif",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Vamba Sherif | Bound to Secrecy": {
+    "title": "Bound to Secrecy",
+    "author": "Vamba Sherif",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Hawa Jande Golakai | The Lazarus Effect": {
+    "title": "The Lazarus Effect",
+    "author": "Hawa Jande Golakai",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ibrahim al-Koni | The Bleeding of the Stone": {
+    "title": "The Bleeding of the Stone",
+    "author": "Ibrahim al-Koni",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/20b494fe9685c51c.jpg",
+    "width": 310,
+    "height": 475,
+    "source": "https://openlibrary.org/books/OL8669599M",
+    "remote_image": "https://covers.openlibrary.org/b/id/807126-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Bleeding of the Stone",
+    "matched_authors": [
+      "Ibrahim Al-Koni"
+    ]
+  },
+  "Ibrahim al-Koni | Gold Dust": {
+    "title": "Gold Dust",
+    "author": "Ibrahim al-Koni",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/0b1532cf1e0591de.jpg",
+    "width": 317,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL24350797W",
+    "remote_image": "https://covers.openlibrary.org/b/id/10875822-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "Gold Dust",
+    "matched_authors": [
+      "Ibrahim al-Koni",
+      "Elliot Colla"
+    ]
+  },
+  "Amadou Hampâté Bâ | The Fortunes of Wangrin": {
+    "title": "The Fortunes of Wangrin",
+    "author": "Amadou Hampâté Bâ",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/25183b25fab08154.jpg",
+    "width": 329,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL22075664M",
+    "remote_image": "https://covers.openlibrary.org/b/id/13408925-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The fortunes of Wangrin",
+    "matched_authors": [
+      "Âmadou-Hampâté Bâ"
+    ]
+  },
+  "Massa Makan Diabaté | The Lieutenant of Kouta": {
+    "title": "The Lieutenant of Kouta",
+    "author": "Massa Makan Diabaté",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tahar Ben Jelloun | The Sand Child": {
+    "title": "The Sand Child",
+    "author": "Tahar Ben Jelloun",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tahar Ben Jelloun | This Blinding Absence of Light": {
+    "title": "This Blinding Absence of Light",
+    "author": "Tahar Ben Jelloun",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/3838197f494231ae.jpg",
+    "width": 325,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL7358680M",
+    "remote_image": "https://covers.openlibrary.org/b/id/107391-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "This Blinding Absence of Light",
+    "matched_authors": [
+      "Tahar Ben Jelloun"
+    ]
+  },
+  "Leila Slimani | In the Country of Others": {
+    "title": "In the Country of Others",
+    "author": "Leila Slimani",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdellah Taïa | An Arab Melancholia": {
+    "title": "An Arab Melancholia",
+    "author": "Abdellah Taïa",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Beyrouk | The Desert and the Drum": {
+    "title": "The Desert and the Drum",
+    "author": "Beyrouk",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Beyrouk | I'm Alone": {
+    "title": "I'm Alone",
+    "author": "Beyrouk",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Nathacha Appanah | The Sky Above the Roof": {
+    "title": "The Sky Above the Roof",
+    "author": "Nathacha Appanah",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mia Couto | Sleepwalking Land": {
+    "title": "Sleepwalking Land",
+    "author": "Mia Couto",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/cd85095b496f8fe5.jpg",
+    "width": 327,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL8975117M",
+    "remote_image": "https://covers.openlibrary.org/b/id/900778-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Sleepwalking Land",
+    "matched_authors": [
+      "Mia Couto"
+    ]
+  },
+  "Mia Couto | Under the Frangipani": {
+    "title": "Under the Frangipani",
+    "author": "Mia Couto",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Paulina Chiziane | The First Wife": {
+    "title": "The First Wife",
+    "author": "Paulina Chiziane",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/a5a3498d470ecead.jpg",
+    "width": 409,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL27216889M",
+    "remote_image": "https://covers.openlibrary.org/b/id/13090050-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The first wife",
+    "matched_authors": [
+      "Paulina Chiziane",
+      "Paulina Chizane",
+      "Paulina Chiziane"
+    ]
+  },
+  "Ungulani Ba Ka Khosa | Ualalapi": {
+    "title": "Ualalapi",
+    "author": "Ungulani Ba Ka Khosa",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Scholastique Mukasonga | Kibogo": {
+    "title": "Kibogo",
+    "author": "Scholastique Mukasonga",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mariama Bâ | So Long a Letter": {
+    "title": "So Long a Letter",
+    "author": "Mariama Bâ",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Cheikh Hamidou Kane | Ambiguous Adventure": {
+    "title": "Ambiguous Adventure",
+    "author": "Cheikh Hamidou Kane",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ousmane Sembène | God's Bits of Wood": {
+    "title": "God's Bits of Wood",
+    "author": "Ousmane Sembène",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Boubacar Boris Diop | Murambi, The Book of Bones": {
+    "title": "Murambi, The Book of Bones",
+    "author": "Boubacar Boris Diop",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/154fe8fedac01cfb.jpg",
+    "width": 333,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL28262592M",
+    "remote_image": "https://covers.openlibrary.org/b/id/10190834-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Murambi, The Book of Bones",
+    "matched_authors": [
+      "Boubacar Boris Diop",
+      "Fiona Mc Laughlin",
+      "Fiona MC Laughlin"
+    ]
+  },
+  "Fatou Diome | The Belly of the Atlantic": {
+    "title": "The Belly of the Atlantic",
+    "author": "Fatou Diome",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/6cbeb9a7531f78a9.jpg",
+    "width": 323,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL8975121M",
+    "remote_image": "https://covers.openlibrary.org/b/id/900782-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Belly of the Atlantic",
+    "matched_authors": [
+      "Fatou Diome"
+    ]
+  },
+  "Yema Lucilda Hunter | Road to Freedom": {
+    "title": "Road to Freedom",
+    "author": "Yema Lucilda Hunter",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tayeb Salih | Season of Migration to the North": {
+    "title": "Season of Migration to the North",
+    "author": "Tayeb Salih",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Tayeb Salih | The Wedding of Zein": {
+    "title": "The Wedding of Zein",
+    "author": "Tayeb Salih",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Abdelaziz Baraka Sakin | The Messiah of Darfur": {
+    "title": "The Messiah of Darfur",
+    "author": "Abdelaziz Baraka Sakin",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Adam Shafi | Vuta N'kuvute": {
+    "title": "Vuta N'kuvute",
+    "author": "Adam Shafi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Sami Tchak | The Continent of Everything and Practically Nothing": {
+    "title": "The Continent of Everything and Practically Nothing",
+    "author": "Sami Tchak",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Hassouna Mosbahi | A Tunisian Tale": {
+    "title": "A Tunisian Tale",
+    "author": "Hassouna Mosbahi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Shukri Mabkhout | The Italian": {
+    "title": "The Italian",
+    "author": "Shukri Mabkhout",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Yamen Manai | The Ardent Swarm": {
+    "title": "The Ardent Swarm",
+    "author": "Yamen Manai",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jennifer Nansubuga Makumbi | The First Woman": {
+    "title": "The First Woman",
+    "author": "Jennifer Nansubuga Makumbi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ellen Banda-Aaku | Patchwork": {
+    "title": "Patchwork",
+    "author": "Ellen Banda-Aaku",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/4a21b158c2cc1056.jpg",
+    "width": 335,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL20739928W",
+    "remote_image": "https://covers.openlibrary.org/b/id/9464911-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "Patchwork",
+    "matched_authors": [
+      "Ellen Banda-Aaku"
+    ]
+  },
+  "Jamaica Kincaid | Lucy": {
+    "title": "Lucy",
+    "author": "Jamaica Kincaid",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jamaica Kincaid | The Autobiography of My Mother": {
+    "title": "The Autobiography of My Mother",
+    "author": "Jamaica Kincaid",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Patricia Glinton-Meicholas | A Shift in the Light": {
+    "title": "A Shift in the Light",
+    "author": "Patricia Glinton-Meicholas",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Anacristina Rossi | The Madwoman of Gandoca": {
+    "title": "The Madwoman of Gandoca",
+    "author": "Anacristina Rossi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Horacio Castellanos Moya | The Dream of My Return": {
+    "title": "The Dream of My Return",
+    "author": "Horacio Castellanos Moya",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jacob Ross | The Bone Readers": {
+    "title": "The Bone Readers",
+    "author": "Jacob Ross",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jacob Ross | Black Rain Falling": {
+    "title": "Black Rain Falling",
+    "author": "Jacob Ross",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Miguel Ángel Asturias | The President": {
+    "title": "The President",
+    "author": "Miguel Ángel Asturias",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Miguel Ángel Asturias | Men of Maize": {
+    "title": "Men of Maize",
+    "author": "Miguel Ángel Asturias",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Eduardo Halfon | Mourning": {
+    "title": "Mourning",
+    "author": "Eduardo Halfon",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Yanick Lahens | Moonbath": {
+    "title": "Moonbath",
+    "author": "Yanick Lahens",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Marie Vieux-Chauvet | Love, Anger, Madness": {
+    "title": "Love, Anger, Madness",
+    "author": "Marie Vieux-Chauvet",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "René Depestre | Hadriana in All My Dreams": {
+    "title": "Hadriana in All My Dreams",
+    "author": "René Depestre",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/2d523f8c77e473b9.jpg",
+    "width": 357,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL27051725M",
+    "remote_image": "https://covers.openlibrary.org/b/id/8669589-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Hadriana in All My Dreams",
+    "matched_authors": [
+      "René Depestre"
+    ]
+  },
+  "Ramón Amaya Amador | Prisión verde": {
+    "title": "Prisión verde",
+    "author": "Ramón Amaya Amador",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Nicole Dennis-Benn | Here Comes the Sun": {
+    "title": "Here Comes the Sun",
+    "author": "Nicole Dennis-Benn",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/296cee7ba4a7e28a.jpg",
+    "width": 326,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL20032697W",
+    "remote_image": "https://covers.openlibrary.org/b/id/8471798-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "Here comes the sun",
+    "matched_authors": [
+      "Nicole Dennis-Benn"
+    ]
+  },
+  "Alejo Carpentier | The Kingdom of This World": {
+    "title": "The Kingdom of This World",
+    "author": "Alejo Carpentier",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Alejo Carpentier | The Lost Steps": {
+    "title": "The Lost Steps",
+    "author": "Alejo Carpentier",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Leonardo Padura | The Man Who Loved Dogs": {
+    "title": "The Man Who Loved Dogs",
+    "author": "Leonardo Padura",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Guillermo Cabrera Infante | Three Trapped Tigers": {
+    "title": "Three Trapped Tigers",
+    "author": "Guillermo Cabrera Infante",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Dulce María Loynaz | Garden": {
+    "title": "Garden",
+    "author": "Dulce María Loynaz",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Fernanda Melchor | Hurricane Season": {
+    "title": "Hurricane Season",
+    "author": "Fernanda Melchor",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Gioconda Belli | The Inhabited Woman": {
+    "title": "The Inhabited Woman",
+    "author": "Gioconda Belli",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Claribel Alegría and Darwin J. Flakoll | Ashes of Izalco": {
+    "title": "Ashes of Izalco",
+    "author": "Claribel Alegría and Darwin J. Flakoll",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Gioconda Belli | The Country of Women": {
+    "title": "The Country of Women",
+    "author": "Gioconda Belli",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Garth St Omer | A Room on the Hill": {
+    "title": "A Room on the Hill",
+    "author": "Garth St Omer",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Garth St Omer | Shades of Grey": {
+    "title": "Shades of Grey",
+    "author": "Garth St Omer",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Garth St Omer | Prisms": {
+    "title": "Prisms",
+    "author": "Garth St Omer",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "H. Nigel Thomas | No Safeguards": {
+    "title": "No Safeguards",
+    "author": "H. Nigel Thomas",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "H. Nigel Thomas | Easily Fooled": {
+    "title": "Easily Fooled",
+    "author": "H. Nigel Thomas",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Earl Lovelace | The Dragon Can't Dance": {
+    "title": "The Dragon Can't Dance",
+    "author": "Earl Lovelace",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/49e7ec302d713d22.jpg",
+    "width": 317,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL24713520M",
+    "remote_image": "https://covers.openlibrary.org/b/id/6783797-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The dragon can't dance",
+    "matched_authors": [
+      "Earl Lovelace"
+    ]
+  },
+  "Julio Cortázar | Hopscotch": {
+    "title": "Hopscotch",
+    "author": "Julio Cortázar",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Ernesto Sábato | The Tunnel": {
+    "title": "The Tunnel",
+    "author": "Ernesto Sábato",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jesús Lara | Yanakuna": {
+    "title": "Yanakuna",
+    "author": "Jesús Lara",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Machado de Assis | The Posthumous Memoirs of Brás Cubas": {
+    "title": "The Posthumous Memoirs of Brás Cubas",
+    "author": "Machado de Assis",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Clarice Lispector | The Passion According to G.H.": {
+    "title": "The Passion According to G.H.",
+    "author": "Clarice Lispector",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Jorge Amado | Captains of the Sands": {
+    "title": "Captains of the Sands",
+    "author": "Jorge Amado",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "José Donoso | The Place Without Limits": {
+    "title": "The Place Without Limits",
+    "author": "José Donoso",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "José Donoso | The Obscene Bird of Night": {
+    "title": "The Obscene Bird of Night",
+    "author": "José Donoso",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Isabel Allende | The House of the Spirits": {
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Roberto Bolaño | By Night in Chile": {
+    "title": "By Night in Chile",
+    "author": "Roberto Bolaño",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "María Luisa Bombal | The Shrouded Woman": {
+    "title": "The Shrouded Woman",
+    "author": "María Luisa Bombal",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Gabriela Alemán | Poso Wells": {
+    "title": "Poso Wells",
+    "author": "Gabriela Alemán",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mónica Ojeda | Jawbone": {
+    "title": "Jawbone",
+    "author": "Mónica Ojeda",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Álvaro Mutis | The Snow of the Admiral": {
+    "title": "The Snow of the Admiral",
+    "author": "Álvaro Mutis",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Augusto Roa Bastos | Son of Man": {
+    "title": "Son of Man",
+    "author": "Augusto Roa Bastos",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mario Vargas Llosa | The Time of the Hero": {
+    "title": "The Time of the Hero",
+    "author": "Mario Vargas Llosa",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mario Vargas Llosa | Conversation in the Cathedral": {
+    "title": "Conversation in the Cathedral",
+    "author": "Mario Vargas Llosa",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Alfredo Bryce Echenique | A World for Julius": {
+    "title": "A World for Julius",
+    "author": "Alfredo Bryce Echenique",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Cynthia McLeod | The Free Negress Elisabeth": {
+    "title": "The Free Negress Elisabeth",
+    "author": "Cynthia McLeod",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Astrid Roemer | On a Woman's Madness": {
+    "title": "On a Woman's Madness",
+    "author": "Astrid Roemer",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Mario Benedetti | The Truce": {
+    "title": "The Truce",
+    "author": "Mario Benedetti",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Juan Carlos Onetti | The Shipyard": {
+    "title": "The Shipyard",
+    "author": "Juan Carlos Onetti",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Salvador Garmendia | The Small Beings": {
+    "title": "The Small Beings",
+    "author": "Salvador Garmendia",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Alberto Barrera Tyszka | The Sickness": {
+    "title": "The Sickness",
+    "author": "Alberto Barrera Tyszka",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "John Saunana | The Alternative": {
+    "title": "The Alternative",
+    "author": "John Saunana",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Wu Ming-yi | The Man with the Compound Eyes": {
+    "title": "The Man with the Compound Eyes",
+    "author": "Wu Ming-yi",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/da83e2fb2f3d112d.jpg",
+    "width": 331,
+    "height": 500,
+    "source": "https://openlibrary.org/books/OL27541909M",
+    "remote_image": "https://covers.openlibrary.org/b/id/8997613-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "The Man with the Compound Eyes",
+    "matched_authors": [
+      "Wu Ming-Yi"
+    ]
+  },
+  "Wu Ming-yi | The Stolen Bicycle": {
+    "title": "The Stolen Bicycle",
+    "author": "Wu Ming-yi",
+    "checked_at": "2026-11-18",
+    "status": "no_verified_cover",
+    "attempts": []
+  },
+  "Pai Hsien-yung | Crystal Boys": {
+    "title": "Crystal Boys",
+    "author": "Pai Hsien-yung",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/d3ff76f5595edb81.jpg",
+    "width": 128,
+    "height": 207,
+    "source": "https://openlibrary.org/books/OL8420818M",
+    "remote_image": "https://covers.openlibrary.org/b/id/5306993-L.jpg?default=false",
+    "provider": "openlibrary-edition",
+    "matched_title": "Crystal Boys",
+    "matched_authors": [
+      "Hsien-Yung Pai"
+    ]
+  },
+  "Li Ang | The Butcher's Wife": {
+    "title": "The Butcher's Wife",
+    "author": "Li Ang",
+    "checked_at": "2026-11-18",
+    "status": "verified_identity_and_image",
+    "attempts": [],
+    "file": "assets/covers/2e168a9eefc8098d.jpg",
+    "width": 317,
+    "height": 500,
+    "source": "https://openlibrary.org/works/OL2937381W",
+    "remote_image": "https://covers.openlibrary.org/b/id/683892-L.jpg?default=false",
+    "provider": "openlibrary-search",
+    "matched_title": "The butcher's wife and other stories",
+    "matched_authors": [
+      "Li, Ang"
+    ]
+  }
+}

@@ -1,0 +1,5947 @@
+{
+  "Joseph Roth | The Radetzky March": {
+    "title": "The Radetzky March",
+    "author": "Joseph Roth",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "error",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Radetzky+March&author=Joseph+Roth&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Robert Seethaler | A Whole Life": {
+    "title": "A Whole Life",
+    "author": "Robert Seethaler",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/15263145-L.jpg",
+        "source": "https://openlibrary.org/books/OL27215262M",
+        "title": "A whole life",
+        "authors": [
+          "Robert Seethaler"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Jacqueline Harpman | I Who Have Never Known Men": {
+    "title": "I Who Have Never Known Men",
+    "author": "Jacqueline Harpman",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=I+Who+Have+Never+Known+Men&author=Jacqueline+Harpman&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Amélie Nothomb | Fear and Trembling": {
+    "title": "Fear and Trembling",
+    "author": "Amélie Nothomb",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Fear+and+Trembling&author=Am%C3%A9lie+Nothomb&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ivo Andrić | The Bridge on the Drina": {
+    "title": "The Bridge on the Drina",
+    "author": "Ivo Andrić",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Bridge+on+the+Drina&author=Ivo+Andri%C4%87&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Saša Stanišić | How the Soldier Repairs the Gramophone": {
+    "title": "How the Soldier Repairs the Gramophone",
+    "author": "Saša Stanišić",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=How+the+Soldier+Repairs+the+Gramophone&author=Sa%C5%A1a+Stani%C5%A1i%C4%87&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Dimitar Talev | The Iron Candlestick": {
+    "title": "The Iron Candlestick",
+    "author": "Dimitar Talev",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Iron+Candlestick&author=Dimitar+Talev&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Dimitar Dimov | Tobacco": {
+    "title": "Tobacco",
+    "author": "Dimitar Dimov",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Tobacco&author=Dimitar+Dimov&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Emiliyan Stanev | The Peach Thief": {
+    "title": "The Peach Thief",
+    "author": "Emiliyan Stanev",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Peach+Thief&author=Emiliyan+Stanev&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Milan Kundera | The Unbearable Lightness of Being": {
+    "title": "The Unbearable Lightness of Being",
+    "author": "Milan Kundera",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Unbearable+Lightness+of+Being&author=Milan+Kundera&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Milan Kundera | The Joke": {
+    "title": "The Joke",
+    "author": "Milan Kundera",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Joke&author=Milan+Kundera&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jaroslav Hašek | The Good Soldier Švejk": {
+    "title": "The Good Soldier Švejk",
+    "author": "Jaroslav Hašek",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Good+Soldier+%C5%A0vejk&author=Jaroslav+Ha%C5%A1ek&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Herman Bang | This Corner of the World": {
+    "title": "This Corner of the World",
+    "author": "Herman Bang",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=This+Corner+of+the+World&author=Herman+Bang&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Peter Høeg | The History of Danish Dreams": {
+    "title": "The History of Danish Dreams",
+    "author": "Peter Høeg",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/6729396-L.jpg",
+        "source": "https://openlibrary.org/books/OL21745888M",
+        "title": "The history of Danish dreams",
+        "authors": [
+          "Peter Høeg"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Luan Starova | My Father's Books": {
+    "title": "My Father's Books",
+    "author": "Luan Starova",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=My+Father%27s+Books&author=Luan+Starova&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Petre M. Andreevski | Pirey": {
+    "title": "Pirey",
+    "author": "Petre M. Andreevski",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Pirey&author=Petre+M.+Andreevski&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Andrus Kivirähk | The Man Who Spoke Snakish": {
+    "title": "The Man Who Spoke Snakish",
+    "author": "Andrus Kivirähk",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Man+Who+Spoke+Snakish&author=Andrus+Kivir%C3%A4hk&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Viivi Luik | The Beauty of History": {
+    "title": "The Beauty of History",
+    "author": "Viivi Luik",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/5433312-L.jpg",
+        "source": "https://openlibrary.org/books/OL21528058M",
+        "title": "The beauty of history",
+        "authors": [
+          "Viivi Luik"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/5433312-L.jpg",
+        "source": "https://openlibrary.org/books/OL21528058M",
+        "title": "The beauty of history",
+        "authors": [
+          "Viivi Luik"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Vasil Bykau | The Ordeal": {
+    "title": "The Ordeal",
+    "author": "Vasil Bykau",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/5002853-L.jpg",
+        "source": "https://openlibrary.org/books/OL9687432M",
+        "title": "The Ordeal",
+        "authors": [
+          "Vasilʹ Bykaŭ",
+          "Vasily Bykov",
+          "VasiliiUladzimiravich Bykau"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/5002853-L.jpg",
+        "source": "https://openlibrary.org/books/OL9687432M",
+        "title": "The Ordeal",
+        "authors": [
+          "Vasilʹ Bykaŭ",
+          "Vasily Bykov",
+          "VasiliiUladzimiravich Bykau"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Vasil Bykau | Alpine Ballad": {
+    "title": "Alpine Ballad",
+    "author": "Vasil Bykau",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/14339259-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL18352583W",
+        "title": "Alpine ballad ; Hold out till dawn",
+        "authors": [
+          "Vasilʹ Bykaŭ"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Alpine+Ballad&author=Vasil+Bykau&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Viktor Martinovich | Paranoia": {
+    "title": "Paranoia",
+    "author": "Viktor Martinovich",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Paranoia&author=Viktor+Martinovich&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Alhierd Bacharevič | Dogs of Europe": {
+    "title": "Dogs of Europe",
+    "author": "Alhierd Bacharevič",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Dogs+of+Europe&author=Alhierd+Bacharevi%C4%8D&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Uladzimir Karatkievics | King Stakh's Wild Hunt": {
+    "title": "King Stakh's Wild Hunt",
+    "author": "Uladzimir Karatkievics",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=King+Stakh%27s+Wild+Hunt&author=Uladzimir+Karatkievics&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tove Jansson | The Summer Book": {
+    "title": "The Summer Book",
+    "author": "Tove Jansson",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Summer+Book&author=Tove+Jansson&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Marcel Proust | Swann's Way": {
+    "title": "Swann's Way",
+    "author": "Marcel Proust",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Swann%27s+Way&author=Marcel+Proust&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Marie NDiaye | Three Strong Women": {
+    "title": "Three Strong Women",
+    "author": "Marie NDiaye",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Three+Strong+Women&author=Marie+NDiaye&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Nikos Kazantzakis | Zorba the Greek": {
+    "title": "Zorba the Greek",
+    "author": "Nikos Kazantzakis",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/14567040-L.jpg",
+        "source": "https://openlibrary.org/books/OL37804588M",
+        "title": "Zorba the Greek",
+        "authors": [
+          "Nikos Kazantzakis"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/14567040-L.jpg",
+        "source": "https://openlibrary.org/books/OL37804588M",
+        "title": "Zorba the Greek",
+        "authors": [
+          "Nikos Kazantzakis"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Nikos Kazantzakis | The Last Temptation of Christ": {
+    "title": "The Last Temptation of Christ",
+    "author": "Nikos Kazantzakis",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/13819425-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL31376513W",
+        "title": "The Last Temptation of Christ",
+        "authors": [
+          "Nikos Kazantzakis"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Last+Temptation+of+Christ&author=Nikos+Kazantzakis&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Margarita Karapanou | Kassandra and the Wolf": {
+    "title": "Kassandra and the Wolf",
+    "author": "Margarita Karapanou",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Kassandra+and+the+Wolf&author=Margarita+Karapanou&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Kostas Tachtsis | The Third Wedding": {
+    "title": "The Third Wedding",
+    "author": "Kostas Tachtsis",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/7933149-L.jpg",
+        "source": "https://openlibrary.org/books/OL21270735M",
+        "title": "The third wedding",
+        "authors": [
+          "Kōstas Tachtsēs"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/7933149-L.jpg",
+        "source": "https://openlibrary.org/books/OL21270735M",
+        "title": "The third wedding",
+        "authors": [
+          "Kōstas Tachtsēs"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Harry Mulisch | The Assault": {
+    "title": "The Assault",
+    "author": "Harry Mulisch",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Assault&author=Harry+Mulisch&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Dubravka Ugrešić | The Ministry of Pain": {
+    "title": "The Ministry of Pain",
+    "author": "Dubravka Ugrešić",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/9687185-L.jpg",
+        "source": "https://openlibrary.org/books/OL22724047M",
+        "title": "The ministry of pain",
+        "authors": [
+          "Dubravka UgreÚsiÔc"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/9687185-L.jpg",
+        "source": "https://openlibrary.org/books/OL22724047M",
+        "title": "The ministry of pain",
+        "authors": [
+          "Dubravka UgreÚsiÔc"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Miroslav Krleža | The Return of Philip Latinowicz": {
+    "title": "The Return of Philip Latinowicz",
+    "author": "Miroslav Krleža",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Return+of+Philip+Latinowicz&author=Miroslav+Krle%C5%BEa&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Halldór Laxness | Independent People": {
+    "title": "Independent People",
+    "author": "Halldór Laxness",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Independent+People&author=Halld%C3%B3r+Laxness&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jón Kalman Stefánsson | Heaven and Hell": {
+    "title": "Heaven and Hell",
+    "author": "Jón Kalman Stefánsson",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Heaven+and+Hell&author=J%C3%B3n+Kalman+Stef%C3%A1nsson&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Gunnar Gunnarsson | Advent": {
+    "title": "Advent",
+    "author": "Gunnar Gunnarsson",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Advent&author=Gunnar+Gunnarsson&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Olga Tokarczuk | Primeval and Other Times": {
+    "title": "Primeval and Other Times",
+    "author": "Olga Tokarczuk",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Primeval+and+Other+Times&author=Olga+Tokarczuk&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Inga Ābele | High Tide": {
+    "title": "High Tide",
+    "author": "Inga Ābele",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=High+Tide&author=Inga+%C4%80bele&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jānis Joņevs | Doom 94": {
+    "title": "Doom 94",
+    "author": "Jānis Joņevs",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Doom+94&author=J%C4%81nis+Jo%C5%86evs&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ričardas Gavelis | Sun-Tzu's Life in the Holy City of Vilnius": {
+    "title": "Sun-Tzu's Life in the Holy City of Vilnius",
+    "author": "Ričardas Gavelis",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Sun-Tzu%27s+Life+in+the+Holy+City+of+Vilnius&author=Ri%C4%8Dardas+Gavelis&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Alvydas Šlepikas | In the Shadow of Wolves": {
+    "title": "In the Shadow of Wolves",
+    "author": "Alvydas Šlepikas",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=In+the+Shadow+of+Wolves&author=Alvydas+%C5%A0lepikas&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jean Back | Amateur": {
+    "title": "Amateur",
+    "author": "Jean Back",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Amateur&author=Jean+Back&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Vladimir Lorchenkov | The Good Life Elsewhere": {
+    "title": "The Good Life Elsewhere",
+    "author": "Vladimir Lorchenkov",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Good+Life+Elsewhere&author=Vladimir+Lorchenkov&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tatiana Țîbuleac | The Summer My Mother Had Green Eyes": {
+    "title": "The Summer My Mother Had Green Eyes",
+    "author": "Tatiana Țîbuleac",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/15256700-L.jpg",
+        "source": "https://openlibrary.org/books/OL62588023M",
+        "title": "The Summer My Mother Had Green Eyes",
+        "authors": [
+          "Tatiana Tibuleac"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/15256700-L.jpg",
+        "source": "https://openlibrary.org/books/OL62588023M",
+        "title": "The Summer My Mother Had Green Eyes",
+        "authors": [
+          "Tatiana Tibuleac"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Tatiana Țîbuleac | The Glass Garden": {
+    "title": "The Glass Garden",
+    "author": "Tatiana Țîbuleac",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Glass+Garden&author=Tatiana+%C8%9A%C3%AEbuleac&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Liliana Corobca | The Censor's Notebook": {
+    "title": "The Censor's Notebook",
+    "author": "Liliana Corobca",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Censor%27s+Notebook&author=Liliana+Corobca&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jenny Erpenbeck | Visitation": {
+    "title": "Visitation",
+    "author": "Jenny Erpenbeck",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Visitation&author=Jenny+Erpenbeck&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tarjei Vesaas | The Ice Palace": {
+    "title": "The Ice Palace",
+    "author": "Tarjei Vesaas",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Ice+Palace&author=Tarjei+Vesaas&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Luigi Pirandello | The Late Mattia Pascal": {
+    "title": "The Late Mattia Pascal",
+    "author": "Luigi Pirandello",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/718541-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15249439W",
+        "title": "The Late Mattia Pascal (Eridanos Library)",
+        "authors": [
+          "Luigi Pirandello"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Late+Mattia+Pascal&author=Luigi+Pirandello&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Italo Svevo | Zeno's Conscience": {
+    "title": "Zeno's Conscience",
+    "author": "Italo Svevo",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/908656-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2276555W",
+        "title": "Zeno's Conscience (Everyman's Library Contemporary Classics)",
+        "authors": [
+          "Italo Svevo"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Zeno%27s+Conscience&author=Italo+Svevo&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Elsa Morante | History": {
+    "title": "History",
+    "author": "Elsa Morante",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=History&author=Elsa+Morante&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Leo Tolstoy | Anna Karenina": {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Anna+Karenina&author=Leo+Tolstoy&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Fyodor Dostoevsky | The Brothers Karamazov": {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Brothers+Karamazov&author=Fyodor+Dostoevsky&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ivan Turgenev | Fathers and Sons": {
+    "title": "Fathers and Sons",
+    "author": "Ivan Turgenev",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Fathers+and+Sons&author=Ivan+Turgenev&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mikhail Bulgakov | The Master and Margarita": {
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Master+and+Margarita&author=Mikhail+Bulgakov&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Vasily Grossman | Life and Fate": {
+    "title": "Life and Fate",
+    "author": "Vasily Grossman",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Life+and+Fate&author=Vasily+Grossman&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Eça de Queirós | The Maias": {
+    "title": "The Maias",
+    "author": "Eça de Queirós",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Maias&author=E%C3%A7a+de+Queir%C3%B3s&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Eça de Queirós | The Crime of Father Amaro": {
+    "title": "The Crime of Father Amaro",
+    "author": "Eça de Queirós",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Crime+of+Father+Amaro&author=E%C3%A7a+de+Queir%C3%B3s&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "José Saramago | Blindness": {
+    "title": "Blindness",
+    "author": "José Saramago",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Blindness&author=Jos%C3%A9+Saramago&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Marin Preda | The Moromete Family": {
+    "title": "The Moromete Family",
+    "author": "Marin Preda",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Moromete+Family&author=Marin+Preda&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Herta Müller | The Land of Green Plums": {
+    "title": "The Land of Green Plums",
+    "author": "Herta Müller",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Land+of+Green+Plums&author=Herta+M%C3%BCller&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mercè Rodoreda | The Time of the Doves": {
+    "title": "The Time of the Doves",
+    "author": "Mercè Rodoreda",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Time+of+the+Doves&author=Merc%C3%A8+Rodoreda&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Javier Marías | A Heart So White": {
+    "title": "A Heart So White",
+    "author": "Javier Marías",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=A+Heart+So+White&author=Javier+Mar%C3%ADas&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Danilo Kiš | Hourglass": {
+    "title": "Hourglass",
+    "author": "Danilo Kiš",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Hourglass&author=Danilo+Ki%C5%A1&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Miloš Crnjanski | Migrations": {
+    "title": "Migrations",
+    "author": "Miloš Crnjanski",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Migrations&author=Milo%C5%A1+Crnjanski&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Milorad Pavić | Dictionary of the Khazars": {
+    "title": "Dictionary of the Khazars",
+    "author": "Milorad Pavić",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Dictionary+of+the+Khazars&author=Milorad+Pavi%C4%87&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "David Albahari | Bait": {
+    "title": "Bait",
+    "author": "David Albahari",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Bait&author=David+Albahari&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Peter Pišťanek | Rivers of Babylon": {
+    "title": "Rivers of Babylon",
+    "author": "Peter Pišťanek",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/3839949-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3183565W",
+        "title": "Rivers of Babylon 2., alebo, Drevená dedina",
+        "authors": [
+          "Peter Pišt̓anek"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Rivers+of+Babylon&author=Peter+Pi%C5%A1%C5%A5anek&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Daniela Kapitáňová | Samko Tále's Cemetery Book": {
+    "title": "Samko Tále's Cemetery Book",
+    "author": "Daniela Kapitáňová",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Samko+T%C3%A1le%27s+Cemetery+Book&author=Daniela+Kapit%C3%A1%C5%88ov%C3%A1&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Pavol Rankov | It Happened on September the First (or Whenever)": {
+    "title": "It Happened on September the First (or Whenever)",
+    "author": "Pavol Rankov",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=It+Happened+on+September+the+First+%28or+Whenever%29&author=Pavol+Rankov&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Balla | In the Name of the Father": {
+    "title": "In the Name of the Father",
+    "author": "Balla",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=In+the+Name+of+the+Father&author=Balla&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Drago Jančar | I Saw Her That Night": {
+    "title": "I Saw Her That Night",
+    "author": "Drago Jančar",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=I+Saw+Her+That+Night&author=Drago+Jan%C4%8Dar&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Goran Vojnović | Southern Scum Go Home!": {
+    "title": "Southern Scum Go Home!",
+    "author": "Goran Vojnović",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Southern+Scum+Go+Home%21&author=Goran+Vojnovi%C4%87&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Miha Mazzini | The German Lottery": {
+    "title": "The German Lottery",
+    "author": "Miha Mazzini",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+German+Lottery&author=Miha+Mazzini&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Valerian Pidmohylny | The City": {
+    "title": "The City",
+    "author": "Valerian Pidmohylny",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+City&author=Valerian+Pidmohylny&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Serhiy Zhadan | The Orphanage": {
+    "title": "The Orphanage",
+    "author": "Serhiy Zhadan",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Orphanage&author=Serhiy+Zhadan&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Oksana Zabuzhko | The Museum of Abandoned Secrets": {
+    "title": "The Museum of Abandoned Secrets",
+    "author": "Oksana Zabuzhko",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Museum+of+Abandoned+Secrets&author=Oksana+Zabuzhko&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Sofia Andrukhovych | Felix Austria": {
+    "title": "Felix Austria",
+    "author": "Sofia Andrukhovych",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Felix+Austria&author=Sofia+Andrukhovych&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Kunzang Choden | Dawa: The Story of a Stray Dog in Bhutan": {
+    "title": "Dawa: The Story of a Stray Dog in Bhutan",
+    "author": "Kunzang Choden",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Dawa%3A+The+Story+of+a+Stray+Dog+in+Bhutan&author=Kunzang+Choden&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Constantia Soteriou | Brandy Sour": {
+    "title": "Brandy Sour",
+    "author": "Constantia Soteriou",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Brandy+Sour&author=Constantia+Soteriou&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Han Kang | Human Acts": {
+    "title": "Human Acts",
+    "author": "Han Kang",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Human+Acts&author=Han+Kang&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Han Kang | The Vegetarian": {
+    "title": "The Vegetarian",
+    "author": "Han Kang",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Vegetarian&author=Han+Kang&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Hwang Sok-yong | The Guest": {
+    "title": "The Guest",
+    "author": "Hwang Sok-yong",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/1945641-L.jpg",
+        "source": "https://openlibrary.org/books/OL9529788M",
+        "title": "The Guest",
+        "authors": [
+          "Hwang Sok-yong"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/1945641-L.jpg",
+        "source": "https://openlibrary.org/books/OL9529788M",
+        "title": "The Guest",
+        "authors": [
+          "Hwang Sok-yong"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Cho Nam-joo | Kim Jiyoung, Born 1982": {
+    "title": "Kim Jiyoung, Born 1982",
+    "author": "Cho Nam-joo",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Kim+Jiyoung%2C+Born+1982&author=Cho+Nam-joo&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Maha Gargash | That Other Me": {
+    "title": "That Other Me",
+    "author": "Maha Gargash",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=That+Other+Me&author=Maha+Gargash&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Reem Al-Kamali | Rose's Diary": {
+    "title": "Rose's Diary",
+    "author": "Reem Al-Kamali",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Rose%27s+Diary&author=Reem+Al-Kamali&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Dubai Abulhoul | Galagolia": {
+    "title": "Galagolia",
+    "author": "Dubai Abulhoul",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Galagolia&author=Dubai+Abulhoul&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Baek Nam-nyong | Friend": {
+    "title": "Friend",
+    "author": "Baek Nam-nyong",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Friend&author=Baek+Nam-nyong&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Hong Sok-jung | Hwang Jini": {
+    "title": "Hwang Jini",
+    "author": "Hong Sok-jung",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Hwang+Jini&author=Hong+Sok-jung&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Nino Haratischwili | The Eighth Life (for Brilka)": {
+    "title": "The Eighth Life (for Brilka)",
+    "author": "Nino Haratischwili",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Eighth+Life+%28for+Brilka%29&author=Nino+Haratischwili&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mikheil Javakhishvili | Kvachi": {
+    "title": "Kvachi",
+    "author": "Mikheil Javakhishvili",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Kvachi&author=Mikheil+Javakhishvili&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Aka Morchiladze | Journey to Karabakh": {
+    "title": "Journey to Karabakh",
+    "author": "Aka Morchiladze",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Journey+to+Karabakh&author=Aka+Morchiladze&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Nana Ekvtimishvili | The Pear Field": {
+    "title": "The Pear Field",
+    "author": "Nana Ekvtimishvili",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Pear+Field&author=Nana+Ekvtimishvili&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ismat Chughtai | The Crooked Line": {
+    "title": "The Crooked Line",
+    "author": "Ismat Chughtai",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/784547-L.jpg",
+        "source": "https://openlibrary.org/books/OL8606942M",
+        "title": "The Crooked Line",
+        "authors": [
+          "Ismat Cughtai",
+          "Tahira Naqvi"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/784547-L.jpg",
+        "source": "https://openlibrary.org/books/OL8606942M",
+        "title": "The Crooked Line",
+        "authors": [
+          "Ismat Cughtai",
+          "Tahira Naqvi"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Pramoedya Ananta Toer | This Earth of Mankind": {
+    "title": "This Earth of Mankind",
+    "author": "Pramoedya Ananta Toer",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=This+Earth+of+Mankind&author=Pramoedya+Ananta+Toer&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Sinan Antoon | I'jaam": {
+    "title": "I'jaam",
+    "author": "Sinan Antoon",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=I%27jaam&author=Sinan+Antoon&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Inaam Kachachi | The American Granddaughter": {
+    "title": "The American Granddaughter",
+    "author": "Inaam Kachachi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+American+Granddaughter&author=Inaam+Kachachi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Sadegh Hedayat | The Blind Owl": {
+    "title": "The Blind Owl",
+    "author": "Sadegh Hedayat",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Blind+Owl&author=Sadegh+Hedayat&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Simin Daneshvar | Savushun": {
+    "title": "Savushun",
+    "author": "Simin Daneshvar",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/713007-L.jpg",
+        "source": "https://openlibrary.org/books/OL8389692M",
+        "title": "Savushun",
+        "authors": [
+          "Sīmīn Dānishvar"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/713007-L.jpg",
+        "source": "https://openlibrary.org/books/OL8389692M",
+        "title": "Savushun",
+        "authors": [
+          "Sīmīn Dānishvar"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Shahrnush Parsipur | Women Without Men": {
+    "title": "Women Without Men",
+    "author": "Shahrnush Parsipur",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/784512-L.jpg",
+        "source": "https://openlibrary.org/books/OL8606918M",
+        "title": "Women Without Men",
+        "authors": [
+          "Shahrnush Parsipur"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/784512-L.jpg",
+        "source": "https://openlibrary.org/books/OL8606918M",
+        "title": "Women Without Men",
+        "authors": [
+          "Shahrnush Parsipur"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Mahmoud Dowlatabadi | The Colonel": {
+    "title": "The Colonel",
+    "author": "Mahmoud Dowlatabadi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Colonel&author=Mahmoud+Dowlatabadi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "David Grossman | To the End of the Land": {
+    "title": "To the End of the Land",
+    "author": "David Grossman",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=To+the+End+of+the+Land&author=David+Grossman&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Amos Oz | My Michael": {
+    "title": "My Michael",
+    "author": "Amos Oz",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=My+Michael&author=Amos+Oz&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "A. B. Yehoshua | The Lover": {
+    "title": "The Lover",
+    "author": "A. B. Yehoshua",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Lover&author=A.+B.+Yehoshua&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jun'ichirō Tanizaki | Some Prefer Nettles": {
+    "title": "Some Prefer Nettles",
+    "author": "Jun'ichirō Tanizaki",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Some+Prefer+Nettles&author=Jun%27ichir%C5%8D+Tanizaki&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jun'ichirō Tanizaki | The Makioka Sisters": {
+    "title": "The Makioka Sisters",
+    "author": "Jun'ichirō Tanizaki",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Makioka+Sisters&author=Jun%27ichir%C5%8D+Tanizaki&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Yū Miri | Tokyo Ueno Station": {
+    "title": "Tokyo Ueno Station",
+    "author": "Yū Miri",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Tokyo+Ueno+Station&author=Y%C5%AB+Miri&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ali al-Muqri | The Handsome Jew": {
+    "title": "The Handsome Jew",
+    "author": "Ali al-Muqri",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Handsome+Jew&author=Ali+al-Muqri&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ali al-Muqri | Hurma": {
+    "title": "Hurma",
+    "author": "Ali al-Muqri",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/8971302-L.jpg",
+        "source": "https://openlibrary.org/books/OL27514810M",
+        "title": "Hurma",
+        "authors": [
+          "Ali al-Muqri"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/8971302-L.jpg",
+        "source": "https://openlibrary.org/books/OL27514810M",
+        "title": "Hurma",
+        "authors": [
+          "Ali al-Muqri"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Wajdi al-Ahdal | A Land Without Jasmine": {
+    "title": "A Land Without Jasmine",
+    "author": "Wajdi al-Ahdal",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=A+Land+Without+Jasmine&author=Wajdi+al-Ahdal&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Habib Abdulrab Sarori | The Suslov's Daughter": {
+    "title": "The Suslov's Daughter",
+    "author": "Habib Abdulrab Sarori",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Suslov%27s+Daughter&author=Habib+Abdulrab+Sarori&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Fadia Faqir | Willow Trees Don't Weep": {
+    "title": "Willow Trees Don't Weep",
+    "author": "Fadia Faqir",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Willow+Trees+Don%27t+Weep&author=Fadia+Faqir&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jamal Naji | When the Wolves Grow Old": {
+    "title": "When the Wolves Grow Old",
+    "author": "Jamal Naji",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=When+the+Wolves+Grow+Old&author=Jamal+Naji&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Vaddey Ratner | Music of the Ghosts": {
+    "title": "Music of the Ghosts",
+    "author": "Vaddey Ratner",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Music+of+the+Ghosts&author=Vaddey+Ratner&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdulaziz Al-Mahmoud | The Corsair": {
+    "title": "The Corsair",
+    "author": "Abdulaziz Al-Mahmoud",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Corsair&author=Abdulaziz+Al-Mahmoud&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdulaziz Al-Mahmoud | The Holy Sail": {
+    "title": "The Holy Sail",
+    "author": "Abdulaziz Al-Mahmoud",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Holy+Sail&author=Abdulaziz+Al-Mahmoud&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mukhtar Auezov | The Time of Ordeal": {
+    "title": "The Time of Ordeal",
+    "author": "Mukhtar Auezov",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Time+of+Ordeal&author=Mukhtar+Auezov&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abish Kekilbayev | The End of the Legend": {
+    "title": "The End of the Legend",
+    "author": "Abish Kekilbayev",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+End+of+the+Legend&author=Abish+Kekilbayev&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Yu Hua | To Live": {
+    "title": "To Live",
+    "author": "Yu Hua",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=To+Live&author=Yu+Hua&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Yu Hua | Chronicle of a Blood Merchant": {
+    "title": "Chronicle of a Blood Merchant",
+    "author": "Yu Hua",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Chronicle+of+a+Blood+Merchant&author=Yu+Hua&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Chingiz Aitmatov | The Place of the Skull": {
+    "title": "The Place of the Skull",
+    "author": "Chingiz Aitmatov",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Place+of+the+Skull&author=Chingiz+Aitmatov&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Chingiz Aitmatov | Farewell, Gulsary!": {
+    "title": "Farewell, Gulsary!",
+    "author": "Chingiz Aitmatov",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Farewell%2C+Gulsary%21&author=Chingiz+Aitmatov&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Saud Alsanousi | The Bamboo Stalk": {
+    "title": "The Bamboo Stalk",
+    "author": "Saud Alsanousi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Bamboo+Stalk&author=Saud+Alsanousi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Saud Alsanousi | Mama Hissa's Mice": {
+    "title": "Mama Hissa's Mice",
+    "author": "Saud Alsanousi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Mama+Hissa%27s+Mice&author=Saud+Alsanousi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ismail Fahd Ismail | The Old Woman and the River": {
+    "title": "The Old Woman and the River",
+    "author": "Ismail Fahd Ismail",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Old+Woman+and+the+River&author=Ismail+Fahd+Ismail&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Bothayna Al-Essa | The Book Censor's Library": {
+    "title": "The Book Censor's Library",
+    "author": "Bothayna Al-Essa",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Book+Censor%27s+Library&author=Bothayna+Al-Essa&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mai Al-Nakib | An Unlasting Home": {
+    "title": "An Unlasting Home",
+    "author": "Mai Al-Nakib",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=An+Unlasting+Home&author=Mai+Al-Nakib&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Elias Khoury | Gate of the Sun": {
+    "title": "Gate of the Sun",
+    "author": "Elias Khoury",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Gate+of+the+Sun&author=Elias+Khoury&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Hanan al-Shaykh | The Story of Zahra": {
+    "title": "The Story of Zahra",
+    "author": "Hanan al-Shaykh",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Story+of+Zahra&author=Hanan+al-Shaykh&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Rabee Jaber | The Mehlis Report": {
+    "title": "The Mehlis Report",
+    "author": "Rabee Jaber",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Mehlis+Report&author=Rabee+Jaber&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Amin Maalouf | Leo Africanus": {
+    "title": "Leo Africanus",
+    "author": "Amin Maalouf",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Leo+Africanus&author=Amin+Maalouf&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tash Aw | The Harmony Silk Factory": {
+    "title": "The Harmony Silk Factory",
+    "author": "Tash Aw",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/12547-L.jpg",
+        "source": "https://openlibrary.org/books/OL9218177M",
+        "title": "The Harmony Silk Factory (SIGNED)",
+        "authors": [
+          "Tash Aw"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/12547-L.jpg",
+        "source": "https://openlibrary.org/books/OL9218177M",
+        "title": "The Harmony Silk Factory (SIGNED)",
+        "authors": [
+          "Tash Aw"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Nu Nu Yi | Smile as They Bow": {
+    "title": "Smile as They Bow",
+    "author": "Nu Nu Yi",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/9422083-L.jpg",
+        "source": "https://openlibrary.org/books/OL23101319M",
+        "title": "Smile as they bow",
+        "authors": [
+          "Nu Nu Yi"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/9422083-L.jpg",
+        "source": "https://openlibrary.org/books/OL23101319M",
+        "title": "Smile as they bow",
+        "authors": [
+          "Nu Nu Yi"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Wendy Law-Yone | The Road to Wanting": {
+    "title": "The Road to Wanting",
+    "author": "Wendy Law-Yone",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/11067794-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15477971W",
+        "title": "The road to wanting",
+        "authors": [
+          "Wendy Law-Yone"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Road+to+Wanting&author=Wendy+Law-Yone&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Wendy Law-Yone | The Coffin Tree": {
+    "title": "The Coffin Tree",
+    "author": "Wendy Law-Yone",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/9423854-L.jpg",
+        "source": "https://openlibrary.org/books/OL7945236M",
+        "title": "The Coffin Tree",
+        "authors": [
+          "Wendy Law-Yone"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/9423854-L.jpg",
+        "source": "https://openlibrary.org/books/OL7945236M",
+        "title": "The Coffin Tree",
+        "authors": [
+          "Wendy Law-Yone"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Wendy Law-Yone | Irrawaddy Tango": {
+    "title": "Irrawaddy Tango",
+    "author": "Wendy Law-Yone",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/1532779-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4317601W",
+        "title": "Irrawaddy tango",
+        "authors": [
+          "Wendy Law-Yone"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Irrawaddy+Tango&author=Wendy+Law-Yone&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Galsan Tschinag | The Blue Sky": {
+    "title": "The Blue Sky",
+    "author": "Galsan Tschinag",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Blue+Sky&author=Galsan+Tschinag&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Galsan Tschinag | The Gray Earth": {
+    "title": "The Gray Earth",
+    "author": "Galsan Tschinag",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Gray+Earth&author=Galsan+Tschinag&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Galsan Tschinag | The White Mountain": {
+    "title": "The White Mountain",
+    "author": "Galsan Tschinag",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+White+Mountain&author=Galsan+Tschinag&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Parijat | Blue Mimosa": {
+    "title": "Blue Mimosa",
+    "author": "Parijat",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/6308315-L.jpg",
+        "source": "https://openlibrary.org/books/OL5403122M",
+        "title": "Blue mimosa.",
+        "authors": [
+          "Pārijāta"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/6308315-L.jpg",
+        "source": "https://openlibrary.org/books/OL5403122M",
+        "title": "Blue mimosa.",
+        "authors": [
+          "Pārijāta"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "B. P. Koirala | Sumnima": {
+    "title": "Sumnima",
+    "author": "B. P. Koirala",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Sumnima&author=B.+P.+Koirala&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jokha Alharthi | Silken Gazelles": {
+    "title": "Silken Gazelles",
+    "author": "Jokha Alharthi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Silken+Gazelles&author=Jokha+Alharthi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Bushra Khalfan | Dilshad": {
+    "title": "Dilshad",
+    "author": "Bushra Khalfan",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Dilshad&author=Bushra+Khalfan&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdulaziz Al Farsi | Earth Weeps, Saturn Laughs": {
+    "title": "Earth Weeps, Saturn Laughs",
+    "author": "Abdulaziz Al Farsi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Earth+Weeps%2C+Saturn+Laughs&author=Abdulaziz+Al+Farsi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Narine Abgaryan | Simon": {
+    "title": "Simon",
+    "author": "Narine Abgaryan",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Simon&author=Narine+Abgaryan&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ghassan Kanafani | Men in the Sun": {
+    "title": "Men in the Sun",
+    "author": "Ghassan Kanafani",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Men+in+the+Sun&author=Ghassan+Kanafani&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ghassan Kanafani | Returning to Haifa": {
+    "title": "Returning to Haifa",
+    "author": "Ghassan Kanafani",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Returning+to+Haifa&author=Ghassan+Kanafani&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Sahar Khalifeh | Wild Thorns": {
+    "title": "Wild Thorns",
+    "author": "Sahar Khalifeh",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/807068-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8668942W",
+        "title": "Wild Thorns",
+        "authors": [
+          "Ṣahar Khalīfah"
+        ]
+      },
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/4782468-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8668943W",
+        "title": "Wild Thorns",
+        "authors": [
+          "Ṣahar Khalīfah"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Wild+Thorns&author=Sahar+Khalifeh&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Adania Shibli | Minor Detail": {
+    "title": "Minor Detail",
+    "author": "Adania Shibli",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Minor+Detail&author=Adania+Shibli&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mohammed Hasan Alwan | The Beaver": {
+    "title": "The Beaver",
+    "author": "Mohammed Hasan Alwan",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Beaver&author=Mohammed+Hasan+Alwan&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Suchen Christine Lim | The River's Song": {
+    "title": "The River's Song",
+    "author": "Suchen Christine Lim",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+River%27s+Song&author=Suchen+Christine+Lim&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Sharlene Teo | Ponti": {
+    "title": "Ponti",
+    "author": "Sharlene Teo",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Ponti&author=Sharlene+Teo&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jeremy Tiang | State of Emergency": {
+    "title": "State of Emergency",
+    "author": "Jeremy Tiang",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=State+of+Emergency&author=Jeremy+Tiang&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Hanna Mina | The Sail and the Storm": {
+    "title": "The Sail and the Storm",
+    "author": "Hanna Mina",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Sail+and+the+Storm&author=Hanna+Mina&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Fadi Azzam | Sarmada": {
+    "title": "Sarmada",
+    "author": "Fadi Azzam",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Sarmada&author=Fadi+Azzam&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Chart Korbjitti | The Judgment": {
+    "title": "The Judgment",
+    "author": "Chart Korbjitti",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Judgment&author=Chart+Korbjitti&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Chart Korbjitti | Time": {
+    "title": "Time",
+    "author": "Chart Korbjitti",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Time&author=Chart+Korbjitti&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Chart Korbjitti | Mad Dogs & Company": {
+    "title": "Mad Dogs & Company",
+    "author": "Chart Korbjitti",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Mad+Dogs+%26+Company&author=Chart+Korbjitti&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ahmet Hamdi Tanpınar | The Time Regulation Institute": {
+    "title": "The Time Regulation Institute",
+    "author": "Ahmet Hamdi Tanpınar",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/8996939-L.jpg",
+        "source": "https://openlibrary.org/books/OL27541242M",
+        "title": "The Time Regulation Institute",
+        "authors": [
+          "Ahmet Hamdi Tanpınar"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/8996939-L.jpg",
+        "source": "https://openlibrary.org/books/OL27541242M",
+        "title": "The Time Regulation Institute",
+        "authors": [
+          "Ahmet Hamdi Tanpınar"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Orhan Pamuk | My Name Is Red": {
+    "title": "My Name Is Red",
+    "author": "Orhan Pamuk",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=My+Name+Is+Red&author=Orhan+Pamuk&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ak Welsapar | Cobra": {
+    "title": "Cobra",
+    "author": "Ak Welsapar",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Cobra&author=Ak+Welsapar&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdulla Qodiriy | Bygone Days": {
+    "title": "Bygone Days",
+    "author": "Abdulla Qodiriy",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Bygone+Days&author=Abdulla+Qodiriy&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdulhamid Cho'lpon | Night and Day": {
+    "title": "Night and Day",
+    "author": "Abdulhamid Cho'lpon",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Night+and+Day&author=Abdulhamid+Cho%27lpon&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Bảo Ninh | The Sorrow of War": {
+    "title": "The Sorrow of War",
+    "author": "Bảo Ninh",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Sorrow+of+War&author=B%E1%BA%A3o+Ninh&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Dương Thu Hương | Paradise of the Blind": {
+    "title": "Paradise of the Blind",
+    "author": "Dương Thu Hương",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/11343187-L.jpg",
+        "source": "https://openlibrary.org/books/OL32716089M",
+        "title": "Paradise of the Blind",
+        "authors": [
+          "Dương, Thu Hương.",
+          "Thu Huong Duong",
+          "Nina Mcpherson",
+          "Duong Thu Huong",
+          "HUONG, DUONG, T"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/11343187-L.jpg",
+        "source": "https://openlibrary.org/books/OL32716089M",
+        "title": "Paradise of the Blind",
+        "authors": [
+          "Dương, Thu Hương.",
+          "Thu Huong Duong",
+          "Nina Mcpherson",
+          "Duong Thu Huong",
+          "HUONG, DUONG, T"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Dương Thu Hương | Novel Without a Name": {
+    "title": "Novel Without a Name",
+    "author": "Dương Thu Hương",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/14648920-L.jpg",
+        "source": "https://openlibrary.org/books/OL22064396M",
+        "title": "Novel without a name",
+        "authors": [
+          "Dương, Thu Hương.",
+          "Thu Huong Duong",
+          "Duong Thu Huong",
+          "D. Huong",
+          "DUONG HUONG"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/14648920-L.jpg",
+        "source": "https://openlibrary.org/books/OL22064396M",
+        "title": "Novel without a name",
+        "authors": [
+          "Dương, Thu Hương.",
+          "Thu Huong Duong",
+          "Duong Thu Huong",
+          "D. Huong",
+          "DUONG HUONG"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Ondjaki | Good Morning Comrades": {
+    "title": "Good Morning Comrades",
+    "author": "Ondjaki",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/7847611-L.jpg",
+        "source": "https://openlibrary.org/books/OL26176440M",
+        "title": "Good Morning Comrades A Novel",
+        "authors": [
+          "Ondjaki",
+          "Stephen Henighan"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/7847611-L.jpg",
+        "source": "https://openlibrary.org/books/OL26176440M",
+        "title": "Good Morning Comrades A Novel",
+        "authors": [
+          "Ondjaki",
+          "Stephen Henighan"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "José Luandino Vieira | Our Musseque": {
+    "title": "Our Musseque",
+    "author": "José Luandino Vieira",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/12832999-L.jpg",
+        "source": "https://openlibrary.org/books/OL39200364M",
+        "title": "Our musseque",
+        "authors": [
+          "José Luandino Vieira"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/12832999-L.jpg",
+        "source": "https://openlibrary.org/books/OL39200364M",
+        "title": "Our musseque",
+        "authors": [
+          "José Luandino Vieira"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Olympe Bhêly-Quenum | Snares Without End": {
+    "title": "Snares Without End",
+    "author": "Olympe Bhêly-Quenum",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/4283808-L.jpg",
+        "source": "https://openlibrary.org/books/OL3522617M",
+        "title": "Snares without end",
+        "authors": [
+          "Olympe Bhêly-Quénum",
+          "Olympe Bhêly-Quénum"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/4283808-L.jpg",
+        "source": "https://openlibrary.org/books/OL3522617M",
+        "title": "Snares without end",
+        "authors": [
+          "Olympe Bhêly-Quénum",
+          "Olympe Bhêly-Quénum"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Olympe Bhêly-Quenum | As She Was Discovering Tigony": {
+    "title": "As She Was Discovering Tigony",
+    "author": "Olympe Bhêly-Quenum",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=As+She+Was+Discovering+Tigony&author=Olympe+Bh%C3%AAly-Quenum&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdulai Silá | The Ultimate Tragedy": {
+    "title": "The Ultimate Tragedy",
+    "author": "Abdulai Silá",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Ultimate+Tragedy&author=Abdulai+Sil%C3%A1&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Gaël Faye | Small Country": {
+    "title": "Small Country",
+    "author": "Gaël Faye",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Small+Country&author=Ga%C3%ABl+Faye&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Stella Gaitano | Edo's Souls": {
+    "title": "Edo's Souls",
+    "author": "Stella Gaitano",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Edo%27s+Souls&author=Stella+Gaitano&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdourahman A. Waberi | In the United States of Africa": {
+    "title": "In the United States of Africa",
+    "author": "Abdourahman A. Waberi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=In+the+United+States+of+Africa&author=Abdourahman+A.+Waberi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Juan Tomás Ávila Laurel | By Night the Mountain Burns": {
+    "title": "By Night the Mountain Burns",
+    "author": "Juan Tomás Ávila Laurel",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/11058799-L.jpg",
+        "source": "https://openlibrary.org/books/OL32395921M",
+        "title": "By Night the Mountain Burns",
+        "authors": [
+          "Juan-Tomás Avila Laurel",
+          "José Manuel Pedrosa",
+          "Jethro Soutar"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/11058799-L.jpg",
+        "source": "https://openlibrary.org/books/OL32395921M",
+        "title": "By Night the Mountain Burns",
+        "authors": [
+          "Juan-Tomás Avila Laurel",
+          "José Manuel Pedrosa",
+          "Jethro Soutar"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Donato Ndongo | Shadows of Your Black Memory": {
+    "title": "Shadows of Your Black Memory",
+    "author": "Donato Ndongo",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Shadows+of+Your+Black+Memory&author=Donato+Ndongo&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Naguib Mahfouz | Palace Walk": {
+    "title": "Palace Walk",
+    "author": "Naguib Mahfouz",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Palace+Walk&author=Naguib+Mahfouz&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Naguib Mahfouz | Midaq Alley": {
+    "title": "Midaq Alley",
+    "author": "Naguib Mahfouz",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Midaq+Alley&author=Naguib+Mahfouz&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ahmadou Kourouma | Allah Is Not Obliged": {
+    "title": "Allah Is Not Obliged",
+    "author": "Ahmadou Kourouma",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/9627335-L.jpg",
+        "source": "https://openlibrary.org/books/OL18000434M",
+        "title": "Allah is not obliged",
+        "authors": [
+          "Ahmadou Kourouma"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/9627335-L.jpg",
+        "source": "https://openlibrary.org/books/OL18000434M",
+        "title": "Allah is not obliged",
+        "authors": [
+          "Ahmadou Kourouma"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Gebreyesus Hailu | The Conscript": {
+    "title": "The Conscript",
+    "author": "Gebreyesus Hailu",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/7597479-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17447607W",
+        "title": "The Conscript A Novel Of Libyas Anticolonial War",
+        "authors": [
+          "Gebreyesus Hailu",
+          "Ghirmai Negash",
+          "Laura Chrisman"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Conscript&author=Gebreyesus+Hailu&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Sulaiman Addonia | The Seers": {
+    "title": "The Seers",
+    "author": "Sulaiman Addonia",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Seers&author=Sulaiman+Addonia&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Dinaw Mengestu | All Our Names": {
+    "title": "All Our Names",
+    "author": "Dinaw Mengestu",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=All+Our+Names&author=Dinaw+Mengestu&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ama Ata Aidoo | Changes: A Love Story": {
+    "title": "Changes: A Love Story",
+    "author": "Ama Ata Aidoo",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Changes%3A+A+Love+Story&author=Ama+Ata+Aidoo&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Camara Laye | The Radiance of the King": {
+    "title": "The Radiance of the King",
+    "author": "Camara Laye",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Radiance+of+the+King&author=Camara+Laye&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Williams Sassine | Saint Monsieur Baly": {
+    "title": "Saint Monsieur Baly",
+    "author": "Williams Sassine",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Saint+Monsieur+Baly&author=Williams+Sassine&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tierno Monénembo | The Black Terrorist": {
+    "title": "The Black Terrorist",
+    "author": "Tierno Monénembo",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Black+Terrorist&author=Tierno+Mon%C3%A9nembo&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mongo Beti | The Poor Christ of Bomba": {
+    "title": "The Poor Christ of Bomba",
+    "author": "Mongo Beti",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/6972691-L.jpg",
+        "source": "https://openlibrary.org/books/OL24951607M",
+        "title": "The poor Christ of Bomba",
+        "authors": [
+          "Mongo Beti"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/6972691-L.jpg",
+        "source": "https://openlibrary.org/books/OL24951607M",
+        "title": "The poor Christ of Bomba",
+        "authors": [
+          "Mongo Beti"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Calixthe Beyala | The Sun Hath Looked Upon Me": {
+    "title": "The Sun Hath Looked Upon Me",
+    "author": "Calixthe Beyala",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/275127-L.jpg",
+        "source": "https://openlibrary.org/books/OL7509029M",
+        "title": "The Sun Hath Looked Upon Me",
+        "authors": [
+          "Calixthe Beyala"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/275127-L.jpg",
+        "source": "https://openlibrary.org/books/OL7509029M",
+        "title": "The Sun Hath Looked Upon Me",
+        "authors": [
+          "Calixthe Beyala"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Ngũgĩ wa Thiong'o | A Grain of Wheat": {
+    "title": "A Grain of Wheat",
+    "author": "Ngũgĩ wa Thiong'o",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/14342094-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL10242W",
+        "title": "A grain of wheat",
+        "authors": [
+          "Ngũgĩ wa Thiongʼo"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=A+Grain+of+Wheat&author=Ng%C5%A9g%C4%A9+wa+Thiong%27o&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Ngũgĩ wa Thiong'o | Petals of Blood": {
+    "title": "Petals of Blood",
+    "author": "Ngũgĩ wa Thiong'o",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/14343581-L.jpg",
+        "source": "https://openlibrary.org/books/OL30586750M",
+        "title": "Petals of Blood",
+        "authors": [
+          "Ngũgĩ wa Thiongʼo"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/14343581-L.jpg",
+        "source": "https://openlibrary.org/books/OL30586750M",
+        "title": "Petals of Blood",
+        "authors": [
+          "Ngũgĩ wa Thiongʼo"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Ngũgĩ wa Thiong'o | Wizard of the Crow": {
+    "title": "Wizard of the Crow",
+    "author": "Ngũgĩ wa Thiong'o",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/13767492-L.jpg",
+        "source": "https://openlibrary.org/books/OL47302935M",
+        "title": "Wizard of the crow",
+        "authors": [
+          "Ngũgĩ wa Thiongʼo"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/13767492-L.jpg",
+        "source": "https://openlibrary.org/books/OL47302935M",
+        "title": "Wizard of the crow",
+        "authors": [
+          "Ngũgĩ wa Thiongʼo"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Fiston Mwanza Mujila | The Villain's Dance": {
+    "title": "The Villain's Dance",
+    "author": "Fiston Mwanza Mujila",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Villain%27s+Dance&author=Fiston+Mwanza+Mujila&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Valentin-Yves Mudimbe | Between Tides": {
+    "title": "Between Tides",
+    "author": "Valentin-Yves Mudimbe",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Between+Tides&author=Valentin-Yves+Mudimbe&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Valentin-Yves Mudimbe | The Rift": {
+    "title": "The Rift",
+    "author": "Valentin-Yves Mudimbe",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Rift&author=Valentin-Yves+Mudimbe&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Vamba Sherif | The Land of the Fathers": {
+    "title": "The Land of the Fathers",
+    "author": "Vamba Sherif",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Land+of+the+Fathers&author=Vamba+Sherif&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Vamba Sherif | Bound to Secrecy": {
+    "title": "Bound to Secrecy",
+    "author": "Vamba Sherif",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Bound+to+Secrecy&author=Vamba+Sherif&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Hawa Jande Golakai | The Lazarus Effect": {
+    "title": "The Lazarus Effect",
+    "author": "Hawa Jande Golakai",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Lazarus+Effect&author=Hawa+Jande+Golakai&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ibrahim al-Koni | The Bleeding of the Stone": {
+    "title": "The Bleeding of the Stone",
+    "author": "Ibrahim al-Koni",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/807126-L.jpg",
+        "source": "https://openlibrary.org/books/OL8669599M",
+        "title": "The Bleeding of the Stone",
+        "authors": [
+          "Ibrahim Al-Koni"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/807126-L.jpg",
+        "source": "https://openlibrary.org/books/OL8669599M",
+        "title": "The Bleeding of the Stone",
+        "authors": [
+          "Ibrahim Al-Koni"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Ibrahim al-Koni | Gold Dust": {
+    "title": "Gold Dust",
+    "author": "Ibrahim al-Koni",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/10875822-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL24350797W",
+        "title": "Gold Dust",
+        "authors": [
+          "Ibrahim al-Koni",
+          "Elliot Colla"
+        ]
+      },
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/9356028-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20683890W",
+        "title": "Gold Dust",
+        "authors": [
+          "Ibrahim Al-Koni",
+          "Elliott Colla"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Gold+Dust&author=Ibrahim+al-Koni&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Amadou Hampâté Bâ | The Fortunes of Wangrin": {
+    "title": "The Fortunes of Wangrin",
+    "author": "Amadou Hampâté Bâ",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/13408925-L.jpg",
+        "source": "https://openlibrary.org/books/OL22075664M",
+        "title": "The fortunes of Wangrin",
+        "authors": [
+          "Âmadou-Hampâté Bâ"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/13408925-L.jpg",
+        "source": "https://openlibrary.org/books/OL22075664M",
+        "title": "The fortunes of Wangrin",
+        "authors": [
+          "Âmadou-Hampâté Bâ"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Massa Makan Diabaté | The Lieutenant of Kouta": {
+    "title": "The Lieutenant of Kouta",
+    "author": "Massa Makan Diabaté",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Lieutenant+of+Kouta&author=Massa+Makan+Diabat%C3%A9&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tahar Ben Jelloun | The Sand Child": {
+    "title": "The Sand Child",
+    "author": "Tahar Ben Jelloun",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Sand+Child&author=Tahar+Ben+Jelloun&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tahar Ben Jelloun | This Blinding Absence of Light": {
+    "title": "This Blinding Absence of Light",
+    "author": "Tahar Ben Jelloun",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/107391-L.jpg",
+        "source": "https://openlibrary.org/books/OL7358680M",
+        "title": "This Blinding Absence of Light",
+        "authors": [
+          "Tahar Ben Jelloun"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/107391-L.jpg",
+        "source": "https://openlibrary.org/books/OL7358680M",
+        "title": "This Blinding Absence of Light",
+        "authors": [
+          "Tahar Ben Jelloun"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Leila Slimani | In the Country of Others": {
+    "title": "In the Country of Others",
+    "author": "Leila Slimani",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=In+the+Country+of+Others&author=Leila+Slimani&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdellah Taïa | An Arab Melancholia": {
+    "title": "An Arab Melancholia",
+    "author": "Abdellah Taïa",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=An+Arab+Melancholia&author=Abdellah+Ta%C3%AFa&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Beyrouk | The Desert and the Drum": {
+    "title": "The Desert and the Drum",
+    "author": "Beyrouk",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Desert+and+the+Drum&author=Beyrouk&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Beyrouk | I'm Alone": {
+    "title": "I'm Alone",
+    "author": "Beyrouk",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=I%27m+Alone&author=Beyrouk&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Nathacha Appanah | The Sky Above the Roof": {
+    "title": "The Sky Above the Roof",
+    "author": "Nathacha Appanah",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Sky+Above+the+Roof&author=Nathacha+Appanah&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mia Couto | Sleepwalking Land": {
+    "title": "Sleepwalking Land",
+    "author": "Mia Couto",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/900778-L.jpg",
+        "source": "https://openlibrary.org/books/OL8975117M",
+        "title": "Sleepwalking Land",
+        "authors": [
+          "Mia Couto"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/900778-L.jpg",
+        "source": "https://openlibrary.org/books/OL8975117M",
+        "title": "Sleepwalking Land",
+        "authors": [
+          "Mia Couto"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Mia Couto | Under the Frangipani": {
+    "title": "Under the Frangipani",
+    "author": "Mia Couto",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Under+the+Frangipani&author=Mia+Couto&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Paulina Chiziane | The First Wife": {
+    "title": "The First Wife",
+    "author": "Paulina Chiziane",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/13090050-L.jpg",
+        "source": "https://openlibrary.org/books/OL27216889M",
+        "title": "The first wife",
+        "authors": [
+          "Paulina Chiziane",
+          "Paulina Chizane",
+          "Paulina Chiziane"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/13090050-L.jpg",
+        "source": "https://openlibrary.org/books/OL27216889M",
+        "title": "The first wife",
+        "authors": [
+          "Paulina Chiziane",
+          "Paulina Chizane",
+          "Paulina Chiziane"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Ungulani Ba Ka Khosa | Ualalapi": {
+    "title": "Ualalapi",
+    "author": "Ungulani Ba Ka Khosa",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Ualalapi&author=Ungulani+Ba+Ka+Khosa&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Scholastique Mukasonga | Kibogo": {
+    "title": "Kibogo",
+    "author": "Scholastique Mukasonga",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Kibogo&author=Scholastique+Mukasonga&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mariama Bâ | So Long a Letter": {
+    "title": "So Long a Letter",
+    "author": "Mariama Bâ",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=So+Long+a+Letter&author=Mariama+B%C3%A2&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Cheikh Hamidou Kane | Ambiguous Adventure": {
+    "title": "Ambiguous Adventure",
+    "author": "Cheikh Hamidou Kane",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Ambiguous+Adventure&author=Cheikh+Hamidou+Kane&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ousmane Sembène | God's Bits of Wood": {
+    "title": "God's Bits of Wood",
+    "author": "Ousmane Sembène",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=God%27s+Bits+of+Wood&author=Ousmane+Semb%C3%A8ne&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Boubacar Boris Diop | Murambi, The Book of Bones": {
+    "title": "Murambi, The Book of Bones",
+    "author": "Boubacar Boris Diop",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/10190834-L.jpg",
+        "source": "https://openlibrary.org/books/OL28262592M",
+        "title": "Murambi, The Book of Bones",
+        "authors": [
+          "Boubacar Boris Diop",
+          "Fiona Mc Laughlin",
+          "Fiona MC Laughlin"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/10190834-L.jpg",
+        "source": "https://openlibrary.org/books/OL28262592M",
+        "title": "Murambi, The Book of Bones",
+        "authors": [
+          "Boubacar Boris Diop",
+          "Fiona Mc Laughlin",
+          "Fiona MC Laughlin"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Fatou Diome | The Belly of the Atlantic": {
+    "title": "The Belly of the Atlantic",
+    "author": "Fatou Diome",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/900782-L.jpg",
+        "source": "https://openlibrary.org/books/OL8975121M",
+        "title": "The Belly of the Atlantic",
+        "authors": [
+          "Fatou Diome"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/900782-L.jpg",
+        "source": "https://openlibrary.org/books/OL8975121M",
+        "title": "The Belly of the Atlantic",
+        "authors": [
+          "Fatou Diome"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Yema Lucilda Hunter | Road to Freedom": {
+    "title": "Road to Freedom",
+    "author": "Yema Lucilda Hunter",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Road+to+Freedom&author=Yema+Lucilda+Hunter&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tayeb Salih | Season of Migration to the North": {
+    "title": "Season of Migration to the North",
+    "author": "Tayeb Salih",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Season+of+Migration+to+the+North&author=Tayeb+Salih&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Tayeb Salih | The Wedding of Zein": {
+    "title": "The Wedding of Zein",
+    "author": "Tayeb Salih",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Wedding+of+Zein&author=Tayeb+Salih&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Abdelaziz Baraka Sakin | The Messiah of Darfur": {
+    "title": "The Messiah of Darfur",
+    "author": "Abdelaziz Baraka Sakin",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Messiah+of+Darfur&author=Abdelaziz+Baraka+Sakin&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Adam Shafi | Vuta N'kuvute": {
+    "title": "Vuta N'kuvute",
+    "author": "Adam Shafi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Vuta+N%27kuvute&author=Adam+Shafi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Sami Tchak | The Continent of Everything and Practically Nothing": {
+    "title": "The Continent of Everything and Practically Nothing",
+    "author": "Sami Tchak",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Continent+of+Everything+and+Practically+Nothing&author=Sami+Tchak&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Hassouna Mosbahi | A Tunisian Tale": {
+    "title": "A Tunisian Tale",
+    "author": "Hassouna Mosbahi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=A+Tunisian+Tale&author=Hassouna+Mosbahi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Shukri Mabkhout | The Italian": {
+    "title": "The Italian",
+    "author": "Shukri Mabkhout",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Italian&author=Shukri+Mabkhout&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Yamen Manai | The Ardent Swarm": {
+    "title": "The Ardent Swarm",
+    "author": "Yamen Manai",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Ardent+Swarm&author=Yamen+Manai&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jennifer Nansubuga Makumbi | The First Woman": {
+    "title": "The First Woman",
+    "author": "Jennifer Nansubuga Makumbi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+First+Woman&author=Jennifer+Nansubuga+Makumbi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ellen Banda-Aaku | Patchwork": {
+    "title": "Patchwork",
+    "author": "Ellen Banda-Aaku",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/9464911-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20739928W",
+        "title": "Patchwork",
+        "authors": [
+          "Ellen Banda-Aaku"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Patchwork&author=Ellen+Banda-Aaku&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Jamaica Kincaid | Lucy": {
+    "title": "Lucy",
+    "author": "Jamaica Kincaid",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Lucy&author=Jamaica+Kincaid&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jamaica Kincaid | The Autobiography of My Mother": {
+    "title": "The Autobiography of My Mother",
+    "author": "Jamaica Kincaid",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Autobiography+of+My+Mother&author=Jamaica+Kincaid&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Patricia Glinton-Meicholas | A Shift in the Light": {
+    "title": "A Shift in the Light",
+    "author": "Patricia Glinton-Meicholas",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=A+Shift+in+the+Light&author=Patricia+Glinton-Meicholas&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Anacristina Rossi | The Madwoman of Gandoca": {
+    "title": "The Madwoman of Gandoca",
+    "author": "Anacristina Rossi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Madwoman+of+Gandoca&author=Anacristina+Rossi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Horacio Castellanos Moya | The Dream of My Return": {
+    "title": "The Dream of My Return",
+    "author": "Horacio Castellanos Moya",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Dream+of+My+Return&author=Horacio+Castellanos+Moya&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jacob Ross | The Bone Readers": {
+    "title": "The Bone Readers",
+    "author": "Jacob Ross",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Bone+Readers&author=Jacob+Ross&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jacob Ross | Black Rain Falling": {
+    "title": "Black Rain Falling",
+    "author": "Jacob Ross",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Black+Rain+Falling&author=Jacob+Ross&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Miguel Ángel Asturias | The President": {
+    "title": "The President",
+    "author": "Miguel Ángel Asturias",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+President&author=Miguel+%C3%81ngel+Asturias&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Miguel Ángel Asturias | Men of Maize": {
+    "title": "Men of Maize",
+    "author": "Miguel Ángel Asturias",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Men+of+Maize&author=Miguel+%C3%81ngel+Asturias&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Eduardo Halfon | Mourning": {
+    "title": "Mourning",
+    "author": "Eduardo Halfon",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Mourning&author=Eduardo+Halfon&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Yanick Lahens | Moonbath": {
+    "title": "Moonbath",
+    "author": "Yanick Lahens",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Moonbath&author=Yanick+Lahens&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Marie Vieux-Chauvet | Love, Anger, Madness": {
+    "title": "Love, Anger, Madness",
+    "author": "Marie Vieux-Chauvet",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Love%2C+Anger%2C+Madness&author=Marie+Vieux-Chauvet&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "René Depestre | Hadriana in All My Dreams": {
+    "title": "Hadriana in All My Dreams",
+    "author": "René Depestre",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/8669589-L.jpg",
+        "source": "https://openlibrary.org/books/OL27051725M",
+        "title": "Hadriana in All My Dreams",
+        "authors": [
+          "René Depestre"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/8669589-L.jpg",
+        "source": "https://openlibrary.org/books/OL27051725M",
+        "title": "Hadriana in All My Dreams",
+        "authors": [
+          "René Depestre"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Ramón Amaya Amador | Prisión verde": {
+    "title": "Prisión verde",
+    "author": "Ramón Amaya Amador",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Prisi%C3%B3n+verde&author=Ram%C3%B3n+Amaya+Amador&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Nicole Dennis-Benn | Here Comes the Sun": {
+    "title": "Here Comes the Sun",
+    "author": "Nicole Dennis-Benn",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/8471798-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20032697W",
+        "title": "Here comes the sun",
+        "authors": [
+          "Nicole Dennis-Benn"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Here+Comes+the+Sun&author=Nicole+Dennis-Benn&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Alejo Carpentier | The Kingdom of This World": {
+    "title": "The Kingdom of This World",
+    "author": "Alejo Carpentier",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Kingdom+of+This+World&author=Alejo+Carpentier&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Alejo Carpentier | The Lost Steps": {
+    "title": "The Lost Steps",
+    "author": "Alejo Carpentier",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Lost+Steps&author=Alejo+Carpentier&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Leonardo Padura | The Man Who Loved Dogs": {
+    "title": "The Man Who Loved Dogs",
+    "author": "Leonardo Padura",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Man+Who+Loved+Dogs&author=Leonardo+Padura&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Guillermo Cabrera Infante | Three Trapped Tigers": {
+    "title": "Three Trapped Tigers",
+    "author": "Guillermo Cabrera Infante",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Three+Trapped+Tigers&author=Guillermo+Cabrera+Infante&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Dulce María Loynaz | Garden": {
+    "title": "Garden",
+    "author": "Dulce María Loynaz",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Garden&author=Dulce+Mar%C3%ADa+Loynaz&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Fernanda Melchor | Hurricane Season": {
+    "title": "Hurricane Season",
+    "author": "Fernanda Melchor",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Hurricane+Season&author=Fernanda+Melchor&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Gioconda Belli | The Inhabited Woman": {
+    "title": "The Inhabited Woman",
+    "author": "Gioconda Belli",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Inhabited+Woman&author=Gioconda+Belli&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Claribel Alegría and Darwin J. Flakoll | Ashes of Izalco": {
+    "title": "Ashes of Izalco",
+    "author": "Claribel Alegría and Darwin J. Flakoll",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Ashes+of+Izalco&author=Claribel+Alegr%C3%ADa+and+Darwin+J.+Flakoll&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Gioconda Belli | The Country of Women": {
+    "title": "The Country of Women",
+    "author": "Gioconda Belli",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Country+of+Women&author=Gioconda+Belli&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Garth St Omer | A Room on the Hill": {
+    "title": "A Room on the Hill",
+    "author": "Garth St Omer",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=A+Room+on+the+Hill&author=Garth+St+Omer&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Garth St Omer | Shades of Grey": {
+    "title": "Shades of Grey",
+    "author": "Garth St Omer",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Shades+of+Grey&author=Garth+St+Omer&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Garth St Omer | Prisms": {
+    "title": "Prisms",
+    "author": "Garth St Omer",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Prisms&author=Garth+St+Omer&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "H. Nigel Thomas | No Safeguards": {
+    "title": "No Safeguards",
+    "author": "H. Nigel Thomas",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=No+Safeguards&author=H.+Nigel+Thomas&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "H. Nigel Thomas | Easily Fooled": {
+    "title": "Easily Fooled",
+    "author": "H. Nigel Thomas",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Easily+Fooled&author=H.+Nigel+Thomas&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Earl Lovelace | The Dragon Can't Dance": {
+    "title": "The Dragon Can't Dance",
+    "author": "Earl Lovelace",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/6783797-L.jpg",
+        "source": "https://openlibrary.org/books/OL24713520M",
+        "title": "The dragon can't dance",
+        "authors": [
+          "Earl Lovelace"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/6783797-L.jpg",
+        "source": "https://openlibrary.org/books/OL24713520M",
+        "title": "The dragon can't dance",
+        "authors": [
+          "Earl Lovelace"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Julio Cortázar | Hopscotch": {
+    "title": "Hopscotch",
+    "author": "Julio Cortázar",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Hopscotch&author=Julio+Cort%C3%A1zar&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Ernesto Sábato | The Tunnel": {
+    "title": "The Tunnel",
+    "author": "Ernesto Sábato",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Tunnel&author=Ernesto+S%C3%A1bato&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jesús Lara | Yanakuna": {
+    "title": "Yanakuna",
+    "author": "Jesús Lara",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Yanakuna&author=Jes%C3%BAs+Lara&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Machado de Assis | The Posthumous Memoirs of Brás Cubas": {
+    "title": "The Posthumous Memoirs of Brás Cubas",
+    "author": "Machado de Assis",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Posthumous+Memoirs+of+Br%C3%A1s+Cubas&author=Machado+de+Assis&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Clarice Lispector | The Passion According to G.H.": {
+    "title": "The Passion According to G.H.",
+    "author": "Clarice Lispector",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Passion+According+to+G.H.&author=Clarice+Lispector&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Jorge Amado | Captains of the Sands": {
+    "title": "Captains of the Sands",
+    "author": "Jorge Amado",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Captains+of+the+Sands&author=Jorge+Amado&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "José Donoso | The Place Without Limits": {
+    "title": "The Place Without Limits",
+    "author": "José Donoso",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Place+Without+Limits&author=Jos%C3%A9+Donoso&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "José Donoso | The Obscene Bird of Night": {
+    "title": "The Obscene Bird of Night",
+    "author": "José Donoso",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Obscene+Bird+of+Night&author=Jos%C3%A9+Donoso&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Isabel Allende | The House of the Spirits": {
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+House+of+the+Spirits&author=Isabel+Allende&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Roberto Bolaño | By Night in Chile": {
+    "title": "By Night in Chile",
+    "author": "Roberto Bolaño",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=By+Night+in+Chile&author=Roberto+Bola%C3%B1o&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "María Luisa Bombal | The Shrouded Woman": {
+    "title": "The Shrouded Woman",
+    "author": "María Luisa Bombal",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Shrouded+Woman&author=Mar%C3%ADa+Luisa+Bombal&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Gabriela Alemán | Poso Wells": {
+    "title": "Poso Wells",
+    "author": "Gabriela Alemán",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Poso+Wells&author=Gabriela+Alem%C3%A1n&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mónica Ojeda | Jawbone": {
+    "title": "Jawbone",
+    "author": "Mónica Ojeda",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Jawbone&author=M%C3%B3nica+Ojeda&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Álvaro Mutis | The Snow of the Admiral": {
+    "title": "The Snow of the Admiral",
+    "author": "Álvaro Mutis",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Snow+of+the+Admiral&author=%C3%81lvaro+Mutis&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Augusto Roa Bastos | Son of Man": {
+    "title": "Son of Man",
+    "author": "Augusto Roa Bastos",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Son+of+Man&author=Augusto+Roa+Bastos&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mario Vargas Llosa | The Time of the Hero": {
+    "title": "The Time of the Hero",
+    "author": "Mario Vargas Llosa",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Time+of+the+Hero&author=Mario+Vargas+Llosa&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mario Vargas Llosa | Conversation in the Cathedral": {
+    "title": "Conversation in the Cathedral",
+    "author": "Mario Vargas Llosa",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=Conversation+in+the+Cathedral&author=Mario+Vargas+Llosa&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Alfredo Bryce Echenique | A World for Julius": {
+    "title": "A World for Julius",
+    "author": "Alfredo Bryce Echenique",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=A+World+for+Julius&author=Alfredo+Bryce+Echenique&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Cynthia McLeod | The Free Negress Elisabeth": {
+    "title": "The Free Negress Elisabeth",
+    "author": "Cynthia McLeod",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Free+Negress+Elisabeth&author=Cynthia+McLeod&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Astrid Roemer | On a Woman's Madness": {
+    "title": "On a Woman's Madness",
+    "author": "Astrid Roemer",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=On+a+Woman%27s+Madness&author=Astrid+Roemer&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Mario Benedetti | The Truce": {
+    "title": "The Truce",
+    "author": "Mario Benedetti",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Truce&author=Mario+Benedetti&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Juan Carlos Onetti | The Shipyard": {
+    "title": "The Shipyard",
+    "author": "Juan Carlos Onetti",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Shipyard&author=Juan+Carlos+Onetti&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Salvador Garmendia | The Small Beings": {
+    "title": "The Small Beings",
+    "author": "Salvador Garmendia",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Small+Beings&author=Salvador+Garmendia&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Alberto Barrera Tyszka | The Sickness": {
+    "title": "The Sickness",
+    "author": "Alberto Barrera Tyszka",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Sickness&author=Alberto+Barrera+Tyszka&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "John Saunana | The Alternative": {
+    "title": "The Alternative",
+    "author": "John Saunana",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Alternative&author=John+Saunana&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Wu Ming-yi | The Man with the Compound Eyes": {
+    "title": "The Man with the Compound Eyes",
+    "author": "Wu Ming-yi",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/8997613-L.jpg",
+        "source": "https://openlibrary.org/books/OL27541909M",
+        "title": "The Man with the Compound Eyes",
+        "authors": [
+          "Wu Ming-Yi"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/8997613-L.jpg",
+        "source": "https://openlibrary.org/books/OL27541909M",
+        "title": "The Man with the Compound Eyes",
+        "authors": [
+          "Wu Ming-Yi"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Wu Ming-yi | The Stolen Bicycle": {
+    "title": "The Stolen Bicycle",
+    "author": "Wu Ming-yi",
+    "checked_at": "2026-11-18",
+    "candidates": [],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Stolen+Bicycle&author=Wu+Ming-yi&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "no_verified_cover"
+  },
+  "Pai Hsien-yung | Crystal Boys": {
+    "title": "Crystal Boys",
+    "author": "Pai Hsien-yung",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/5306993-L.jpg",
+        "source": "https://openlibrary.org/books/OL8420818M",
+        "title": "Crystal Boys",
+        "authors": [
+          "Hsien-Yung Pai"
+        ]
+      },
+      {
+        "provider": "openlibrary-edition",
+        "image": "https://covers.openlibrary.org/b/id/5306993-L.jpg",
+        "source": "https://openlibrary.org/books/OL8420818M",
+        "title": "Crystal Boys",
+        "authors": [
+          "Hsien-Yung Pai"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  },
+  "Li Ang | The Butcher's Wife": {
+    "title": "The Butcher's Wife",
+    "author": "Li Ang",
+    "checked_at": "2026-11-18",
+    "candidates": [
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/683892-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2937381W",
+        "title": "The butcher's wife and other stories",
+        "authors": [
+          "Li, Ang"
+        ]
+      },
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/1357718-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8389453W",
+        "title": "The Butcher's Wife (Peter Owen Modern Classic)",
+        "authors": [
+          "Li Ang"
+        ]
+      },
+      {
+        "provider": "openlibrary-search",
+        "image": "https://covers.openlibrary.org/b/id/5239530-L.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2937382W",
+        "title": "The Butcher's Wife ('Sha fu', in traditional Chinese, NOT in English)",
+        "authors": [
+          "Li, Ang"
+        ]
+      }
+    ],
+    "attempts": [
+      {
+        "provider": "google-books",
+        "status": "public_api_quota_unavailable"
+      },
+      {
+        "provider": "openlibrary-search",
+        "status": "searched",
+        "query_url": "https://openlibrary.org/search.json?title=The+Butcher%27s+Wife&author=Li+Ang&limit=5&fields=key%2Ctitle%2Cauthor_name%2Ccover_i"
+      }
+    ],
+    "status": "matched_cover_candidate"
+  }
+}

@@ -1,0 +1,18 @@
+"""Keep visible methodology/counts aligned with the completed source refresh."""
+from pathlib import Path
+import json,re
+R=Path(__file__).parent;ROOT=R.parent;p=ROOT/'index.html';s=p.read_text()
+rows=[r for r in re.findall(r'<tr>.*?</tr>',s,re.S) if '<td class="book">' in r]
+covers=sum(bool(re.search('<img ',r)) for r in rows);direct=sum(bool(re.search(r'goodreads.com/(?:en/)?book/show/',r)) for r in rows)
+notes=json.loads((R/'reading-notes-audit.json').read_text())['entries'];checked=sum(v['status']=='source_based_thematic_note' for v in notes)
+s=re.sub(r'<div><strong>\d+</strong>catalogue covers</div>','<div><strong>'+str(covers)+'</strong>catalogue covers</div>',s,count=1)
+s=s.replace('Twenty-five country selections have been revised in this edition; twelve five-title groups include expanded reading notes.','The reading notes are kept short and linked to their sources; unresolved notes are marked explicitly.')
+s=re.sub(r'<p><strong>Reading notes:</strong>.*?</p>','<p><strong>Reading notes:</strong> short, quoted extracts come from the linked Goodreads book synopsis after matching title and author. Where a suitable synopsis was unavailable, a brief thematic note may use subjects from a title-and-author-matched catalogue edition. Tags are conservative keyword/phrase-based suggestions, not a manual critical review of every book. Ratings, reviews and unverified difficulty judgments are not used. '+str(checked)+' entries have a source-based note; '+str(len(rows)-checked)+' remain explicitly unverified. A “Starting point” is an editorial entry into a country’s literature, not a ranking.</p>',s,count=1,flags=re.S)
+a=s.index('<h2>Links and covers</h2>');b=s.index('<p>Use the browser',a)
+s=s[:a]+('<h2>Links and covers</h2><p>'+str(direct)+' entries have a direct Goodreads book page. Newly added links were matched using title and author on Goodreads book results; some names and translated titles remain unresolved. The original 269 catalogue-supplied Goodreads links have been retained; a fresh match is recorded where available. Search links remain a fallback where a direct match was not verified. “Book edition” links identify particular catalogue editions; dates may refer to later printings or translations.</p><p><strong>'+str(covers)+' covers</strong> are available. New covers were matched through Open Library records or a verified Goodreads book page, and the actual image files were checked and saved locally. The Google Books public API was also tried on 18 November 2026 but returned a quota error; no Google Books covers were added in this pass. A cover can represent a different language or edition of the same work. Uncertain matches remain without an image.</p>')+s[b:]
+needle='<p class="metadata-audit-note"><strong>Publication metadata:</strong>'
+extra='<p class="metadata-refresh-note"><strong>Book links, covers and reading notes — 18 November 2026:</strong> <a href="research/book-asset-refresh-audit.json" target="_blank" rel="noopener">Link and cover audit ↗</a> · <a href="research/cover-refresh-audit.json" target="_blank" rel="noopener">Cover provenance ↗</a> · <a href="research/reading-notes-audit.json" target="_blank" rel="noopener">Reading-note sources ↗</a>. A matched synopsis or catalogue subject supports a short reading note; it does not mean that every book has received a separate publisher or critical review.</p>'
+s=s.replace(needle,extra+needle,1)
+s=s.replace('Cover images and catalogue identifiers: Open Library.','Cover provenance and catalogue identifiers: Open Library and linked book records.')
+p.write_text(s)
+print(dict(books=len(rows),goodreads_direct=direct,covers=covers,source_notes=checked,pending_notes=len(rows)-checked))

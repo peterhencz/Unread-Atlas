@@ -1,0 +1,34 @@
+[
+  {
+    "title": "The Darkroom of Damocles",
+    "author": "W. F. Hermans",
+    "url": "https://www.goodreads.com/book/show/56419802",
+    "source": "https://www.goodreads.com/book/show/56419802.The_Darkroom_of_Damocles",
+    "method": "Goodreads title and expanded author name Willem Frederik Hermans",
+    "checked_at": "2026-11-18"
+  },
+  {
+    "title": "The Ice Palace",
+    "author": "Tarjei Vesaas",
+    "url": "https://www.goodreads.com/book/show/138110",
+    "source": "https://www.goodreads.com/work/editions/1713959-is-slottet",
+    "method": "English edition title/author and linked book page checked in Goodreads editions",
+    "checked_at": "2026-11-18"
+  },
+  {
+    "title": "Captains of the Sands",
+    "author": "Jorge Amado",
+    "url": "https://www.goodreads.com/book/show/565565",
+    "source": "https://www.goodreads.com/work/editions/552675-capit-es-da-areia?expanded=false",
+    "method": "English edition title/author and linked book page checked in Goodreads editions",
+    "checked_at": "2026-11-18"
+  },
+  {
+    "title": "Jawbone",
+    "author": "Mónica Ojeda",
+    "url": "https://www.goodreads.com/book/show/44074748",
+    "source": "https://www.goodreads.com/work/editions/61049155-mand-bula",
+    "method": "English edition title/author and linked book page checked in Goodreads editions",
+    "checked_at": "2026-11-18"
+  }
+]

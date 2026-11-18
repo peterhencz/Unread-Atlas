@@ -4,3 +4,7 @@
 /research/catalogue-candidates.json
 /research/editions.json
 /research/__pycache__/
+
+# Raw source text remains local; publish only short derived notes and source URLs.
+/research/reading-note-source-cache.json
+/research/verified-book-pages.json
