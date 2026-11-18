@@ -330,6 +330,45 @@ h2[id^=region]{font-size:clamp(34px,4vw,46px);font-weight:500;letter-spacing:-1.
 .masthead-links{gap:24px}
 @media(max-width:650px){.masthead{flex-wrap:nowrap;gap:18px}.brand{flex-basis:auto}.masthead-links{width:auto;gap:16px}.masthead-links a{white-space:nowrap}.masthead-links a[href="#region0"]{display:none}}
 @media(max-width:650px){.masthead-links a[href="#guide"]{display:inline-flex}}
+/* A small shared vocabulary of library ink, bookmarks and reading routes. */
+:root{--accent:#a54e39;--accent-wash:#a54e3910;--route-ink:#a54e3940}
+html[data-theme=dark]{--accent:#df9c82;--accent-wash:#df9c8214;--route-ink:#df9c8255}
+::selection{background:var(--accent);color:var(--paper)}
+input[type=search]:focus-visible{outline:2px solid var(--accent);outline-offset:5px;border-radius:2px}
+.links a:hover,.publication a:hover,.masthead-links a:hover,.toolbar-home:hover{color:var(--accent)}
+.country-index{position:relative}
+.country-index a{padding-left:18px}
+.country-index a[aria-current=location]{background:var(--accent-wash);color:var(--accent)}
+.index-bookmark{position:absolute;left:2px;width:6px;z-index:2;background:var(--accent);clip-path:polygon(0 0,100% 0,100% 100%,50% calc(100% - 4px),0 100%);pointer-events:none;transition:top .4s cubic-bezier(.22,1,.36,1),height .3s ease}
+#atlas-results>section>h3 .count{display:none}
+.country-stamp{display:flex;flex-direction:column;justify-content:center;gap:2px;max-width:180px;margin:0 5px 0 auto;padding:6px 11px;border:1px solid var(--accent);outline:1px solid var(--route-ink);outline-offset:3px;color:var(--accent);transform:rotate(-5deg);opacity:.85;text-align:center;font:600 8px/1.4 var(--atlas-font);letter-spacing:.12em;text-transform:uppercase}
+.country-stamp span:first-child{overflow-wrap:anywhere}
+.country-stamp span:last-child{font-weight:400;letter-spacing:.16em}
+#atlas-results tbody tr::before{z-index:1;background:var(--paper);padding:4px 0;color:var(--accent)}
+#atlas-results tbody tr:not(:last-child){background-image:repeating-linear-gradient(to bottom,var(--route-ink) 0 3px,transparent 3px 10px);background-size:1px calc(100% - 20px);background-position:7px 56px;background-repeat:no-repeat}
+#atlas-results .starting-entry .badge{color:var(--accent);border-color:var(--accent)}
+#atlas-results .starting-entry::before{content:'• ' counter(book-entry,decimal-leading-zero);left:-6px}
+#atlas-results .starting-entry .cover{position:relative}
+#atlas-results .starting-entry .cover::after{content:'';position:absolute;top:0;left:106px;width:22px;height:22px;background:linear-gradient(45deg,var(--accent) 0 49%,var(--paper) 50%);box-shadow:-2px 2px 2px #00000012;pointer-events:none;transition:transform .25s ease}
+@media(hover:hover) and (prefers-reduced-motion:no-preference){#atlas-results .starting-entry:hover .cover::after{transform:translate(-2px,2px)}}
+@media(min-width:1100px) and (max-width:1300px){#atlas-results .starting-entry .cover::after{left:86px}}
+@media(max-width:900px){#atlas-results .starting-entry .cover::after{left:82px}}
+@media(max-width:650px){
+ .country-stamp{font-size:7px;max-width:112px;padding:5px 7px;letter-spacing:.07em;flex-shrink:0}
+ #atlas-results>section>h3{column-gap:18px}
+ #atlas-results tbody tr:not(:last-child){background-image:none}
+ #atlas-results .starting-entry::before{left:0}
+ #atlas-results .starting-entry .cover::after{left:64px}
+ #atlas-results td.reason{border-color:var(--route-ink)}
+}
+@media(max-width:350px){.country-stamp{max-width:96px;font-size:6px}#atlas-results .starting-entry .cover::after{left:54px}}
+@media(prefers-reduced-motion:reduce){.index-bookmark{transition:none}}
+@media print{.index-bookmark{display:none}.country-stamp{color:black;border-color:black;outline-color:#aaa}#atlas-results tbody tr{background-image:none!important}}
+@media(max-width:650px){
+ #atlas-results>section>h3{display:block;padding-right:80px;font-size:28px}
+ .country-stamp{position:absolute;right:5px;top:50%;transform:translateY(-50%) rotate(-5deg);margin:0;max-width:68px;padding:6px 7px}
+ .country-stamp span:first-child{display:none}.country-stamp span:last-child{font-size:8px;letter-spacing:.06em}
+}
 </style><div class="atlas-tools" id="atlas-tools"><a class="toolbar-home" href="#top" aria-label="Home — back to top" title="Back to top"><svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="10.5"/><ellipse cx="14" cy="14" rx="4.8" ry="10.5"/><path d="M3.5 14h21M5.2 8.5c5.5 2.5 12.1 2.5 17.6 0M5.2 19.5c5.5-2.5 12.1-2.5 17.6 0"/></svg></a><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Countries ↓</option></select></label></div><div class="sticky-nav-row"><nav aria-label="Browse regions">
 <a href="#region0">Europe</a>
 <a href="#region1">Asia</a>
@@ -5536,6 +5575,21 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
  const sorted=[...jump.options].slice(1).sort((a,b)=>a.textContent.localeCompare(b.textContent));sorted.forEach(option=>jump.append(option));
  const countryIndex=document.querySelector('.country-index');
  const countryLinks=new Map();
+ const bookmark=document.createElement('span');bookmark.className='index-bookmark';bookmark.setAttribute('aria-hidden','true');bookmark.hidden=true;countryIndex.append(bookmark);
+ for(const item of sections){
+   const heading=item.element.querySelector('h3');
+   const stamp=document.createElement('span');stamp.className='country-stamp';
+   const name=document.createElement('span');name.textContent=heading.childNodes[0].textContent.trim();
+   const count=document.createElement('span');count.textContent=String(item.rows.length).padStart(2,'0')+' TITLES';
+   stamp.append(name,count);heading.append(stamp);
+   for(const row of item.rows){if([...row.element.querySelectorAll('.badge')].some(b=>b.textContent.trim()==='Starting point'))row.element.classList.add('starting-entry')}
+ }
+ function placeBookmark(){
+   const link=countryLinks.get(activeCountry);bookmark.hidden=!link;
+   if(link){bookmark.style.top=(link.offsetTop+7)+'px';bookmark.style.height=Math.max(22,link.offsetHeight-14)+'px'}
+ }
+ new ResizeObserver(placeBookmark).observe(countryIndex);
+
  let activeCountry='',indexFrame=0,travelFrame=0,travelTarget=null,indexHovered=false;
  countryIndex.addEventListener('pointerenter',()=>indexHovered=true);
  countryIndex.addEventListener('pointerleave',()=>indexHovered=false);
@@ -5544,6 +5598,7 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
    countryLinks.get(activeCountry)?.removeAttribute('aria-current');activeCountry=id;
    const link=countryLinks.get(id);
    jump.options[0].textContent=link?link.textContent+' ↓':'Countries ↓';
+   placeBookmark();
    if(!link)return;link.setAttribute('aria-current','location');
    // Scroll only the index's own container, never its ancestors or the page.
    if(follow&&!indexHovered&&matchMedia('(min-width:1100px)').matches){
