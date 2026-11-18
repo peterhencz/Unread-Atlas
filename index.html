@@ -208,7 +208,22 @@ h2[id^=region]{font-family:var(--atlas-font);font-weight:450;letter-spacing:-1.6
 @media(max-width:650px){.guide-nav{align-items:flex-start;flex-direction:column;gap:10px;padding:16px 0}.guide-options{gap:5px}.guide-options button{font-size:11px;padding:10px;min-height:44px}.guide-panel.editorial{padding:0 16px 8px}.guide-panel-heading{font-size:12px;gap:10px}.guide-close{min-height:44px}.guide-panel .route{padding:18px}}
 @media print{.guide{display:none}}
 .hero-actions a:first-child,.hero-actions a:last-child{font-family:var(--atlas-font)}
-</style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a href="#guide">Guide ↗</a><a href="#region0">The atlas ↗</a></div></div>
+/* Reserve cover geometry before lazy images arrive; keep index selection stable. */
+#atlas-results td.cover{min-height:174px}
+@media(max-width:900px){#atlas-results td.cover{min-height:144px}}
+@media(min-width:1100px){#atlas-results td.cover{min-height:160px}}
+@media(max-width:650px){#atlas-results td.cover{min-height:124px}}
+@media(max-width:350px){#atlas-results td.cover{min-height:106px}}
+.country-index{overflow-anchor:none;scroll-behavior:auto}
+.country-index a{font-weight:500!important;transition:background-color .22s ease,color .22s ease}
+.sticky-home{display:flex;align-items:center;gap:6px;flex-shrink:0;min-height:44px;padding:0 10px 0 0;color:var(--ink);text-decoration:none;font:14px/1 var(--atlas-font)}
+.sticky-home span{font-size:11px}.sticky-home:hover{color:var(--muted)}
+@media(max-width:650px){.masthead-links>a.home-link{display:inline-flex}.masthead-links{gap:10px}.sticky-nav-row{gap:8px}.sticky-home{font-size:21px;padding-right:4px;min-width:32px;justify-content:center}.sticky-home span{display:none}}
+@media(prefers-reduced-motion:reduce){.country-index a{transition:none}}
+.country-index-region{position:sticky;top:-2px;z-index:1;background:var(--paper);padding:14px 10px 8px;font:600 10px/1.5 var(--atlas-font);letter-spacing:.07em;text-transform:uppercase;color:var(--ink);border-bottom:1px solid var(--line);margin-bottom:5px}
+.country-index-region:not(:first-child){margin-top:14px}
+@media(max-width:650px){.masthead{flex-wrap:wrap;gap:16px}.brand{flex-basis:100%;white-space:nowrap}.masthead-links{width:100%;justify-content:space-between;flex-wrap:nowrap;gap:8px}}
+</style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a class="home-link" href="#top">Home ↑</a><a href="#guide">Guide ↗</a><a href="#region0">The atlas ↗</a></div></div>
 <header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread<span>Atlas.</span></h1><div class="hero-bottom"><p class="intro">A world of stories, waiting to be discovered. Explore classics, modern voices and contemporary fiction from every corner of the globe.</p><div class="hero-actions"><a href="#atlas-tools">Explore the atlas ↗</a><a href="#reading-routes">Find your next read</a></div></div></header>
 <div class="stats" aria-label="Atlas in numbers"><div><strong>197</strong>literary destinations</div><div><strong>744</strong>novels &amp; novellas</div><div><strong>456</strong>catalogue covers</div></div>
 <div class="note"><strong>Coverage:</strong> 128 destinations have five selections; 69 have fewer. The guide includes 195 countries, with Taiwan and Kosovo as additional literary destinations. Gaps are listed explicitly. A gap means that further suitable titles need to be identified, not that a country lacks a novel tradition.</div>
@@ -328,7 +343,7 @@ h2[id^=region]{font-family:var(--atlas-font);font-weight:450;letter-spacing:-1.6
 <li><a href="https://www.nyrb.com/products/season-of-migration-to-the-north">Season of Migration to the North — publisher record</a></li>
 <li><a href="https://www.penguinrandomhouse.com/books/653303/independent-people-by-halldor-laxness-introduction-by-john-freeman/">Independent People — publisher record</a></li>
 </ul></div></section></div>
-<div class="atlas-layout"><aside class="country-sidebar" aria-label="Country index"><div class="sidebar-heading">The atlas <span>197 destinations</span></div><nav class="country-index" aria-label="Browse countries"></nav></aside><div class="atlas-content"><div class="atlas-tools" id="atlas-tools"><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Countries ↓</option></select></label></div><div class="sticky-nav-row"><nav aria-label="Browse regions">
+<div class="atlas-layout"><aside class="country-sidebar" aria-label="Country index"><div class="sidebar-heading">The atlas <span>197 destinations</span></div><nav class="country-index" aria-label="Browse countries"></nav></aside><div class="atlas-content"><div class="atlas-tools" id="atlas-tools"><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Countries ↓</option></select></label></div><div class="sticky-nav-row"><a class="sticky-home" href="#top" aria-label="Home — back to top">⌂<span>Home</span></a><nav aria-label="Browse regions">
 <a href="#region0">Europe</a>
 <a href="#region1">Asia</a>
 <a href="#region2">Africa</a>
@@ -5414,30 +5429,78 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
  const sorted=[...jump.options].slice(1).sort((a,b)=>a.textContent.localeCompare(b.textContent));sorted.forEach(option=>jump.append(option));
  const countryIndex=document.querySelector('.country-index');
  const countryLinks=new Map();
- sorted.forEach(option=>{
+ let activeCountry='',indexFrame=0,travelFrame=0,travelTarget=null,indexHovered=false;
+ countryIndex.addEventListener('pointerenter',()=>indexHovered=true);
+ countryIndex.addEventListener('pointerleave',()=>indexHovered=false);
+ function markCountry(id,follow=false){
+   if(id===activeCountry)return;
+   countryLinks.get(activeCountry)?.removeAttribute('aria-current');activeCountry=id;
+   const link=countryLinks.get(id);
+   jump.options[0].textContent=link?link.textContent+' ↓':'Countries ↓';
+   if(!link)return;link.setAttribute('aria-current','location');
+   // Scroll only the index's own container, never its ancestors or the page.
+   if(follow&&!indexHovered&&matchMedia('(min-width:1100px)').matches){
+     const box=link.getBoundingClientRect(),list=countryIndex.getBoundingClientRect();
+     if(box.top<list.top+48||box.bottom>list.bottom-8){
+       countryIndex.scrollTo({top:countryIndex.scrollTop+box.top-list.top-(list.height-box.height)/2,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
+     }
+   }
+ }
+ function cancelTravel(){
+   if(travelFrame)cancelAnimationFrame(travelFrame);
+   travelFrame=0;travelTarget=null;scheduleIndex();
+ }
+ function travelTo(target){
+   cancelTravel();travelTarget=target;
+   const from=window.scrollY;
+   const destination=()=>target.id==='top'?0:Math.max(0,window.scrollY+target.getBoundingClientRect().top-atlasBar.offsetHeight-24);
+   const duration=matchMedia('(prefers-reduced-motion: reduce)').matches?0:Math.min(1100,420+Math.abs(destination()-from)*.025);
+   const started=performance.now();
+   markCountry(target.id==='top'?'':target.id,true);
+   function step(now){
+     const progress=duration?Math.min(1,(now-started)/duration):1;
+     const eased=progress<.5?4*progress**3:1-(-2*progress+2)**3/2;
+     window.scrollTo({top:from+(destination()-from)*eased,behavior:'instant'});
+     if(progress<1)travelFrame=requestAnimationFrame(step);
+     else{travelFrame=0;travelTarget=null;scheduleIndex()}
+   }
+   travelFrame=requestAnimationFrame(step);
+ }
+ const sidebarRegions=['Europe','Asia','Africa','The Americas','Oceania'];
+ const countryRegion=new Map();let regionIndex=-1;
+ for(const child of document.getElementById('atlas-results').children){
+   if(child.tagName==='H2')regionIndex++;
+   else if(child.tagName==='SECTION')countryRegion.set(child.id,regionIndex);
+ }
+ countryRegion.set('country-195',0); // Kosovo is listed in the European index.
+ countryRegion.set('country-196',1); // Taiwan is listed in the Asian index.
+ const indexOptions=[...sorted].sort((a,b)=>countryRegion.get(a.value)-countryRegion.get(b.value)||a.textContent.localeCompare(b.textContent));
+ let lastRegion=-1;
+ indexOptions.forEach(option=>{
+   const group=countryRegion.get(option.value);
+   if(group!==lastRegion){const label=document.createElement('div');label.className='country-index-region';label.textContent=sidebarRegions[group];label.setAttribute('role','heading');label.setAttribute('aria-level','3');countryIndex.append(label);lastRegion=group}
    const link=document.createElement('a');link.href='#'+option.value;link.textContent=option.textContent;
    link.addEventListener('click',event=>{
      event.preventDefault();search.value='';filter();
-     const target=document.getElementById(option.value),heading=target.querySelector('h3');
-     target.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
-     heading.setAttribute('tabindex','-1');heading.focus({preventScroll:true});
+     travelTo(document.getElementById(option.value));
      history.replaceState(null,'','#'+option.value);
    });
    countryIndex.append(link);countryLinks.set(option.value,link);
  });
- let activeCountry='',indexFrame=0;
  function updateCountryIndex(){
-   indexFrame=0;
-   const edge=atlasBar.getBoundingClientRect().bottom+100;
+   indexFrame=0;if(travelTarget)return;
+   const edge=atlasBar.offsetHeight+36;
    let current=null;
    for(const item of sections){if(item.element.hidden)continue;if(item.element.getBoundingClientRect().top<=edge)current=item;else break}
-   const id=current?.element.id||'';if(id===activeCountry)return;
-   countryLinks.get(activeCountry)?.removeAttribute('aria-current');activeCountry=id;
-   jump.options[0].textContent=id?countryLinks.get(id).textContent+' ↓':'Countries ↓';
-   const link=countryLinks.get(id);if(!link)return;link.setAttribute('aria-current','location');
+   markCountry(current?.element.id||'',true);
  }
  const scheduleIndex=()=>{if(!indexFrame)indexFrame=requestAnimationFrame(updateCountryIndex)};
  addEventListener('scroll',scheduleIndex,{passive:true});addEventListener('resize',scheduleIndex);
+ // A manual gesture takes over immediately from a navigation animation.
+ addEventListener('wheel',event=>{if(!countryIndex.contains(event.target))cancelTravel()},{passive:true});
+ addEventListener('touchstart',cancelTravel,{passive:true});
+ addEventListener('keydown',event=>{if(['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(event.key)&&!event.target.matches('input,select,textarea'))cancelTravel()});
+ document.querySelectorAll('a[href="#top"]').forEach(link=>link.addEventListener('click',event=>{event.preventDefault();travelTo(document.getElementById('top'));history.replaceState(null,'','#top')}));
  const regions=[...document.querySelectorAll('#atlas-results > h2')].map(heading=>{let next=heading.nextElementSibling,group=[];while(next&&next.tagName!=='H2'){if(next.tagName==='SECTION')group.push(next);next=next.nextElementSibling}return {heading,group}});
  function filter(){
   const query=normalize(search.value),terms=query.split(' ').filter(Boolean);let countries=0,books=0;
@@ -5463,7 +5526,7 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
  if(['#reading-routes','#sources','#field-notes'].includes(location.hash))openGuidePanel(location.hash.slice(1));
  search.addEventListener('input',filter);
  document.getElementById('clear-search').addEventListener('click',()=>{search.value='';filter();search.focus()});
- jump.addEventListener('change',()=>{if(!jump.value)return;search.value='';filter();const target=document.getElementById(jump.value);target.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});target.querySelector('h3').setAttribute('tabindex','-1');target.querySelector('h3').focus({preventScroll:true});jump.value=''});
+ jump.addEventListener('change',()=>{if(!jump.value)return;const id=jump.value;search.value='';filter();jump.value='';travelTo(document.getElementById(id));history.replaceState(null,'','#'+id)});
  filter();
 })();
 </script></html>
