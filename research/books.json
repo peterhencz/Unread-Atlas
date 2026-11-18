@@ -7613,5 +7613,103 @@
       "https://www.goodreads.com/book/show/411314"
     ],
     "audit": "research/empty-country-additions.json"
+  },
+  {
+    "country": "Vatican City",
+    "title": "Hope",
+    "author": "Pope Francis with Carlo Musso",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "kind": "nonfiction",
+    "work": [
+      "https://www.penguinrandomhouse.com/books/786139/hope-by-pope-francis/9780593978771/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/223697797"
+    ],
+    "audit": "research/nonfiction-additions.json"
+  },
+  {
+    "country": "Kiribati",
+    "title": "The Sex Lives of Cannibals",
+    "author": "J. Maarten Troost",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "kind": "nonfiction",
+    "work": [
+      "https://www.penguinrandomhouse.com/books/180474/the-sex-lives-of-cannibals-by-j-maarten-troost/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/11078"
+    ],
+    "audit": "research/nonfiction-additions.json"
+  },
+  {
+    "country": "Kiribati",
+    "title": "Kiribati: Aspects of History",
+    "author": "Alaima Talu et al.",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "kind": "nonfiction",
+    "work": [
+      "https://books.google.com/books/about/Kiribati.html?id=LWiyAAAAIAAJ"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/28474670"
+    ],
+    "audit": "research/nonfiction-additions.json"
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "title": "The Book of Luelen",
+    "author": "Luelen Bernart",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "kind": "nonfiction",
+    "work": [
+      "https://openlibrary.org/books/OL22339289M"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/1200540"
+    ],
+    "audit": "research/nonfiction-additions.json"
+  },
+  {
+    "country": "Nauru",
+    "title": "Paradise for Sale: A Parable of Nature",
+    "author": "Carl N. McDaniel and John M. Gowdy",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "kind": "nonfiction",
+    "work": [
+      "https://www.ucpress.edu/books/paradise-for-sale/paper"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/296601"
+    ],
+    "audit": "research/nonfiction-additions.json"
+  },
+  {
+    "country": "Palau",
+    "title": "Vanished",
+    "author": "Wil S. Hylton",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "kind": "nonfiction",
+    "work": [
+      "https://www.penguinrandomhouse.com/books/304861/vanished-by-wil-s-hylton/"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/17707499"
+    ],
+    "audit": "research/nonfiction-additions.json"
+  },
+  {
+    "country": "Tuvalu",
+    "title": "Tuvalu: A History",
+    "author": "Simati Faaniu et al. · edited by Hugh Laracy",
+    "meta": "<span class=\"book-kind\">Nonfiction</span>",
+    "kind": "nonfiction",
+    "work": [
+      "https://books.google.com/books?id=6Jk5zERqlKgC"
+    ],
+    "goodreads": [
+      "https://www.goodreads.com/book/show/29539661"
+    ],
+    "audit": "research/nonfiction-additions.json"
   }
 ]

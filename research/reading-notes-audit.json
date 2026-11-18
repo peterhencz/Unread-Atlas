@@ -9587,6 +9587,104 @@
       "source": "https://uhpress.hawaii.edu/title/melal-a-novel-of-the-pacific/",
       "source_type": "Manually reviewed book reference",
       "method": "Short original paraphrase of linked book reference; country connection and edition evidence in empty-country-additions.json."
+    },
+    {
+      "title": "Hope",
+      "author": "Pope Francis with Carlo Musso",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Memoir",
+        "Faith"
+      ],
+      "source": "https://www.penguinrandomhouse.com/books/786139/hope-by-pope-francis/9780593978771/",
+      "source_type": "Publisher or catalogue reference",
+      "method": "Manually checked nonfiction reference; short original paraphrase. Country connection and edition evidence in nonfiction-additions.json."
+    },
+    {
+      "title": "The Sex Lives of Cannibals",
+      "author": "J. Maarten Troost",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Travel memoir",
+        "Island life"
+      ],
+      "source": "https://www.penguinrandomhouse.com/books/180474/the-sex-lives-of-cannibals-by-j-maarten-troost/",
+      "source_type": "Publisher or catalogue reference",
+      "method": "Manually checked nonfiction reference; short original paraphrase. Country connection and edition evidence in nonfiction-additions.json."
+    },
+    {
+      "title": "Kiribati: Aspects of History",
+      "author": "Alaima Talu et al.",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "History",
+        "Local perspectives"
+      ],
+      "source": "https://books.google.com/books/about/Kiribati.html?id=LWiyAAAAIAAJ",
+      "source_type": "Publisher or catalogue reference",
+      "method": "Manually checked nonfiction reference; short original paraphrase. Country connection and edition evidence in nonfiction-additions.json."
+    },
+    {
+      "title": "The Book of Luelen",
+      "author": "Luelen Bernart",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Oral history",
+        "Tradition"
+      ],
+      "source": "https://books.google.com/books/about/The_Book_of_Luelen.html?id=E6McAAAAMAAJ",
+      "source_type": "Publisher or catalogue reference",
+      "method": "Manually checked nonfiction reference; short original paraphrase. Country connection and edition evidence in nonfiction-additions.json."
+    },
+    {
+      "title": "Paradise for Sale: A Parable of Nature",
+      "author": "Carl N. McDaniel and John M. Gowdy",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Environment",
+        "Economic history"
+      ],
+      "source": "https://www.ucpress.edu/books/paradise-for-sale/paper",
+      "source_type": "Publisher or catalogue reference",
+      "method": "Manually checked nonfiction reference; short original paraphrase. Country connection and edition evidence in nonfiction-additions.json."
+    },
+    {
+      "title": "Vanished",
+      "author": "Wil S. Hylton",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "Investigative history",
+        "War & memory"
+      ],
+      "source": "https://www.penguinrandomhouse.com/books/304861/vanished-by-wil-s-hylton/",
+      "source_type": "Publisher or catalogue reference",
+      "method": "Manually checked nonfiction reference; short original paraphrase. Country connection and edition evidence in nonfiction-additions.json."
+    },
+    {
+      "title": "Tuvalu: A History",
+      "author": "Simati Faaniu et al. · edited by Hugh Laracy",
+      "checked_at": "2026-11-18",
+      "status": "source_based_thematic_note",
+      "note_type": "short_source_paraphrase",
+      "tags": [
+        "History",
+        "Island traditions"
+      ],
+      "source": "https://books.google.com/books?id=6Jk5zERqlKgC",
+      "source_type": "Publisher or catalogue reference",
+      "method": "Manually checked nonfiction reference; short original paraphrase. Country connection and edition evidence in nonfiction-additions.json."
     }
   ]
 }

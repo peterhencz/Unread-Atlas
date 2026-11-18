@@ -51,7 +51,7 @@ def apply():
     seen = set()
     def section(match):
         block = match[0]
-        heading = re.search(r'<h3>(.*?)<span class="count">', block)
+        heading = re.search(r'<h3>([^<]+)(?:<span class="count">|</h3>)', block)
         if not heading:
             return block
         country = html.unescape(heading[1])
@@ -67,11 +67,10 @@ def apply():
                 context = '<p class="pick country-connection">'+esc(book['country_connection'])+' '+link(book['country_connection_source'], 'Author connection ↗')+'</p>\n'
             n = len(entries)
             rows = '\n'.join(render_book(entry) for entry in entries)
-            return f'''<section><h3>{esc(country)}<span class="count">{n}/5 selections</span></h3>
+            return f'''<section><h3>{esc(country)}</h3>
 {context}<table><thead><tr><th class="cover">Cover</th><th>Book and links</th><th>Themes and reading notes</th></tr></thead><tbody>
 {rows}
 </tbody></table>
-<p class="gap">Open selection: {5-n} additional suitable novels still need to be identified.</p>
 </section>'''
         if country in unresolved:
             block = re.sub(r'<p class="gap">.*?</p>', '<p class="gap">No suitable novel or novella verified in the latest review. This is a research gap, not a claim that none exists. <a href="sources.html#country-review">Research notes ↗</a></p>', block, flags=re.S)

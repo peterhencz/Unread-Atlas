@@ -1,0 +1,771 @@
+{
+  "checked_at": "2026-11-18",
+  "scope": "Nonfiction follow-up for the six destinations still empty after the novel-only review.",
+  "method": "User-authorized nonfiction expansion. Specific country subject matter or lived experience is accepted and displayed explicitly, even for external authors. Publisher, institutional or catalogue references verify identity, form and edition dates. Short notes are original source-based paraphrases, not claims of having reviewed every book.",
+  "entries": [
+    {
+      "country": "Vatican City",
+      "title": "Hope",
+      "author": "Pope Francis with Carlo Musso",
+      "year": 2025,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.penguinrandomhouse.com/books/786139/hope-by-pope-francis/9780593978771/",
+      "note_source": "https://www.penguinrandomhouse.com/books/786139/hope-by-pope-francis/9780593978771/",
+      "note": "A personal account of family, vocation and life as pope.",
+      "tags": [
+        "Memoir",
+        "Faith"
+      ],
+      "country_connection": "Written by Pope Francis with Carlo Musso; included through Francis’s papacy and life in the Vatican.",
+      "goodreads": "https://www.goodreads.com/book/show/223697797",
+      "isbn": "9780593978771",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780593978771&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL59137918M/Hope",
+            "key": "/books/OL59137918M",
+            "title": "Hope",
+            "subtitle": "The Autobiography",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL4136048A/Pope_Francis",
+                "name": "Pope Francis"
+              },
+              {
+                "url": "http://openlibrary.org/authors/OL6915159A/Carlo_Musso",
+                "name": "Carlo Musso"
+              }
+            ],
+            "number_of_pages": 320,
+            "identifiers": {
+              "isbn_10": [
+                "0593978773"
+              ],
+              "isbn_13": [
+                "9780593978771"
+              ],
+              "openlibrary": [
+                "OL59137918M"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Random House"
+              }
+            ],
+            "publish_date": "January 14, 2025",
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/15134206-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/15134206-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/15134206-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/15134206-L.jpg",
+        "source": "http://openlibrary.org/books/OL59137918M/Hope",
+        "provider": "Open Library, matching title, authors and publisher ISBN"
+      },
+      "cover": {
+        "path": "assets/covers/country-d4b436cb2608eb.jpg",
+        "width": 334,
+        "height": 500,
+        "url": "https://covers.openlibrary.org/b/id/15134206-L.jpg",
+        "source": "http://openlibrary.org/books/OL59137918M/Hope"
+      }
+    },
+    {
+      "country": "Kiribati",
+      "title": "The Sex Lives of Cannibals",
+      "author": "J. Maarten Troost",
+      "year": 2004,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.penguinrandomhouse.com/books/180474/the-sex-lives-of-cannibals-by-j-maarten-troost/",
+      "note_source": "https://www.penguinrandomhouse.com/books/180474/the-sex-lives-of-cannibals-by-j-maarten-troost/",
+      "note": "A humorous outsider’s memoir of two years living on Tarawa.",
+      "tags": [
+        "Travel memoir",
+        "Island life"
+      ],
+      "country_connection": "Troost lived on Tarawa for two years. This is an expatriate perspective, not an I-Kiribati voice.",
+      "goodreads": "https://www.goodreads.com/book/show/11078",
+      "isbn": "9780767915304",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780767915304&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL3301647M/The_sex_lives_of_cannibals",
+            "key": "/books/OL3301647M",
+            "title": "The sex lives of cannibals",
+            "subtitle": "adrift in the Equatorial Pacific",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL1392161A/J._Maarten_Troost",
+                "name": "J. Maarten Troost"
+              }
+            ],
+            "number_of_pages": 272,
+            "pagination": "xiii, 272, [1] p. ;",
+            "by_statement": "J. Maarten Troost.",
+            "identifiers": {
+              "librarything": [
+                "154198"
+              ],
+              "goodreads": [
+                "11077"
+              ],
+              "isbn_10": [
+                "0767915305"
+              ],
+              "lccn": [
+                "2004040768"
+              ],
+              "oclc": [
+                "54103720"
+              ],
+              "openlibrary": [
+                "OL3301647M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "GN671.K57 T76 2004",
+                "GN671.K57T76 2004"
+              ],
+              "dewey_decimal_class": [
+                "306/.099681"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Broadway Books"
+              },
+              {
+                "name": "Broadway"
+              }
+            ],
+            "publish_places": [
+              {
+                "name": "New York"
+              }
+            ],
+            "publish_date": "2004",
+            "subjects": [
+              {
+                "name": "Social life and customs",
+                "url": "https://openlibrary.org/subjects/social_life_and_customs"
+              },
+              {
+                "name": "Ethnology",
+                "url": "https://openlibrary.org/subjects/ethnology"
+              },
+              {
+                "name": "Humor",
+                "url": "https://openlibrary.org/subjects/humor"
+              },
+              {
+                "name": "Description and travel",
+                "url": "https://openlibrary.org/subjects/description_and_travel"
+              },
+              {
+                "name": "Travel",
+                "url": "https://openlibrary.org/subjects/travel"
+              },
+              {
+                "name": "Nonfiction",
+                "url": "https://openlibrary.org/subjects/nonfiction"
+              },
+              {
+                "name": "Humor (Nonfiction)",
+                "url": "https://openlibrary.org/subjects/humor_(nonfiction)"
+              },
+              {
+                "name": "Ethnology, micronesia",
+                "url": "https://openlibrary.org/subjects/ethnology,_micronesia"
+              },
+              {
+                "name": "Kiribati",
+                "url": "https://openlibrary.org/subjects/kiribati"
+              },
+              {
+                "name": "Oceania, description and travel",
+                "url": "https://openlibrary.org/subjects/oceania,_description_and_travel"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Tarawa Atoll (Kiribati)",
+                "url": "https://openlibrary.org/subjects/place:tarawa_atoll_(kiribati)"
+              },
+              {
+                "name": "Tarawa Atoll",
+                "url": "https://openlibrary.org/subjects/place:tarawa_atoll"
+              },
+              {
+                "name": "Kiribati",
+                "url": "https://openlibrary.org/subjects/place:kiribati"
+              }
+            ],
+            "notes": "Includes bibliographical references (p. [273]).",
+            "ebooks": [
+              {
+                "preview_url": "https://archive.org/details/sexlivesofcannib00troo",
+                "availability": "restricted",
+                "formats": {}
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/528299-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/528299-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/528299-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/528299-L.jpg",
+        "source": "http://openlibrary.org/books/OL3301647M/The_sex_lives_of_cannibals",
+        "provider": "Open Library, matching title, authors and publisher ISBN"
+      },
+      "cover": {
+        "path": "assets/covers/country-ca8273ff0fa865.jpg",
+        "width": 308,
+        "height": 475,
+        "url": "https://covers.openlibrary.org/b/id/528299-L.jpg",
+        "source": "http://openlibrary.org/books/OL3301647M/The_sex_lives_of_cannibals"
+      }
+    },
+    {
+      "country": "Kiribati",
+      "title": "Kiribati: Aspects of History",
+      "author": "Alaima Talu et al.",
+      "year": 1979,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://books.google.com/books/about/Kiribati.html?id=LWiyAAAAIAAJ",
+      "note_source": "https://books.google.com/books/about/Kiribati.html?id=LWiyAAAAIAAJ",
+      "note": "A collective account of Kiribati’s history, culture and traditional society.",
+      "tags": [
+        "History",
+        "Local perspectives"
+      ],
+      "country_connection": "Prepared with I-Kiribati contributors and the Kiribati Ministry of Education; offers a counterpoint to outsider travel writing.",
+      "goodreads": "https://www.goodreads.com/book/show/28474670",
+      "isbn": null,
+      "additional_sources": [
+        "https://archive.unesco-ichcap.org/eng/ek/sub1/pdf_file/pacific/2015Kiribati/Annex%202%20ICH%20Background%20in%20Kiribati.pdf",
+        "https://kiribati.gov.ki/know-kiribati/history"
+      ],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/search.json?title=Kiribati%3A+Aspects+of+History&author=Alaima+Talu+et+al.&limit=3&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cedition_key",
+        "candidates": []
+      },
+      "additional_catalogue_attempt": {
+        "url": "https://openlibrary.org/search.json?title=Kiribati%3A+Aspects+of+History&author=Alaima+Talu&limit=3&fields=key%2Ctitle%2Cauthor_name%2Ccover_i",
+        "candidates": []
+      },
+      "country_connection_source": "https://archive.unesco-ichcap.org/eng/ek/sub1/pdf_file/pacific/2015Kiribati/Annex%202%20ICH%20Background%20in%20Kiribati.pdf"
+    },
+    {
+      "country": "Federated States of Micronesia",
+      "title": "The Book of Luelen",
+      "author": "Luelen Bernart",
+      "year": 1977,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://openlibrary.org/books/OL22339289M",
+      "note_source": "https://books.google.com/books/about/The_Book_of_Luelen.html?id=E6McAAAAMAAJ",
+      "note": "A Pohnpeian writer records ancestral narratives, legends and historical memory.",
+      "tags": [
+        "Oral history",
+        "Tradition"
+      ],
+      "country_connection": "Written by a Pohnpeian author; concerns Pohnpei within today’s Federated States of Micronesia, rather than the whole Micronesian region.",
+      "goodreads": "https://www.goodreads.com/book/show/1200540",
+      "isbn": "9780824805326",
+      "additional_sources": [
+        "https://books.google.com/books/about/The_Book_of_Luelen.html?id=E6McAAAAMAAJ",
+        "https://openresearch-repository.anu.edu.au/items/51e32105-9663-48b8-a17b-98cb599b8daa"
+      ],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "contributors": "Translated and edited by John L. Fischer, Saul H. Riesenberg and Marjorie G. Whiting.",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780824805326&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL4904231M/The_book_of_Luelen",
+            "key": "/books/OL4904231M",
+            "title": "The book of Luelen",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL1915299A/Luelen_Bernart",
+                "name": "Luelen Bernart"
+              }
+            ],
+            "number_of_pages": 193,
+            "pagination": "xxx, 193 p., 8 [i.e.] leaves of plates :",
+            "by_statement": "Luelen Bernart ; translated and edited by John L. Fischer, Saul H. Riesenberg, and Marjorie G. Whiting.",
+            "identifiers": {
+              "goodreads": [
+                "1200540"
+              ],
+              "doi": [
+                "10.1604/9780824805326"
+              ],
+              "isbn_10": [
+                "0824805321"
+              ],
+              "lccn": [
+                "76050497"
+              ],
+              "oclc": [
+                "3671145"
+              ],
+              "openlibrary": [
+                "OL4904231M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "DU568.P7 B4713 1977"
+              ],
+              "dewey_decimal_class": [
+                "996/.6"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "University Press of Hawaii"
+              }
+            ],
+            "publish_places": [
+              {
+                "name": "Honolulu"
+              }
+            ],
+            "publish_date": "1977",
+            "subjects": [
+              {
+                "name": "History",
+                "url": "https://openlibrary.org/subjects/history"
+              },
+              {
+                "name": "Legends",
+                "url": "https://openlibrary.org/subjects/legends"
+              },
+              {
+                "name": "Caroline islands",
+                "url": "https://openlibrary.org/subjects/caroline_islands"
+              }
+            ],
+            "subject_places": [
+              {
+                "name": "Micronesia (Federated States)",
+                "url": "https://openlibrary.org/subjects/place:micronesia_(federated_states)"
+              },
+              {
+                "name": "Pohnpei Island",
+                "url": "https://openlibrary.org/subjects/place:pohnpei_island"
+              },
+              {
+                "name": "Pohnpei Island (Micronesia)",
+                "url": "https://openlibrary.org/subjects/place:pohnpei_island_(micronesia)"
+              },
+              {
+                "name": "Ponape Island",
+                "url": "https://openlibrary.org/subjects/place:ponape_island"
+              }
+            ],
+            "notes": "Bibliography: p. 191-193."
+          }
+        ]
+      }
+    },
+    {
+      "country": "Nauru",
+      "title": "Paradise for Sale: A Parable of Nature",
+      "author": "Carl N. McDaniel and John M. Gowdy",
+      "year": 2000,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.ucpress.edu/books/paradise-for-sale/paper",
+      "note_source": "https://www.ucpress.edu/books/paradise-for-sale/paper",
+      "note": "Nauru’s phosphate economy becomes a case study in ecological loss and economic choices.",
+      "tags": [
+        "Environment",
+        "Economic history"
+      ],
+      "country_connection": "An externally authored study focused on Nauru’s history and phosphate extraction; not a claim of Nauruan authorship.",
+      "goodreads": "https://www.goodreads.com/book/show/296601",
+      "isbn": "9780520222298",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9780520222298&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL7710833M/Paradise_for_Sale",
+            "key": "/books/OL7710833M",
+            "title": "Paradise for Sale",
+            "subtitle": "A Parable of Nature",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL2758859A/Carl_N._McDaniel",
+                "name": "Carl N. McDaniel"
+              },
+              {
+                "url": "http://openlibrary.org/authors/OL577840A/John_M._Gowdy",
+                "name": "John M. Gowdy"
+              }
+            ],
+            "number_of_pages": 239,
+            "weight": "10.4 ounces",
+            "identifiers": {
+              "librarything": [
+                "2602954"
+              ],
+              "goodreads": [
+                "296601"
+              ],
+              "isbn_10": [
+                "0520222296"
+              ],
+              "isbn_13": [
+                "9780520222298"
+              ],
+              "lccn": [
+                "99012829",
+                "2021697111"
+              ],
+              "oclc": [
+                "45731043",
+                "40776718"
+              ],
+              "openlibrary": [
+                "OL7710833M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "HC682.25.Z9 M33 2000",
+                "HC682.25.Z9 M33 2000eb",
+                "HC 682.25 Z9 M33 2000"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "University of California Press"
+              }
+            ],
+            "publish_date": "January 28, 2000",
+            "subjects": [
+              {
+                "name": "Sustainable development",
+                "url": "https://openlibrary.org/subjects/sustainable_development"
+              },
+              {
+                "name": "Environmental Economics",
+                "url": "https://openlibrary.org/subjects/environmental_economics"
+              },
+              {
+                "name": "Economische ontwikkeling",
+                "url": "https://openlibrary.org/subjects/economische_ontwikkeling"
+              },
+              {
+                "name": "Green Business",
+                "url": "https://openlibrary.org/subjects/green_business"
+              },
+              {
+                "name": "Natural Resources",
+                "url": "https://openlibrary.org/subjects/natural_resources"
+              },
+              {
+                "name": "Environmental Conservation & Protection",
+                "url": "https://openlibrary.org/subjects/environmental_conservation_&_protection"
+              },
+              {
+                "name": "BUSINESS & ECONOMICS",
+                "url": "https://openlibrary.org/subjects/business_&_economics"
+              },
+              {
+                "name": "Milieuaantasting",
+                "url": "https://openlibrary.org/subjects/milieuaantasting"
+              },
+              {
+                "name": "NATURE",
+                "url": "https://openlibrary.org/subjects/nature"
+              },
+              {
+                "name": "Economic History",
+                "url": "https://openlibrary.org/subjects/economic_history"
+              },
+              {
+                "name": "Développement durable",
+                "url": "https://openlibrary.org/subjects/développement_durable"
+              },
+              {
+                "name": "Économie de l'environnement",
+                "url": "https://openlibrary.org/subjects/économie_de_l'environnement"
+              },
+              {
+                "name": "Phosphate mines and mining",
+                "url": "https://openlibrary.org/subjects/phosphate_mines_and_mining"
+              },
+              {
+                "name": "History",
+                "url": "https://openlibrary.org/subjects/history"
+              },
+              {
+                "name": "Economic conditions",
+                "url": "https://openlibrary.org/subjects/economic_conditions"
+              }
+            ],
+            "excerpts": [
+              {
+                "text": "MILLIONS OF YEARS AGO an isolated volcanic mountain began to push toward the water's surface in the central Pacific.",
+                "comment": "",
+                "first_sentence": true
+              }
+            ],
+            "ebooks": [
+              {
+                "preview_url": "https://archive.org/details/paradiseforsalep0000mcda",
+                "availability": "restricted",
+                "formats": {}
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/1266167-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/1266167-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/1266167-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/1266167-L.jpg",
+        "source": "http://openlibrary.org/books/OL7710833M/Paradise_for_Sale",
+        "provider": "Open Library, matching title, authors and publisher ISBN"
+      },
+      "cover": {
+        "path": "assets/covers/country-30d9379bf9a458.jpg",
+        "width": 318,
+        "height": 475,
+        "url": "https://covers.openlibrary.org/b/id/1266167-L.jpg",
+        "source": "http://openlibrary.org/books/OL7710833M/Paradise_for_Sale"
+      }
+    },
+    {
+      "country": "Palau",
+      "title": "Vanished",
+      "author": "Wil S. Hylton",
+      "year": 2014,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://www.penguinrandomhouse.com/books/304861/vanished-by-wil-s-hylton/",
+      "note_source": "https://www.penguinrandomhouse.com/books/304861/vanished-by-wil-s-hylton/",
+      "note": "An investigation follows the search for an American bomber crew lost over Palau.",
+      "tags": [
+        "Investigative history",
+        "War & memory"
+      ],
+      "country_connection": "An American journalist’s investigation centred on Palau and a missing Second World War crew; an external perspective.",
+      "goodreads": "https://www.goodreads.com/book/show/17707499",
+      "isbn": "9781594632860",
+      "additional_sources": [],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/api/books?bibkeys=ISBN%3A9781594632860&format=json&jscmd=data",
+        "candidates": [
+          {
+            "url": "http://openlibrary.org/books/OL27103915M/Vanished",
+            "key": "/books/OL27103915M",
+            "title": "Vanished",
+            "authors": [
+              {
+                "url": "http://openlibrary.org/authors/OL7593718A/Wil_S._Hylton",
+                "name": "Wil S. Hylton"
+              }
+            ],
+            "identifiers": {
+              "isbn_13": [
+                "9781594632860"
+              ],
+              "openlibrary": [
+                "OL27103915M"
+              ]
+            },
+            "classifications": {
+              "lc_classifications": [
+                "D810.S45"
+              ]
+            },
+            "publishers": [
+              {
+                "name": "Penguin Group"
+              }
+            ],
+            "publish_date": "2013",
+            "subjects": [
+              {
+                "name": "World war, 1939-1945, aerial operations, american",
+                "url": "https://openlibrary.org/subjects/world_war,_1939-1945,_aerial_operations,_american"
+              },
+              {
+                "name": "World war, 1939-1945, campaigns, palau",
+                "url": "https://openlibrary.org/subjects/world_war,_1939-1945,_campaigns,_palau"
+              },
+              {
+                "name": "Aircraft accidents",
+                "url": "https://openlibrary.org/subjects/aircraft_accidents"
+              },
+              {
+                "name": "Soldiers",
+                "url": "https://openlibrary.org/subjects/soldiers"
+              },
+              {
+                "name": "Missing in action",
+                "url": "https://openlibrary.org/subjects/missing_in_action"
+              },
+              {
+                "name": "American",
+                "url": "https://openlibrary.org/subjects/american"
+              },
+              {
+                "name": "Investigation",
+                "url": "https://openlibrary.org/subjects/investigation"
+              },
+              {
+                "name": "Aerial operations",
+                "url": "https://openlibrary.org/subjects/aerial_operations"
+              },
+              {
+                "name": "World War, 1939-1945",
+                "url": "https://openlibrary.org/subjects/world_war,_1939-1945"
+              },
+              {
+                "name": "Military",
+                "url": "https://openlibrary.org/subjects/military"
+              },
+              {
+                "name": "Aerial Military operations",
+                "url": "https://openlibrary.org/subjects/aerial_military_operations"
+              },
+              {
+                "name": "Military campaigns",
+                "url": "https://openlibrary.org/subjects/military_campaigns"
+              },
+              {
+                "name": "HISTORY",
+                "url": "https://openlibrary.org/subjects/history"
+              },
+              {
+                "name": "World War II",
+                "url": "https://openlibrary.org/subjects/world_war_ii"
+              },
+              {
+                "name": "Airmen",
+                "url": "https://openlibrary.org/subjects/airmen"
+              },
+              {
+                "name": "General",
+                "url": "https://openlibrary.org/subjects/general"
+              },
+              {
+                "name": "Campaigns",
+                "url": "https://openlibrary.org/subjects/campaigns"
+              },
+              {
+                "name": "American Aerial operations",
+                "url": "https://openlibrary.org/subjects/american_aerial_operations"
+              },
+              {
+                "name": "Biography",
+                "url": "https://openlibrary.org/subjects/biography"
+              }
+            ],
+            "ebooks": [
+              {
+                "preview_url": "https://archive.org/details/vanishedsixtyyea0000hylta",
+                "availability": "restricted",
+                "formats": {}
+              }
+            ],
+            "cover": {
+              "small": "https://covers.openlibrary.org/b/id/8741154-S.jpg",
+              "medium": "https://covers.openlibrary.org/b/id/8741154-M.jpg",
+              "large": "https://covers.openlibrary.org/b/id/8741154-L.jpg"
+            }
+          }
+        ]
+      },
+      "cover_candidate": {
+        "url": "https://covers.openlibrary.org/b/id/8741154-L.jpg",
+        "source": "http://openlibrary.org/books/OL27103915M/Vanished",
+        "provider": "Open Library, matching title, authors and publisher ISBN"
+      },
+      "cover": {
+        "path": "assets/covers/country-c49996d5658284.jpg",
+        "width": 333,
+        "height": 499,
+        "url": "https://covers.openlibrary.org/b/id/8741154-L.jpg",
+        "source": "http://openlibrary.org/books/OL27103915M/Vanished"
+      }
+    },
+    {
+      "country": "Tuvalu",
+      "title": "Tuvalu: A History",
+      "author": "Simati Faaniu et al. · edited by Hugh Laracy",
+      "year": 1983,
+      "date_kind": "Edition",
+      "kind": "nonfiction",
+      "record_source": "https://books.google.com/books?id=6Jk5zERqlKgC",
+      "note_source": "https://books.google.com/books?id=6Jk5zERqlKgC",
+      "note": "Tuvaluan contributors explore island traditions, colonial rule and the road to independence.",
+      "tags": [
+        "History",
+        "Island traditions"
+      ],
+      "country_connection": "A collective history written by Tuvaluan contributors with editorial support from Hugh Laracy.",
+      "goodreads": "https://www.goodreads.com/book/show/29539661",
+      "isbn": null,
+      "additional_sources": [
+        "https://www.persee.fr/doc/jso_0300-953x_1985_num_41_81_3177_t1_0281_0000_1",
+        "https://repository.usp.ac.fj/id/eprint/8466/1/Huntsman.PDF"
+      ],
+      "checked_at": "2026-11-18",
+      "note_type": "short_source_paraphrase",
+      "language": "English",
+      "catalogue_attempt": {
+        "url": "https://openlibrary.org/search.json?title=Tuvalu%3A+A+History&author=Simati+Faaniu+et+al.+%C2%B7+edited+by+Hugh+Laracy&limit=3&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Cedition_key",
+        "candidates": []
+      },
+      "additional_catalogue_attempt": {
+        "url": "https://openlibrary.org/search.json?title=Tuvalu%3A+A+History&author=Simati+Faaniu&limit=3&fields=key%2Ctitle%2Cauthor_name%2Ccover_i",
+        "candidates": []
+      },
+      "country_connection_source": "https://www.persee.fr/doc/jso_0300-953x_1985_num_41_81_3177_t1_0281_0000_1"
+    }
+  ]
+}
