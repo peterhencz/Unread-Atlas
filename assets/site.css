@@ -522,3 +522,15 @@ h2[id^=region]{font-size:38px;font-weight:var(--font-heading);line-height:1.2;le
 
 #atlas-results{scroll-margin-top:calc(var(--atlasbar-height) + 24px)}
 .info-search{font-size:11px;letter-spacing:.04em;text-transform:uppercase}
+/* Standalone guide navigation and reading hierarchy. */
+.guide-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:0 0 40px;padding:0 0 28px;border-bottom:1px solid var(--line)}
+.guide-stats strong{display:block;font-size:34px;font-weight:500;letter-spacing:-1px;color:var(--accent)}
+.guide-stats span,.guide-dateline{font-size:12px;color:var(--muted)}
+.route-index{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0 36px}
+.route-index a{padding:8px 12px;border:1px solid var(--line);border-radius:20px;text-decoration:none;font-size:12px;line-height:1.4}
+.route-index a:hover{color:var(--accent);border-color:var(--accent)}
+.info-page .route{scroll-margin-top:110px}
+.info-page .route h2{font-size:23px;font-weight:500;line-height:1.3;margin:0 0 12px;letter-spacing:-.4px}
+.route-external{display:block;width:fit-content;font-size:11px;color:var(--muted);margin:3px 0 12px;text-decoration:none}
+.route-external:hover{color:var(--accent)}
+@media(max-width:650px){.guide-stats{gap:12px}.guide-stats strong{font-size:28px}.guide-stats span{font-size:11px}.info-page .route{scroll-margin-top:130px}}

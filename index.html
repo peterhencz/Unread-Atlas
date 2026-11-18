@@ -4391,6 +4391,9 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
  search.addEventListener('input',()=>{cancelTravel();filter()});
  document.getElementById('clear-search').addEventListener('click',()=>{search.value='';filter();search.focus()});
  jump.addEventListener('change',()=>{if(!jump.value)return;const id=jump.value;search.value='';filter();jump.value='';travelTo(document.getElementById(id));history.replaceState(null,'','#'+id)});
+ const initialQuery=new URLSearchParams(location.search).get("q");
+ if(initialQuery)search.value=initialQuery;
  filter();
+ if(initialQuery)requestAnimationFrame(()=>travelTo(document.getElementById("atlas-results")));
 })();
 </script></html>
