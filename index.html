@@ -223,7 +223,24 @@ h2[id^=region]{font-family:var(--atlas-font);font-weight:450;letter-spacing:-1.6
 .country-index-region{position:sticky;top:-2px;z-index:1;background:var(--paper);padding:14px 10px 8px;font:600 10px/1.5 var(--atlas-font);letter-spacing:.07em;text-transform:uppercase;color:var(--ink);border-bottom:1px solid var(--line);margin-bottom:5px}
 .country-index-region:not(:first-child){margin-top:14px}
 @media(max-width:650px){.masthead{flex-wrap:wrap;gap:16px}.brand{flex-basis:100%;white-space:nowrap}.masthead-links{width:100%;justify-content:space-between;flex-wrap:nowrap;gap:8px}}
-</style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a class="home-link" href="#top">Home ↑</a><a href="#guide">Guide ↗</a><a href="#region0">The atlas ↗</a></div></div>
+/* A single global toolbar, aligned with the sidebar and reading column. */
+.atlas-tools{position:fixed;top:0;left:0;right:0;z-index:40;display:grid;grid-template-columns:200px minmax(0,1fr);column-gap:40px;margin:0!important;padding:6px max(48px,calc((100vw - 1484px)/2));border:0;border-bottom:1px solid var(--line);background:var(--paper)}
+.atlas-tools .tool-row,.atlas-tools .sticky-nav-row{grid-column:2}
+.toolbar-home{grid-column:1;grid-row:1/3;align-self:start;display:flex;align-items:center;gap:9px;min-height:52px;color:var(--ink);text-decoration:none;font:500 14px/1.5 var(--atlas-font)}
+main{padding-top:calc(var(--atlasbar-height) + 16px)}
+.country-sidebar{top:calc(var(--atlasbar-height) + 24px);max-height:calc(100dvh - var(--atlasbar-height) - 48px)}
+.guide-panel-heading{top:var(--atlasbar-height)}
+.guide{scroll-margin-top:calc(var(--atlasbar-height) + 24px)}
+@media(max-width:1099px){.atlas-tools{grid-template-columns:72px minmax(0,1fr);column-gap:16px}.toolbar-home{font-size:12px}}
+@media(max-width:650px){.atlas-tools{padding:4px 18px;grid-template-columns:32px minmax(0,1fr);column-gap:10px}.toolbar-home{font-size:23px;min-height:48px}.toolbar-home span{display:none}.atlas-tools .tool-row{grid-template-columns:minmax(0,1fr) 100px;gap:8px}.atlas-tools .country-jump{padding-left:8px}.atlas-tools .country-jump select{font-size:12px}.atlas-tools .search-field{padding-left:0}.atlas-tools .search-icon{display:none}.masthead{padding-top:12px}.atlas-tools nav{gap:18px}}
+@media print{.atlas-tools{display:none}main{padding-top:0}.guide-panel-heading{position:static}}
+</style><div class="atlas-tools" id="atlas-tools"><a class="toolbar-home" href="#top" aria-label="Home — back to top">⌂ <span>Home</span></a><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Countries ↓</option></select></label></div><div class="sticky-nav-row"><nav aria-label="Browse regions">
+<a href="#region0">Europe</a>
+<a href="#region1">Asia</a>
+<a href="#region2">Africa</a>
+<a href="#region3">The Americas</a>
+<a href="#region4">Oceania</a>
+</nav><button type="button" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button></div></div><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a href="#guide">Guide ↗</a><a href="#region0">The atlas ↗</a></div></div>
 <header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread<span>Atlas.</span></h1><div class="hero-bottom"><p class="intro">A world of stories, waiting to be discovered. Explore classics, modern voices and contemporary fiction from every corner of the globe.</p><div class="hero-actions"><a href="#atlas-tools">Explore the atlas ↗</a><a href="#reading-routes">Find your next read</a></div></div></header>
 <div class="stats" aria-label="Atlas in numbers"><div><strong>197</strong>literary destinations</div><div><strong>744</strong>novels &amp; novellas</div><div><strong>456</strong>catalogue covers</div></div>
 <div class="note"><strong>Coverage:</strong> 128 destinations have five selections; 69 have fewer. The guide includes 195 countries, with Taiwan and Kosovo as additional literary destinations. Gaps are listed explicitly. A gap means that further suitable titles need to be identified, not that a country lacks a novel tradition.</div>
@@ -343,13 +360,7 @@ h2[id^=region]{font-family:var(--atlas-font);font-weight:450;letter-spacing:-1.6
 <li><a href="https://www.nyrb.com/products/season-of-migration-to-the-north">Season of Migration to the North — publisher record</a></li>
 <li><a href="https://www.penguinrandomhouse.com/books/653303/independent-people-by-halldor-laxness-introduction-by-john-freeman/">Independent People — publisher record</a></li>
 </ul></div></section></div>
-<div class="atlas-layout"><aside class="country-sidebar" aria-label="Country index"><div class="sidebar-heading">The atlas <span>197 destinations</span></div><nav class="country-index" aria-label="Browse countries"></nav></aside><div class="atlas-content"><div class="atlas-tools" id="atlas-tools"><div class="tool-row"><label class="search-field"><span class="search-icon" aria-hidden="true">⌕</span><span class="sr-only">Search by country, author or book title</span><input type="search" id="atlas-search" placeholder="Country, author or title…" autocomplete="off" aria-controls="atlas-results"></label><label class="country-jump"><span class="sr-only">Jump to a country</span><select aria-label="Jump to a country" id="country-jump"><option value="">Countries ↓</option></select></label></div><div class="sticky-nav-row"><a class="sticky-home" href="#top" aria-label="Home — back to top">⌂<span>Home</span></a><nav aria-label="Browse regions">
-<a href="#region0">Europe</a>
-<a href="#region1">Asia</a>
-<a href="#region2">Africa</a>
-<a href="#region3">The Americas</a>
-<a href="#region4">Oceania and additional destinations</a>
-</nav><button type="button" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button></div></div><p id="search-status" class="search-status" role="status" aria-live="polite"></p><div class="empty-state" id="empty-state" hidden><strong>No stories found.</strong><p>Try another country, author or book title.</p><button type="button" id="clear-search">Clear search ↗</button></div><div id="atlas-results">
+<div class="atlas-layout"><aside class="country-sidebar" aria-label="Country index"><div class="sidebar-heading">The atlas <span>197 destinations</span></div><nav class="country-index" aria-label="Browse countries"></nav></aside><div class="atlas-content"><p id="search-status" class="search-status" role="status" aria-live="polite"></p><div class="empty-state" id="empty-state" hidden><strong>No stories found.</strong><p>Try another country, author or book title.</p><button type="button" id="clear-search">Clear search ↗</button></div><div id="atlas-results">
 <h2 id="region0">Europe</h2>
 <section><h3>Albania<span class="count">5/5 selections</span></h3>
 <p class="pick"><strong>Starting point:</strong> Ismail Kadare — <em>The Palace of Dreams</em></p>
@@ -5189,7 +5200,7 @@ h2[id^=region]{font-family:var(--atlas-font);font-weight:450;letter-spacing:-1.6
 </td></tr>
 </tbody></table>
 </section>
-<h2 id="region4">Oceania and additional destinations</h2>
+<h2 id="region4">Oceania</h2>
 <section><h3>Australia<span class="count">5/5 selections</span></h3>
 <p class="pick"><strong>Starting point:</strong> Patrick White — <em>The Tree of Man</em></p>
 <table><thead><tr><th class="cover">Cover</th><th>Book and links</th><th>Themes and reading notes</th></tr></thead><tbody>
@@ -5501,6 +5512,17 @@ Andorra (1/5) · Liechtenstein (0/5) · Luxembourg (1/5) · Malta (1/5) · Monac
  addEventListener('touchstart',cancelTravel,{passive:true});
  addEventListener('keydown',event=>{if(['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(event.key)&&!event.target.matches('input,select,textarea'))cancelTravel()});
  document.querySelectorAll('a[href="#top"]').forEach(link=>link.addEventListener('click',event=>{event.preventDefault();travelTo(document.getElementById('top'));history.replaceState(null,'','#top')}));
+ // One shared order for the index, reading list and scroll tracking.
+ const results=document.getElementById('atlas-results');
+ const regionHeadings=[...results.querySelectorAll(':scope > h2')];
+ const orderedSections=indexOptions.map(option=>document.getElementById(option.value));
+ let renderedRegion=-1;
+ for(const section of orderedSections){
+   const group=countryRegion.get(section.id);
+   if(group!==renderedRegion){results.append(regionHeadings[group]);renderedRegion=group}
+   results.append(section);
+ }
+ sections.sort((a,b)=>orderedSections.indexOf(a.element)-orderedSections.indexOf(b.element));
  const regions=[...document.querySelectorAll('#atlas-results > h2')].map(heading=>{let next=heading.nextElementSibling,group=[];while(next&&next.tagName!=='H2'){if(next.tagName==='SECTION')group.push(next);next=next.nextElementSibling}return {heading,group}});
  function filter(){
   const query=normalize(search.value),terms=query.split(' ').filter(Boolean);let countries=0,books=0;
