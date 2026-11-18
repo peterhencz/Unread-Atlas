@@ -112,6 +112,42 @@ html[data-theme=dark] #atlas-results>section>h3{background:transparent}
 
 .editorial[open]>summary{position:sticky;top:0;z-index:25;background:var(--paper);border-bottom:1px solid var(--line);justify-content:space-between;min-height:56px}.editorial[open]>summary::after{flex-shrink:0;font-size:22px;padding:0 8px}
 @media print{.editorial[open]>summary{position:static}}
+/* Separate book panels: the existing rows remain the search and data source. */
+:root{--book-surface:#fffefa;--book-outline:#d3cec5}
+html[data-theme=dark]{--book-surface:#222221;--book-outline:#484641}
+#atlas-results table{display:block;width:100%;border:0}
+#atlas-results thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+#atlas-results tbody{display:grid;gap:22px}
+#atlas-results tbody tr{display:grid;grid-template-columns:110px minmax(0,1fr) minmax(0,1.1fr);gap:28px;align-items:start;padding:26px;border:1px solid var(--book-outline);border-radius:14px;background:var(--book-surface)}
+#atlas-results td,#atlas-results tbody tr:last-child td{display:block;width:auto;min-width:0;padding:0;border:0;overflow-wrap:anywhere}
+#atlas-results .cover img{width:110px;height:auto;max-height:174px;border-radius:3px;object-fit:contain;object-position:top left}
+#atlas-results .nocover{width:110px;min-height:158px;border:1px solid var(--line);border-radius:3px;background:var(--paper);font-size:10px}
+#atlas-results .book>strong{display:block;font:500 clamp(23px,2.2vw,29px)/1.18 "Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:-.7px;text-wrap:pretty}
+#atlas-results .author{font-size:16px;line-height:1.45;margin-top:10px}
+#atlas-results .publication{margin-top:14px;font-size:11px}
+#atlas-results .links{display:flex;flex-wrap:wrap;gap:5px 16px;margin-top:12px;font-size:11px;line-height:1.6}
+#atlas-results .links+.links{margin-top:6px}
+#atlas-results .links br{display:none}
+#atlas-results .links a{text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
+#atlas-results .links a:hover{color:var(--ink);text-decoration-color:currentColor}
+#atlas-results .badge{display:inline-block;margin:12px 0 0;padding:3px 7px;border:1px solid var(--line);border-radius:3px;font:9px/1.5 monospace;text-transform:uppercase;letter-spacing:.3px}
+#atlas-results td.reason{align-self:stretch;border-left:1px solid var(--line);padding:2px 0 2px 26px;font-size:14px;line-height:1.7}
+#atlas-results .reason p{margin:0 0 10px}
+#atlas-results .reason p:last-child{margin-bottom:0}
+@media(max-width:900px){#atlas-results tbody tr{grid-template-columns:90px minmax(0,1fr) minmax(0,1fr);gap:20px;padding:22px}#atlas-results .cover img{width:90px;max-height:144px}#atlas-results .nocover{width:90px;min-height:132px}#atlas-results td.reason{padding-left:20px;font-size:13px}}
+@media(max-width:650px){
+ #atlas-results tbody{gap:18px}
+ #atlas-results tbody tr{grid-template-columns:78px minmax(0,1fr);gap:20px 18px;padding:20px;border-radius:12px}
+ #atlas-results .cover img{width:78px;max-height:124px}
+ #atlas-results .nocover{width:78px;min-height:114px;font-size:9px}
+ #atlas-results .book>strong{font-size:23px;letter-spacing:-.5px}
+ #atlas-results .author{font-size:15px;margin-top:8px}
+ #atlas-results .publication{margin-top:12px;font-size:10px}
+ #atlas-results .links{font-size:10px;gap:5px 12px}
+ #atlas-results td.reason{grid-column:1/-1;border-left:0;border-top:1px solid var(--line);padding:16px 0 0;font-size:13px;line-height:1.65}
+}
+@media(max-width:350px){#atlas-results tbody tr{grid-template-columns:66px minmax(0,1fr);padding:16px;column-gap:14px}#atlas-results .cover img{width:66px;max-height:106px}#atlas-results .nocover{width:66px;min-height:98px}#atlas-results .book>strong{font-size:21px}}
+@media print{#atlas-results tbody tr{break-inside:avoid;background:white;grid-template-columns:70px 1fr 1fr;gap:18px;padding:16px;border-radius:0}#atlas-results .cover img{width:70px;max-height:110px}}
 </style><main id="top"><div class="masthead"><a class="brand" href="#top">UNREAD<span>—</span>ATLAS</a><div class="masthead-links"><button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode" aria-pressed="false">Dark mode ◐</button><a href="#reading-routes">Reading routes ↗</a><a href="#region0">The atlas ↗</a></div></div>
 <header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread<span>Atlas.</span></h1><div class="hero-bottom"><p class="intro">A world of stories, waiting to be discovered. Explore classics, modern voices and contemporary fiction from every corner of the globe.</p><div class="hero-actions"><a href="#atlas-tools">Explore the atlas ↗</a><a href="#reading-routes">Find your next read</a></div></div></header>
 <div class="stats" aria-label="Atlas in numbers"><div><strong>197</strong>literary destinations</div><div><strong>744</strong>novels &amp; novellas</div><div><strong>456</strong>catalogue covers</div></div>
