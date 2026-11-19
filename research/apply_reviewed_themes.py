@@ -29,7 +29,7 @@ def run():
         entry = entries[key]
         seen.add(key)
         count += 1
-        topics = '<div class="book-topics" aria-label="Reading themes">' + ''.join('<span>' + html.escape(tag) + '</span>' for tag in entry['tags']) + '</div>' if entry['tags'] else ''
+        topics = '<div class="book-topics" aria-label="Reading themes">' + ''.join('<button type="button" aria-pressed="false">' + html.escape(tag) + '</button>' for tag in entry['tags']) + '</div>' if entry['tags'] else ''
 
         def reason(match):
             body = re.sub(r'<div class="book-topics"[^>]*>.*?</div>', '', match.group(1), flags=re.S)

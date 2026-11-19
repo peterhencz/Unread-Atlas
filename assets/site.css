@@ -485,8 +485,6 @@ h2[id^=region]{font-size:38px;font-weight:var(--font-heading);line-height:1.2;le
 @media(max-width:650px){.footer-intro{grid-template-columns:1fr;gap:12px}.site-footer{margin-top:44px}}
 /* Short source-backed notes, with a compact, consistent set of themes. */
 .book-topics{display:flex;flex-wrap:wrap;gap:6px 12px;margin-top:12px}
-.book-topics span{font:500 11px/1.5 var(--atlas-font);color:var(--muted)}
-.book-topics span+span::before{content:'·';margin-right:12px;color:var(--accent)}
 .reading-note-source{display:inline-block;margin-top:14px;font:400 11px/1.6 var(--atlas-font);color:var(--muted);text-decoration:none}
 .reading-note-source:hover{color:var(--accent);text-decoration:underline}
 #atlas-results td.reason .pending-note{font-size:12px;color:var(--muted)}
@@ -681,3 +679,11 @@ h2[id^=region]{font-size:38px;font-weight:var(--font-heading);line-height:1.2;le
 .surprise-actions button:first-child{color:var(--accent);font-weight:500}
 #atlas-results tr:focus{outline:2px solid var(--accent);outline-offset:6px}
 @media(max-width:650px){.surprise-pick{padding:20px;margin-top:22px}.surprise-label span{display:block;margin:6px 0 0}}
+
+/* Reading themes double as compact, keyboard-accessible filters. */
+.book-topics button{appearance:none;border:0;border-bottom:1px solid transparent;border-radius:0;background:transparent;padding:4px 0;color:var(--muted);font:500 11px/1.5 var(--atlas-font);text-align:left;cursor:pointer}
+.book-topics button:hover,.book-topics button[aria-pressed=true]{color:var(--ink);border-bottom-color:var(--accent)}
+.book-topics button:focus-visible,.active-theme-filter button:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+.active-theme-filter{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px 20px;margin:0 0 28px;padding:12px 0;border-block:1px solid var(--line);font:400 13px/1.6 var(--atlas-font);color:var(--muted)}
+.active-theme-filter strong{color:var(--ink);font-weight:500}
+.active-theme-filter button{border:0;border-bottom:1px solid var(--accent);background:transparent;padding:6px 0;color:var(--ink);font:500 12px/1.5 var(--atlas-font);cursor:pointer}
