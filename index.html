@@ -8,7 +8,7 @@
 <header class="hero"><div class="eyebrow">An independent literary atlas <span class="edition">Vol. 01 / 2026</span></div><h1>Unread <span>Atlas.</span></h1><div class="hero-bottom"><div class="hero-actions"><a href="#atlas-results">Explore the atlas</a><a href="reading-routes.html">Find your next read</a><button type="button" class="surprise-trigger" id="surprise-me" aria-controls="surprise-pick" aria-expanded="false">Surprise me</button></div></div><section class="surprise-pick" id="surprise-pick" hidden aria-labelledby="surprise-title"><p class="surprise-label">An unexpected detour <span id="surprise-country"></span></p><h2 id="surprise-title"></h2><p id="surprise-author"></p><p id="surprise-summary"></p><div class="surprise-actions"><button type="button" id="visit-surprise">Meet this book</button><button type="button" id="another-surprise">Try another</button><button type="button" id="close-surprise">Close</button></div></section></header>
 <div class="stats" aria-label="Atlas in numbers"><div><strong>197</strong>literary destinations</div><div><strong>775</strong>books to discover</div><div><strong>718</strong>catalogue covers</div></div>
 
-<div class="atlas-layout"><aside class="country-sidebar" aria-label="Country index"><nav class="country-index" aria-label="Browse countries"></nav></aside><div class="atlas-content"><p id="search-status" class="search-status" role="status" aria-live="polite"></p><div class="active-theme-filter" id="active-theme-filter" hidden><span>Reading theme: <strong id="active-theme-name"></strong></span><button type="button" id="clear-theme">Clear theme</button></div><div class="empty-state" id="empty-state" hidden><strong>No books match your search.</strong><p>Try another search or clear the reading theme. Accents are optional.</p><button type="button" id="clear-search">Clear search</button></div><div id="atlas-results">
+<div class="atlas-layout"><aside class="country-sidebar" aria-label="Country index"><nav class="country-index" aria-label="Browse countries"></nav></aside><div class="atlas-content"><p id="search-status" class="search-status" role="status" aria-live="polite"></p><div class="active-theme-filter" id="active-theme-filter"><label class="theme-select-field" for="reading-theme"><span>Reading theme:</span><select id="reading-theme" aria-controls="atlas-results" aria-describedby="search-status"><option value="">All themes</option></select></label><button type="button" id="clear-theme" hidden>Clear theme</button></div><div class="empty-state" id="empty-state" hidden><strong>No books match your search.</strong><p>Try another search or clear the reading theme. Accents are optional.</p><button type="button" id="clear-search">Clear search</button></div><div id="atlas-results">
 <h2 id="region0">Europe</h2>
 <section><h3>Albania</h3>
 <p class="pick"><strong>Starting point:</strong> Ismail Kadare — <em>The Palace of Dreams</em></p>
@@ -4311,7 +4311,9 @@
  new ResizeObserver(updateBarHeight).observe(atlasBar);updateBarHeight();
  const search=document.getElementById('atlas-search'), jump=document.getElementById('country-jump'),status=document.getElementById('search-status');
  let selectedTheme="";
- const themeFilter=document.getElementById("active-theme-filter"),themeName=document.getElementById("active-theme-name"),clearTheme=document.getElementById("clear-theme");
+ const themeFilter=document.getElementById("active-theme-filter"),themeSelect=document.getElementById("reading-theme"),clearTheme=document.getElementById("clear-theme");
+ const updateThemeFilterHeight=()=>document.documentElement.style.setProperty('--theme-filter-height',Math.ceil(themeFilter.getBoundingClientRect().height)+'px');
+ new ResizeObserver(updateThemeFilterHeight).observe(themeFilter);updateThemeFilterHeight();
  const normalize=value=>value.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim();
  const sections=[...document.querySelectorAll('#atlas-results > section')].map((section,index)=>{
    section.id='country-'+index;
@@ -4319,6 +4321,11 @@
    const rows=[...section.querySelectorAll('tbody tr')].map(row=>({element:row,themes:[...row.querySelectorAll('.book-topics button')].map(button=>button.textContent.trim()),text:normalize(country+' '+(row.querySelector('.book strong')?.textContent||'')+' '+(row.querySelector('.author')?.textContent||''))}));
    const option=document.createElement('option'); option.value=section.id;option.textContent=country;jump.append(option);
    return {element:section,country:normalize(country),rows,notes:[...section.querySelectorAll('.pick,.gap')]};
+ });
+ const themeCounts=new Map();
+ for(const item of sections)for(const row of item.rows)for(const theme of row.themes)themeCounts.set(theme,(themeCounts.get(theme)||0)+1);
+ [...themeCounts].sort(([a],[b])=>a.localeCompare(b)).forEach(([theme,count])=>{
+  const option=document.createElement('option');option.value=theme;option.textContent=theme;themeSelect.append(option);
  });
  const sorted=[...jump.options].slice(1).sort((a,b)=>a.textContent.localeCompare(b.textContent));sorted.forEach(option=>jump.append(option));
  const countryIndex=document.querySelector('.country-index');
@@ -4351,7 +4358,7 @@
    window.closeAtlasPanels?.();
    cancelTravel();travelTarget=target;
    const from=window.scrollY;
-   const destination=()=>target.id==='top'?0:Math.max(0,window.scrollY+target.getBoundingClientRect().top-atlasBar.offsetHeight-24);
+   const destination=()=>target.id==='top'?0:Math.max(0,window.scrollY+target.getBoundingClientRect().top-atlasBar.offsetHeight-themeFilter.offsetHeight-24);
    const duration=matchMedia('(prefers-reduced-motion: reduce)').matches?0:Math.min(1100,420+Math.abs(destination()-from)*.025);
    const started=performance.now();
    markCountry(target.id==='top'?'':target.id,true);
@@ -4387,7 +4394,7 @@
  });
  function updateCountryIndex(){
    indexFrame=0;if(travelTarget)return;
-   const edge=atlasBar.offsetHeight+36;
+   const edge=atlasBar.offsetHeight+themeFilter.offsetHeight+36;
    if(document.getElementById('atlas-results').getBoundingClientRect().bottom<edge){markCountry('');return}
    let current=null;
    for(const item of sections){if(item.element.hidden)continue;if(item.element.getBoundingClientRect().top<=edge)current=item;else break}
@@ -4422,7 +4429,7 @@
    if(show){countries++;books+=visible}
   }
   regions.forEach(({heading,group})=>heading.hidden=group.every(section=>section.hidden));
-  themeFilter.hidden=!selectedTheme;themeName.textContent=selectedTheme;
+  themeSelect.value=selectedTheme;clearTheme.hidden=!selectedTheme;
   document.querySelectorAll('.book-topics button').forEach(button=>button.setAttribute('aria-pressed',String(button.textContent.trim()===selectedTheme)));
   scheduleIndex();
   document.getElementById('empty-state').hidden=countries!==0;
@@ -4433,16 +4440,17 @@
  search.addEventListener('input',()=>{
   cancelTravel();filter();
   // Keep the first match in view even when filtering far down the atlas.
-  if(search.value.trim())window.scrollTo({top:Math.max(0,window.scrollY+(selectedTheme?themeFilter:results).getBoundingClientRect().top-atlasBar.offsetHeight-24),behavior:'instant'});
+  if(search.value.trim())window.scrollTo({top:Math.max(0,window.scrollY+themeFilter.getBoundingClientRect().top-atlasBar.offsetHeight-24),behavior:'instant'});
  });
  function clearSearch(){cancelTravel();search.value='';selectedTheme='';filter();search.focus();window.scrollTo({top:Math.max(0,window.scrollY+results.getBoundingClientRect().top-atlasBar.offsetHeight-24),behavior:'instant'})}
- function showFilteredResults(){window.scrollTo({top:Math.max(0,window.scrollY+(selectedTheme?themeFilter:results).getBoundingClientRect().top-atlasBar.offsetHeight-24),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})}
+ function showFilteredResults(){window.scrollTo({top:Math.max(0,window.scrollY+themeFilter.getBoundingClientRect().top-atlasBar.offsetHeight-24),behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})}
  results.addEventListener('click',event=>{
   const button=event.target.closest('.book-topics button');if(!button)return;
   cancelTravel();window.closeAtlasPanels?.();selectedTheme=button.textContent.trim();filter();
   clearTheme.focus({preventScroll:true});showFilteredResults();
  });
- clearTheme.addEventListener('click',()=>{cancelTravel();selectedTheme='';filter();status.tabIndex=-1;status.focus({preventScroll:true});showFilteredResults()});
+ themeSelect.addEventListener('change',()=>{cancelTravel();selectedTheme=themeSelect.value;filter();showFilteredResults()});
+ clearTheme.addEventListener('click',()=>{cancelTravel();selectedTheme='';filter();themeSelect.focus({preventScroll:true});showFilteredResults()});
  document.getElementById('clear-search').addEventListener('click',clearSearch);
  document.getElementById('reset-search').addEventListener('click',clearSearch);
  const surprisePanel=document.getElementById('surprise-pick'),surpriseButton=document.getElementById('surprise-me');

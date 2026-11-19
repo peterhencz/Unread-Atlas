@@ -687,3 +687,23 @@ h2[id^=region]{font-size:38px;font-weight:var(--font-heading);line-height:1.2;le
 .active-theme-filter{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px 20px;margin:0 0 28px;padding:12px 0;border-block:1px solid var(--line);font:400 13px/1.6 var(--atlas-font);color:var(--muted)}
 .active-theme-filter strong{color:var(--ink);font-weight:500}
 .active-theme-filter button{border:0;border-bottom:1px solid var(--accent);background:transparent;padding:6px 0;color:var(--ink);font:500 12px/1.5 var(--atlas-font);cursor:pointer}
+
+/* Keep the theme picker as a quiet editorial line, rather than a form box. */
+.theme-select-field{display:flex;align-items:center;gap:5px;flex:1;min-width:0}
+.theme-select-field>span{flex-shrink:0}
+.theme-select-field select{flex:1;min-width:0;max-width:280px;min-height:36px;padding:6px 20px 6px 0;border:0;border-radius:0;background:transparent;color:var(--ink);font:400 13px/1.6 var(--atlas-font);cursor:pointer;text-overflow:ellipsis}
+.theme-select-field select:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.theme-select-field option{background:var(--paper);color:var(--ink)}
+.active-theme-filter{gap:8px 12px;padding-block:8px}
+.active-theme-filter>button{flex-shrink:0;border-bottom-color:transparent;font-weight:400}
+.active-theme-filter>button:hover{border-bottom-color:var(--accent)}
+@media(max-width:650px){.theme-select-field select{min-height:40px;max-width:100%}.active-theme-filter{font-size:12px;flex-wrap:nowrap}.theme-select-field select{font-size:13px}}
+.active-theme-filter{position:sticky;top:var(--atlasbar-height);z-index:15;background:var(--paper)}
+#atlas-results>section>h3,html[data-theme=dark] #atlas-results>section>h3{top:calc(var(--atlasbar-height) + var(--theme-filter-height,0px) - 1px)}
+#atlas-results>section,#atlas-results>h2{scroll-margin-top:calc(var(--atlasbar-height) + var(--theme-filter-height,0px) + 24px)}
+@media print{.active-theme-filter{display:none}}
+
+/* Country and reading-theme selectors share one quiet control style. */
+.atlas-tools .country-jump select,.theme-select-field select{appearance:none;-webkit-appearance:none;min-width:0;min-height:44px;padding:10px 0;border:0;border-radius:0;background:transparent;color:var(--ink);font:500 13px/1.5 var(--atlas-font);letter-spacing:0;text-transform:none;text-overflow:ellipsis;cursor:pointer}
+.atlas-tools .country-jump select:focus-visible,.theme-select-field select:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.atlas-tools .country-jump select option,.theme-select-field select option{background:var(--paper);color:var(--ink)}
