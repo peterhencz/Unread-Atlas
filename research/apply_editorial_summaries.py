@@ -28,4 +28,7 @@ def run():
    row.update(status='source_based_thematic_note',note_type='editorial_summary',summary=e['summary'],excerpt_words=0,word_count=e['word_count'],source=e['source'],source_type='Checked book description',method=e['method'],checked_at=e['checked_at'])
  p.write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n')
  print('Applied',len(seen),'editorial summaries')
+ if (ROOT/'research/reviewed-themes.json').exists():
+  from apply_reviewed_themes import run as apply_reviewed_themes
+  apply_reviewed_themes()
 if __name__=='__main__':run()
